@@ -1,0 +1,485 @@
+;;
+
+11
+finalS1, 1, 1
+序幕
+終於開始的被顛覆的故事。脈絡、類型、可能性、逼真度都消失的此一故事的行蹤……
+||
+zh_tw, 3, https://www.bilibili.com/video/BV17V4y1t7m5/, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+被推翻的故事
+F
+||
+zh_tw, 1, 0
+//
+一个被推翻的故事，其意义之类全部分解、扭曲在一起，失去了一切的意义与可能――这正是世界一开始的样子，只是被遗忘了而已。
+
+OST_142
+BG_CS_PV4_005.jpg, BG_CS_PV4_071.jpg, BG_CS_PV4_162.jpg, BG_CS_PV4_076.jpg,BG_CS_PV2_70.jpg
+--
+被扭曲的创作
+||
+zh_tw, 1, 1:00
+//
+这个故事将要被扭曲，丢失所有的一切，结局和过程终将是悲哀和无可逆转的、亵渎一切的。
+
+OST_142
+BG_MainOffice_Erode.jpg, BG_CS_PV4_008.jpg, BG_CS_PV4_007.jpg, Unknown.jpg, BG_CS_PV4_106.jpg, BG_CS_PV4_115.jpg, BG_CS_PV4_145.jpg, BG_CS_S1Final_01.jpg
+--
+奇迹的始发点
+False
+||
+zh_tw,1, 01:45
+//
+故事主题曲播放，完成对最终篇的故事预告。
+
+OST_34
+BG_CS_PV4_074.jpg, BG_CS_PV4_074_2.jpg, BG_CS_PV4_074_2_En.jpg, BG_CS_PV4_074_2_Th.jpg, BG_CS_PV4_074_2_Tw.jpg, BG_CS_S1Final_02.jpg, BG_CS_S1Final_02_En.jpg, BG_CS_S1Final_02_Th.jpg, BG_CS_S1Final_02_Tw.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 2
+失敗
+葛葉過去曾拯救因色彩而陷入危機的聖亞。老師在夢中遇見了擁有被侵蝕的光環的少女，後來他和琳談論這個充滿厄運的夢境。
+||
+zh_tw, 3, https://www.bilibili.com/video/BV17V4y1t7m5/?p=2, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+遭遇色彩的圣亚
+||
+zh_tw, 1,5
+//
+圣亚在白日梦中遇到了一个神秘人，后者对她遇到了色彩却还能保持意识一事感到些许震惊。她表示色彩对基沃托斯的居民就像毒药般，会将他们的肉体扭曲、侵蚀其精神――虽然不一定致死，但也至少会扭曲成另一个存在。
+Kuzunoha, Seia
+OST_73
+BG_HyakkiyakoLookOut.jpg
+--
+中断的仪式
+False
+||
+zh_tw, 1,01:08
+//
+神秘人回顾了圣亚所经历的事情，对贝雅特里谢试图使用色彩力量改变自己一事嗤之以鼻。
+Beatrice
+OST_92
+BG_SanctumOfBeatrice.jpg, BG_CS_Arius_03.jpg
+//
+这时候神秘人才意识到，圣亚仅仅是通过所谓“仪式”的窗口看到而非直接接触，这样便保全了自己――但她并不能保证肉体能保持完整。神秘人自称自己是百鬼夜行的大预言家葛业，她说能帮助圣亚避开肉体上的问题，但这需要代价。
+Kuzunoha, Seia
+OST_73
+BG_HyakkiyakoLookOut.jpg
+--
+被剥夺的预知能力
+False
+||
+zh_tw, 1, 02:04
+//
+葛业表示，由于色彩会扭曲他们的神秘，因而为了避免被侵蚀，最好就是放弃她具有的预测未来的能力。
+Kuzunoha, Seia
+OST_73
+BG_HyakkiyakoLookOut.jpg
+--
+最后一次预知
+False
+||
+zh_tw, 1, 02:22
+//
+圣亚毫不犹豫的同意了，并在被剥夺的过程中最后一次预见了故事的走向。
+Seia, Kuzunoha
+
+BG_CS_PV4_008.jpg, BG_CS_PV4_007.jpg, BG_CS_PV4_006.jpg, BG_CS_PV4_115.jpg, BG_CS_PR_09.jpg, BG_CS_PR_08.jpg
+--
+盖玛特利亚全体会议
+False
+||
+zh_tw, 1, 2:54
+//
+黑色西装人、玛艾斯托洛、戈尔孔特和贝雅特里谢一同参加了会议。黑服在会议上指出自己最近找到了“无名祭司”的遗产，一些由以前的基沃托斯居民所留下的技术，市场价应该相当不错；但黑服话锋一转，指出他这次观测到了更不可思议的东西：方舟。黑服进一步说，这一切事情其实不应该发生，事情已经脱离了他们的计划。
+BlackSuit, Maestro, Golconde, Beatrice
+OST_70
+BG_GematriaCorridor.jpg BG_CS_PV4_003.jpg
+--
+被发觉的基沃托斯
+False
+||
+zh_tw, 1, 04:30
+//
+黑色西装人和玛艾斯托洛同时指出，由于贝雅特里谢所执行的“仪式”，色彩可能已经发现了基沃托斯。
+BlackSuit
+OST_70
+BG_CS_Arius_03.jpg
+//
+戈尔孔特和玛艾斯托洛指责贝雅特里谢无视色彩可能将带来的巨大灾难，而后者则表示她只不过是想利用色彩的力量罢了。黑服表示同意，但表示目前尚不能断定色彩究竟发现基沃托斯没有。贝雅特里谢指出造成他们现在一切问题的就是夏莱的老师，因为这是在他的故事的世界里，他是无敌的。
+BlackSuit Maestro Golconde Beatrice
+OST_70
+BG_GematriaCorridor.jpg BG_CS_PV4_003.jpg
+--
+色彩的接近
+False
+||
+zh_tw, 1, 05:45
+//
+贝雅特里谢承认是她告诉了色彩基沃托斯的位置，并表示色彩正在接近基沃托斯。众人无语。
+Beatrice, BlackSuit, Maestro, Golconde
+OST_122
+BG_GematriaCorridor.jpg BG_CS_Arius_03.jpg
+--
+梦中的白子
+False
+||
+zh_tw, 1, 6:13
+//
+一个未知的地方，下着雨。老师的箱子被白子所破坏，还被白子的枪口对着。白子喃喃着“没有保护老师的其他办法了”，开了枪。
+ShirokoTerror
+
+BG_CS_S1Final_03.jpg, BG_CS_PR_08.jpg, BG_CS_S1Final_04.jpg
+--
+完好的箱子
+False
+||
+zh_tw, 1, 6:49
+//
+彩奈把老师叫起来，询问老师是不是又梦到了那个梦。老师仔细看了看她，确认没受伤后才放心。
+Arona
+OST_38
+BG_AronaRoom.jpg
+--
+在那时被结束生命的老师
+False
+||
+zh_tw, 1, 7:31
+//
+圣亚向老师讲述了她预知梦里的情节：世界的颜色褪去，老师被一个人举着枪对着，结束了生命。圣亚表示虽然无法准确道出将要发生的时间，但表示这一定和她先前的“基沃托斯的终焉”有关。
+Seia
+OST_135
+BG_TrinityTerrace_Night.jpg
+--
+世界的终焉
+False
+||
+zh_tw, 1, 08:37
+//
+圣亚向老师描述世界终焉时的样子。
+
+OST_135
+BG_CS_PV3_02_2.jpg, BG_CS_PV4_007.jpg
+--
+告诉琳
+False
+||
+zh_tw, 1, 08:23
+//
+老师决定将圣亚讲述的世界终焉这些事情报告给联邦学生会的琳。
+Arona
+OST_135
+BG_AronaRoom.jpg
+//
+随后老师请求阿罗娜联系琳。
+
+BG_CS_PR_06.jpg BG_GeneralMeetingRoom.jpg BG_CS_PV4_021.jpg
+--
+头疼的琳
+False
+||
+zh_tw 1 09:23
+//
+老师向琳讲述了终焉这件事。虽然两人都还不太算相信，但琳表示将会尽可能找出这一切的证据，同时确认所谓的“葛业”是否存在。
+Rin
+OST_16
+BG_ReceptionRoom.jpg
+;;
+
+;;
+
+11
+finalS1 1 3
+日常的龜裂（１）
+在阿拜多斯挖掘地發現某個東西的凱薩PMC，以及查覺到異變的對策委員會。聽到愛麗絲的身體沒有任何異常的消息後，遊戲開發部覺得很開心。另一方面，陽葵確認隱藏足跡的莉央留下的情報。
+||
+zh_tw, 3, https://www.bilibili.com/video/BV17V4y1t7m5/?p=3, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+沙漠地下的东西
+False
+//
+阿拜多斯沙漠，那里驻扎着的PMC士兵似乎挖到了一件大东西。他们立刻联系了PMC将军和联邦学生会的防卫室。
+PMC_Solider
+OST_27
+BG_Wilderness.jpg
+--
+异常的PMC兵力
+False
+||
+zh_tw, 1, 00:30
+//
+在路上骑车的白子看到，PMC似乎有大量兵力正在向沙漠地区移动。
+Shiroko, PMC_Solider
+OST_27
+BG_CityOffice.jpg
+--
+去看一眼沙漠
+False
+||
+zh_tw, 1, 52
+//
+白子向对策委员会众人报告了自己所看见的东西，指出这些天来PMC的军力移动相当奇怪。大家表示同意。星野提出不如大家偷偷溜进去看一眼，但被绫音提醒了之前的事情。这时有人提议询问老师的意见；虽然害怕打扰老师，绫音还是让老师有时间就来阿拜多斯一趟。
+Hoshino, Shrioko, Ayane, Serika, Nonomi
+OST_13
+BG_CommitteeRoom.jpg
+--
+搭上宇宙战舰的勇者
+False
+||
+zh_tw, 1, 02:04
+//
+绿不太同意桃井在“剑与魔法的RPG”里加上太空战舰这一要素。柚子和爱丽丝都觉得主意不错。
+Midori, Momoi, Yuzu, Aris
+OST_64
+BG_GameDevRoom.jpg
+--
+定期接受检查的爱丽丝
+False
+||
+zh_tw, 1, 02:35
+//
+爱丽丝刚刚接受了工程部和贝里塔斯的检查，并被要求要定期来访。贝里塔斯没有找到Kei的痕迹，不过爱丽丝表示，下一次见到Kei时，她会更加大力地把她打飞的。
+Aris, Midori, Momoi, Yuzu
+OST_64
+BG_GameDevRoom.jpg
+--
+真正登上宇宙战舰的那一天
+False
+||
+zh_tw, 1, 03:19
+//
+爱丽丝觉得“宇宙勇者”这个主意非常棒，畅想自己登上宇宙战舰的那一天。据说工程部正在不断钻研中。最后，桃井提出把游戏换成“太空歌剧”为背景的“弹幕射击游戏”，这让绿不是特别开心。
+Aris, Momoi, Yuzu, Midori
+OST_64
+BG_GameDevRoom.jpg
+--
+王女无法摆脱的命运
+False
+||
+zh_tw, 1, 04:00
+//
+Kei一直在暗处看着爱丽丝。Kei理解爱丽丝想要摆脱自己“王女”的身份，但指出命运最终会让她成为那样。
+ArisKey
+OST_73
+BG_RuinCenter.jpg
+--
+处理烂摊子的阳葵
+False
+||
+zh_tw, 1, 04:27
+//
+作为全千年最厉害的黑客，阳葵承担下了对莉央建造的都市的善后工作――虽然更多像是莉央直接推卸了责任。阳葵访问了莉央存储的数据，这才发现她掌握的东西之多，同时也有些理解了她的偏执。
+Himari
+OST_73
+BG_BigSisterRoom.jpg
+--
+基沃托斯的危机
+False
+||
+zh_tw, 1, 05:00
+//
+英美突然来到阳葵身边，她追问“大姐大”究竟说了什么。阳葵表示具体内容还需要时间，但大概就是要为其他特异现象做好准备，同时基沃托斯要迎来危机之类的。
+Eimi, Himari
+OST_73
+BG_BigSisterRoom.jpg
+--
+季的拜访
+False
+||
+zh_tw, 1, 5:29
+//
+季突然出现在两人面前，吓到了两人。季表示莉央只跟她说了“以后自由生活吧”云云，但她并不知道怎么做，于是就一直待着这里。阳葵询问季加入C&C的情况，季表示前辈们待她很好，但只是还有隔阂。最后阳葵决定，就此事先联系夏莱请求帮助。
+Toki, Himari, Eimi
+OST_73
+BG_BigSisterRoom.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 4
+日常的龜裂（２）
+櫻子查看了優斯提娜聖徒會留下的遺產。彌香的聽證會終於結束了，補課部的日常和平常一樣平靜。
+||
+zh_tw, 3, https://www.bilibili.com/video/BV17V4y1t7m5/?p=4, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+神秘的修女会服装
+False
+//
+修女会会长来到奥利斯自治区，找到了前一任会长留下的一套服装。
+Sakurako MemberOfSisterhood
+OST_129
+BG_AriusBasilica.jpg BG_Cathedral_Night.jpg
+//
+就在这时社员发现了奥利斯大教堂里仪式的痕迹，樱子立刻让人叫祭司过来。
+MemberOfSisterhood, Sakurako
+OST_129
+BG_CS_Arius_03.jpg BG_SanctumOfBeatrice.jpg
+--
+对弥香的听证会
+False
+||
+zh_tw, 1, 01:20
+//
+老师、茶会和一些三一学生共同参加了对弥香的听证会，听证会最后决定剥夺弥香作为茶会成员所有的权力等。弥香虽被释放，但被警告不要参加学业以外的活动。听证会以弥香没有异议结束。
+Nagisa, Seia, Mika
+OST_135
+BG_TrinityMeetingRoom.jpg BG_TrinityMeetingRoom3.jpg BG_TrinityMeetingRoom4.jpg
+--
+梓的秘密情报
+False
+||
+zh_tw, 1, 02:25
+//
+梓向补课部的众人表示，他从一个情报人手里取得了一个最高机密的情报。
+Azusa Hifumi Hanako Koharu
+OST_92
+BG_TrinityClassRoom2.jpg
+--
+佩洛洛吉拉限定玩偶
+False
+||
+zh_Tw, 1, 02:43
+//
+梓最后揭开谜底：佩洛洛吉拉玩偶。日步美听后兴奋不已，其他人则并不太感兴趣。梓表示虽然最后停产，但其中一个样品最近就流通了出来。尽管大家都买不起，但梓和日步美还是决定去看一眼也好。
+Azusa, Koharu, Hanako, Hifumi
+OST_91
+BG_TrinityClassRoom2.jpg
+--
+可疑的收藏商店
+False
+||
+zh_tw, 1, 04:20
+//
+补课部一行人来到了一家三一郊外的小店铺里。老板故弄玄虚，向各位展示了他所买到的佩洛洛玩偶。
+Hifumi Hanako Koharu Azusa
+OST_13
+BG_IndoorPlaza_Night3.jpg
+--
+被骗的收藏店老板
+False
+||
+zh_tw, 1,
+//
+梓和日步美大失所望：玩偶并不是所谓的佩洛洛吉拉，而是佩洛洛恐龙，两种完全不同的东西。众人大失所望。老板则后悔在黑市花了大价钱买下它。
+Azusa Hifumi Hanako
+OST_3
+BG_IndoorPlaza_Night3.jpg
+--
+不满判决的三一学生
+False
+||
+zh_tw, 1, 05:20
+//
+补习部一行人回到了学校，这时他们突然看见有人在抗议。
+Azusa Hifumi Hanako Koharu
+OST_22
+BG_TrinityCampus.jpg
+//
+三一学生内部有相当一部分不同意对弥香的结果。一花在现场维持秩序，但还是有点不太够。
+StudentOfTrinity Ichika
+OST_32
+BG_TrinityCampusPlaza.jpg
+--
+判决后的舆论
+False
+||
+zh_tw, 1, 5:46
+//
+花子解释，这次判决后，三一的形势一下发生了变化。茶会颜面扫地不被信任、教父派的一些人企图用空出的位子制造混乱――还有一些人纯粹就是跟风。小春对弥香基本没有恶意。梓表示，弥香帮助了奥利斯小队，她更不可能对她有恶意。
+Hifumi Hanako Azusa Koharu
+OST_22
+BG_TrinityCampus.jpg
+--
+被卷入纷争的甜点部
+False
+||
+zh_tw, 1, 7:28
+//
+放学后的甜点部正好经过这里，遇到了不满判决结果的学生们。本来甜点部是为了来吃冰激凌巧克力蛋糕的，结果并没有看到。众人询问不满的学生们，后者不但没回答还试图将他们卷入其中。
+Natsu Yoshimi Airi Kazusa StudentOfTrinity
+OST_130
+BG_TrinityCampus.jpg
+--
+被驱走的冰激凌车
+False
+||
+zh_tw, 1, 8:48
+//
+众人讨论了一会弥香的事，之后回到原本的冰激凌上。夏向示威学生询问是否看到冰激凌车，而后者表示因为会妨碍他们，所以把它赶走了。爱莉追问冰激凌车的下落，没想到遭到示威学生的不悦，将其推开。
+StudentOfTrinity Natsu Yoshimi Airi Kazusa
+OST_130
+BG_TrinityCampus.jpg
+--
+被欺负的爱莉
+False
+||
+zh_tw, 1, 09:22
+//
+因为他们对爱莉动了粗，甜点部众人与其他人起了冲突。一花见状，不得不申请支援――甜点部看到后为避免麻烦，立刻逃跑。
+Natsu Kazusa Yoshimi StudentOfTrinity Airi Ichika
+OST_128
+BG_TrinityCampus.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 5
+日常的龜裂（３）
+RABBIT小隊的隊員協助奇普托斯的居民，且在公園繼續生活。另一方面，在奇普托斯的某處舉行了蓋瑪特利亞會議。
+||
+zh_tw, 1, https://www.bilibili.com/video/BV17V4y1t7m5/?p=5, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+乐于助民的RABBIT小队
+False
+//
+RABBIT小队帮助市民解决问题。市民向他们表示感谢，指出在小镇决定变更行政级别后，许多基础设施就被拆除，生活不便。RABBIT小队表示，如有需要就去公园找他们；市民给了他们烤串作为报酬。
+Saki Moe Miyako Miyu
+OST_65
+BG_CityTown.jpg
+--
+和平的一天
+False
+||
+zh_tw, 1,
+//
+RABBIT小队伴着烧旺的柴火，吃着新鲜的烤串，感到生活相当美好。萌还拿出了之前一直放着的汽水和蘑菇。他们的生活愉快而安定。
+Miyu Saki Moe Miyako
+OST_113
+BG_SRTCampSite_Night.jpg
+--
+秘密计划
+False
+||
+zh_tw, 1, 03:10
+//
+联邦学生会的防卫部部长花耶收到了秘密来电。她提到计划很快就要开始了。
+Kaya
+
+BG_DrawingRoom_Night.jpg
+--
+迫近的色彩
+False
+||
+zh_tw, 1, 3:36
+//
+众人听了贝雅特里谢的话，大吃一惊。他们指出色彩会将基沃托斯毁于一旦，他们的探究也将付之东流，但贝雅特里谢并不在乎。贝雅特里谢重申，她的目标是为了变成伟大的存在，抹除老师；这一目标遭到众人一致反对。
+BlackSuit Beatrice Maestro Golconde
+OST_92
+BG_CS_PV4_003.jpg BG_GematriaCorridor.jpg
+//
+黑服宣布将她逐出组织。
+BlackSuit Beatrice
+
+BG_GematriaCorridor.jpg BG_CS_S1Final_07.jpg BG_CS_S1Final_08.jpg BG_CS_S1Final_08_2.jpg
+//
+贝雅特里谢被逐出组织后，三人继续会议。
+BlackSuit Golconde Maestro
+
+BG_GematriaCorridor.jpg BG_CS_PV4_003_2.jpg
+;;
