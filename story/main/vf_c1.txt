@@ -343,7 +343,7 @@ BG_TrinityClassRoom2.jpg
 佩洛洛吉拉限定玩偶
 False
 ||
-zh_Tw, 1, 02:43
+zh_tw, 1, 02:43
 //
 梓最后揭开谜底：佩洛洛吉拉玩偶。日步美听后兴奋不已，其他人则并不太感兴趣。梓表示虽然最后停产，但其中一个样品最近就流通了出来。尽管大家都买不起，但梓和日步美还是决定去看一眼也好。
 Azusa, Koharu, Hanako, Hifumi
@@ -433,7 +433,7 @@ finalS1, 1, 5
 日常的龜裂（３）
 RABBIT小隊的隊員協助奇普托斯的居民，且在公園繼續生活。另一方面，在奇普托斯的某處舉行了蓋瑪特利亞會議。
 ||
-zh_tw, 1, https://www.bilibili.com/video/BV17V4y1t7m5/?p=5, [STORY_SOURCE_ZH_TW_MODEJUN]
+zh_tw, 3, https://www.bilibili.com/video/BV17V4y1t7m5/?p=5, [STORY_SOURCE_ZH_TW_MODEJUN]
 --
 乐于助民的RABBIT小队
 False
@@ -482,4 +482,1139 @@ BG_GematriaCorridor.jpg BG_CS_S1Final_07.jpg BG_CS_S1Final_08.jpg BG_CS_S1Final_
 BlackSuit Golconde Maestro
 
 BG_GematriaCorridor.jpg BG_CS_PV4_003_2.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 6
+前兆
+聯邦學生會觀測到了6個並不存在於奇普托斯的上空的能量體。琳為了解決問題，召集了各個自治區的學生會代表，並且成立了緊急對策委員會。
+||
+zh_tw, 3, https://www.bilibili.com/video/BV17V4y1t7m5/?p=6, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+联邦学生会会长
+False
+//
+琳陷入回忆中，记起了她与会长争辩“琳酱”叫法的事情。
+GscPres, Rin
+OST_37
+
+--
+紧急情况
+False
+||
+zh_tw, 1, 47
+//
+步来到琳的办公室，向她报告桃香不久前发现的紧急情况。
+Ayumu, Rin
+
+BG_GeneralMeetingRoom.jpg
+//
+控制室里，桃香向琳展示了数据。
+Momoka, Rin, Ayumu
+
+BG_HQ2.jpg
+--
+浓度超高的能量体
+False
+||
+zh_tw, 1, 1:15
+//
+桃香指出，两小时前，在基沃托斯各地观测到了数个能量浓度极高的能量体――尤其是，在圣所之塔正中央，他们所处的地方，也有一个，但没人能目视观察到它。桃香主张是传感器故障，但琳不这么认为。
+Momoka
+OST_27
+BG_CS_S1Final_05.jpg BG_HQ2.jpg
+--
+紧急召集各地区代表
+False
+||
+zh_tw, 1, 02:06
+//
+琳确认现在发生紧急情况，要求召集各地区的学生会代表，共同商讨应对方案。她将以代理会长的权限发动紧急协议，成立基沃托斯紧急对策委员会。
+Rin, Momoka, Ayumu
+OST_41
+BG_HQ2.jpg
+--
+滥用代理权限的琳
+False
+||
+zh_tw, 2:40
+//
+步担心琳这一次可能更加激发学生们对琳的代理会长权限滥用的声讨，尤其是这可能侵犯了防卫室的权限。琳执意继续发布，就在这时财务室的碧来到控制室。
+Ayumu Rin Momoka
+OST_41
+BG_HQ2.jpg
+--
+超出权限的琳
+False
+||
+zh_tw, 1, 02:48
+//
+碧指责琳在担任代理会长期间的各种出格事情，例如关闭SRT和接受“夏莱”这一组织，指出她已经滥权。碧警告称，如果琳无法给出有说服力的证据，她可能会把琳冠以“试图私有化联邦学生会”的罪名，并希望她再三考量。碧随后离开。
+Aoi Rin Momoka Ayumu
+OST_129
+BG_HQ2.jpg
+--
+防卫室部长香耶
+||
+zh_tw, 1,
+//
+琳来到控制室外，遇到防卫室部长香耶。香耶表示自己无心插手事情，并认为琳有权限发起紧急对策委员会。香耶同时建议琳把夏莱的力量加入其中，琳接受了建议。香耶主动帮助接送老师，表示将安排女武神进行。
+Kaya Rin
+OST_129
+BG_ReceptionRoom.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 7
+召集緊急對策委員會
+各個自治區學生會的代表收到了緊急對策委員會的召集邀請書。夏萊的老師為了參加緊急對策委員會，搭乘了聯邦學生會派來的直升機，但其實這是凱薩PMC的陷阱。
+||
+zh_tw, 3, https://www.bilibili.com/video/BV17V4y1t7m5/?p=7, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+寄出邀请书
+False
+||
+zh_tw,1 , 10
+//
+阿拜多斯收到了邀请书。
+Ayane, Serika
+OST_129
+BG_CommitteeRoom.jpg
+//
+三一的修女会收到了邀请书。
+MemberOfSisterhood Sakurako
+OST_129
+BG_TrinityOldLibrary.jpg
+//
+三一的救援骑士团收到了邀请书。
+Mine
+OST_129
+BG_Ward.jpg
+--
+茶会的担忧
+False
+||
+zh_tw 1 30
+//
+茶会渚表示收到了学生会寄来的邀请书，圣亚意识到老师可能将梦境的内容告诉了琳。圣亚主张参加，但渚对与会时各代表之间可能爆发的冲突担忧，但弥香和圣亚安慰渚说，有老师在的情况下，事情应该不会太糟。
+Nagisa, Seia, Mika
+OST_129
+BG_TrinityTerrace.jpg
+--
+万魔殿的计谋
+False
+||
+zh_tw, 1, 1:30
+//
+真琴认为紧急对策委员会是个展现他们政治力量的好时刻，毕竟老师也会在场。
+Iroha Makoto
+OST_129
+BG_GehennaClubRoom.jpg
+--
+不在的大姐大
+False
+||
+zh_tw 1 01:56
+//
+Eridu城的计算机上显示着莉央的未读消息。数目只见增长，而莉央不见踪影。
+
+OST_129
+BG_BigSisterRoom_Night.jpg
+--
+玄龙门的参与
+False
+||
+zh_tw 1 02:07
+//
+玄龙门表示将参与会议。
+MemberOfXuanlong Kisaki
+OST_129
+BG_ShanVIPRoom.jpg
+--
+百鬼夜行的参与
+False
+||
+zh_tw 1 02:20
+//
+百鬼夜行的阴阳部收到了邀请。
+Kaho Niya
+OST_129
+BG_HyakkiyakoMeetingroom2.jpg
+--
+逃离的赤冬会长
+False
+||
+zh_tw, 1, 2:37
+//
+赤冬又发生了政变。受此事影响，赤冬会长逃进了雪山。
+MemberOfLaborParty
+OST_129
+BG_RedWinterCampus2.jpg
+--
+彩奈的报告
+False
+||
+zh_tw, 1, 2:53
+//
+彩奈收到了联邦学生会琳同学的通信，并向老师简单介绍了奇怪的能量体和各个学院代表将会前往的事情。老师欣然答应。
+Arona
+OST_129
+BG_AronaRoom.jpg BG_CS_S1Final_05.jpg
+--
+接送老师的女武神学生
+False
+||
+zh_tw 1 03:32
+//
+女武神学生到达夏莱，准备用直升机护送老师到达联邦学生会。老师有点疑惑，但还是上了直升机。
+MemberOfValkyrie
+
+BG_MainOffice.jpg BG_BuildingRooftop.jpg
+--
+“财政情况不错”
+False
+||
+zh_tw 1 03:59
+//
+老师感慨女武神学院居然能用直升机接送，而负责的学生则说他们财政情况不错――这引起了老师的怀疑。
+MemberOfValkyrie
+
+BG_HelicopterInside.jpg
+--
+桐乃的话
+False
+||
+zh_tw 1 4:14
+//
+老师记起来之前桐乃跟她说的话，她明确提到了女武神学院的财政状况非常不明朗，武器装备都无法更新。
+Kirino
+
+BG_Market.jpg
+--
+女武神与凯撒PMC
+False
+||
+zh_tw 1 4:21
+//
+老师认出直升机上的人并非女武神学生，质问他们的身份。凯撒PMC的士兵这时到达现场，老师这才后知后觉。
+PMC_Solider
+
+BG_HelicopterInside.jpg
+--
+被背叛的香耶
+False
+||
+zh_tw 1 04:46
+//
+香耶与PMC将军会面，表示劫持了老师后将会使琳颜面扫地，进一步瓦解夏莱的职权。但香耶来不及多想就被牢牢控制。
+Kaya PMC_General
+OST_93
+BG_RuinSchoolCorridor.jpg
+//
+将军指出香耶的计划已不再是主目标。
+PMC_General
+OST_93
+BG_RuinSchoolCorridor.jpg
+//
+总裁表示，有了他们挖掘出的那样古代的东西后，别说防卫室，就是黑服他们的力量也可以丢在一旁不管。
+PMC_CEO
+OST_93
+BG_UpperOffice.jpg
+--
+控制联邦学生会的计划
+False
+||
+zh_tw 1 5:49
+//
+将军计划在紧急对策委员会结束活动后继续，告诉下属在合适时机突入并控制联邦学生会，且特别指出要控制行政长。至于香耶，将军则下令将她关进PMC总部监狱。
+PMC_General PMC_Specialist
+OST_93
+BG_RuinSchoolCorridor.jpg
+--
+被攻击的老师
+False
+||
+zh_tw 1 06:14
+//
+将军下令将老师关起来，并指示士兵将老师的脚打瘸，防止他乱动。
+PMC_General PMC_Solider
+OST_93
+BG_HelicopterInside.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 8
+光的到來
+白子在追查凱薩PMC可疑行跡的過程中遇見了某人，後來就這樣失去了聯絡。另一方面，在教室裡的彩奈警告說有東西正在接近當中，同時察覺到奇普托斯全區發現了異變。
+||
+zh_tw 1 https://www.bilibili.com/video/BV17V4y1t7m5/?p=8 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+前往学生会的对策委员会
+False
+//
+对策委员会一同前往联邦学生会，不过白子则先走了一步。
+Serika Hoshino Shiroko Nonomi Ayane
+OST_13
+BG_CommitteeRoom.jpg
+--
+当年的白子
+False
+||
+zh_tw 1 38
+//
+星野讲起白子以前的故事。野乃美提到白子丧失了来阿拜多斯以前的全部记忆，茜香和绫音大为震惊。
+Nonomi Hoshino Serika Ayane
+OST_13
+BG_CommitteeRoom.jpg
+--
+越来越多的PMC士兵
+False
+||
+zh_tw, 1, 1:18
+//
+街上，白子发现PMC士兵越来越多，而他们似乎全部都朝着阿拜多斯沙漠行进。
+PMC_Solider Shiroko
+OST_73
+BG_CityDowntown.jpg
+//
+白子前去调查，并向众人保证她不会乱来。
+Ayane Serika Hoshino
+OST_73
+BG_CommitteeRoom.jpg
+--
+红色的闪光
+False
+||
+zh_tw 1 1:50
+//
+白子通讯都还没讲完，她就说她看到了黑色――红色――的光。对策委员会的课室里闪过红光一阵。
+Hoshino Ayane
+OST_73
+BG_CommitteeRoom.jpg
+--
+打不中的子弹
+False
+||
+zh_tw 1 2:3
+//
+PMC士兵向老师脚打了一枪，但不知为何无法击中。
+PMC_Solider
+OST_73
+BG_HelicopterInside.jpg
+//
+彩奈指出只要有她在，没人能伤害老师。
+Arona
+OST_73
+BG_AronaRoom.jpg
+--
+直升机上的红光
+False
+||
+zh_tw 1 2:44
+//
+彩奈话都没说完，直升机上闪过一阵红光，箱子系统的背景也变成了夜间。
+Arona
+
+BG_AronaRoom.jpg BG_AronaRoom_Night.jpg
+//
+彩奈朝教室外的裂缝仰望天空，看到了似乎有什么东西正在接近。
+Arona
+OST_122
+BG_CS_PV2_70.jpg BG_CS_PV2_71.jpg BG_CS_PV2_72.jpg
+--
+丧失电源的箱子
+False
+||
+zh_tw 1 3:16
+//
+大地震动了一下。老师的平板失去电源。老师被从后边踢了一脚，失去意识。
+PMC_Solider
+OST_122
+BG_HelicopterInside.jpg
+--
+不详的征兆
+False
+||
+zh_tw 1 3:41
+对策委员会的其他人在教室里也感受到了震动。星野在通讯频道上要求白子离开回来。
+Ayane Nonomi Hoshino
+OST_122
+BG_CommitteeRoom.jpg
+--
+白子极目之所见
+False
+||
+zh_tw 1 3:52
+//
+白子见到了一个长相奇怪的“人”。
+Shiroko
+OST_122
+BG_CS_PV4_001.jpg BG_CS_PV4_002.jpg
+--
+失去联系的白子与老师
+False
+||
+zh_tw 1 4:7
+//
+白子失去联系。对策委员会试图联系老师请求帮助，但同样打不通。
+Nonomi Hoshino Serika Ayane
+OST_122
+BG_CommitteeRoom.jpg
+--
+空无一人的道路
+False
+||
+zh_tw 1 4:53
+//
+刚刚还在的白子突然消失，街道上空无一人。
+
+
+BG_CS_PV4_001_2.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 9
+衝突（１）
+老師在環奈的協助下逃出了監牢。稍微喘了一口氣後，環奈開始說明老師被綁架後發生的事情。
+||
+zh_tw 3 https://www.bilibili.com/video/BV17V4y1t7m5/?p=9 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+在监狱里
+False
+//
+老师被关进了监狱里，隐隐约约听到了学生会、戒严令、女武神之类的词。老师睁开眼睛，发现自己被关进了监狱。外边的士兵讨论老师的箱子，指出它不仅无法启动，而且一连上网甚至让PMC几间公司瞬间断电。就在这时一阵枪响，有人进来了监狱。
+PMC_Solider
+OST_73
+BG_Prison.jpg
+--
+环奈的救援
+False
+||
+zh_tw 1 50
+//
+环奈负伤严重，不过最终还是找到了老师。环奈放倒了警卫，将老师救了出来。老师跟着环奈逃离。
+Kanna
+OST_129
+BG_Prison.jpg
+--
+落入凯撒之手的女武神学校
+False
+||
+zh_tw 1 1:48
+//
+环奈向老师解释，这里是女武神的第三校区，原本用于新生合宿使用，但不知为何落入凯撒手里。交谈中，环奈提到“DU被封锁”。
+PMC_Solider Kanna
+OST_129
+BG_ValkyrieOffice_Night.jpg
+--
+被封锁的DU区
+False
+||
+zh_tw 1 2:44
+//
+环奈带着老师出来，发现警戒加强，他们被发现了。
+PMC_Solider Kanna
+OST_129
+BG_Campus_Night.jpg
+//
+就在这时生活安全局的两人前来支援，他们带领负伤的局长和老师继续离开。中途环奈有点跟不上，众人决定先到附近建筑物休息。
+Kirino Fubuki Kanna
+OST_129
+BG_Campus_Night.jpg
+--
+要强的警察局长
+False
+||
+zh_tw 1 4:6
+//
+吹雪对环奈会做出这种与她毫不关联的事情感到惊讶，而环奈则说是为了承担她应有的责任。老师追问究竟发生了什么。
+Kirino Fubuki Kanna
+OST_129
+BG_ShootingRange.jpg
+//
+环奈则表示，六小时前，PMC袭击了联邦学生会，其将军解散了行政委员会，掌控了圣所之塔，并发布了整个DU地区的戒严令，导致全区交通和通信中断；女武神本身也因此处于待命状态。
+Kanna
+OST_129
+BG_CityOffice_Night.jpg BG_CityDowntown_Night.jpg
+--
+违背命令的局长
+False
+||
+zh_tw 1 4:53
+//
+环奈表示救出老师这种行为本身触犯了组织命令，提到生活安全局的两位由于不被直接管理，责任应当不会太大。之后她提到了联邦学生会组建的紧急对策委员会。
+Kanna Kirino Fubuki
+OST_129
+BG_ShootingRange.jpg
+--
+找不到老师的学生会
+False
+||
+zh_tw 1 5:20
+//
+老师被PMC绑架，学生会的琳并未等到老师；步指出也无法与防卫室的香耶和千年的莉央取得联系，且阿拜多斯也将因紧急情况缺席。琳指示会议继续进行。
+Rin Momoka Ayumu
+OST_135
+BG_ReceptionRoom.jpg
+--
+紧急对策委员会会议
+False
+||
+zh_tw 1 6:04
+//
+琳向所有人介绍了高浓度能量体的情况，希望所有人鼎力相助。
+Rin
+OST_135
+BG_GeneralMeetingRoom.jpg BG_CS_PV4_013.jpg
+//
+但很快，与会者提起了老师，询问老师的位置；
+Sakurako Rin Mine Seia Mika
+OST_135
+BG_CS_PV4_014.jpg
+//
+因为没有得到回答，其中一些人开始怀疑是不是学生会把老师藏起来了：没有夏莱的会议就没有意义。
+Iroha Makoto Ibuki Mika Seia
+OST_135
+BG_CS_PV4_015.jpg
+//
+会议的大家越来越无聊，耐不住性子，最后大家开始议论回程的事情。
+Sakurako Makoto Rin Mine Iroha Nagisa Mika
+OST_135
+BG_CS_PV4_013.jpg BG_CS_PV4_013_2.jpg
+//
+赤冬的代表也准备回程，会议最终中断。
+Cherino
+OST_135
+BG_CS_PV4_016.jpg
+--
+被怀疑的琳
+False
+||
+zh_tw 1 7:49
+//
+琳试图确认下次的与会名单，但被碧打断。碧指出防卫室长和老师下落不明，以及存在SRT的位置将由凯撒PMC取代的记录――一切表明，琳试图将联邦学生会私有化。
+Rin Aoi
+OST_135
+BG_GeneralMeetingRoom.jpg
+--
+琳的不信任案
+False
+||
+zh_tw 1 8:33
+//
+碧摆出了对琳的不信任案，指出这些命令即刻生效。在再信任投票通过前，琳的所有行政命令都将无效。
+Ayumu Aoi Rin
+
+BG_GeneralMeetingRoom.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 10
+衝突（２）
+琳因為究責決議案而被停止所有的權限。凱薩PMC闖入了業務停擺的聯邦學生會。
+||
+zh_tw 1 https://www.bilibili.com/video/BV17V4y1t7m5/?p=10 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+群龙无首的联邦学生会
+False
+//
+琳的不信任案通过，意味着联邦学生会的情况将与会长失踪时的情况几乎无异。琳试图争辩，但被命令回去休息，明日再谈；步与桃香也收到了这样的命令。
+Momoka Ayumu Rin Aoi
+OST_73
+BG_GeneralMeetingRoom.jpg
+--
+无言的琳
+False
+||
+zh_tw 1 1:10
+琳站在会议室里，窗外的光洒在她的身上。
+
+
+BG_CS_PV4_017.jpg
+--
+PMC的入侵
+False
+||
+zh_Tw 1 1:27
+//
+PMC同时入侵了联邦学生会和圣所之塔。PMC的将军让琳放弃抵抗，指出联邦学生会的所有权限将由PMC承担。PMC的总裁决定在获得圣所之塔的权限前，在全DU地区发布戒严令，严格限制信息的传输；他还表示，有了圣所之塔就能启动所谓的“超古代兵器”，基沃托斯将会由他们所控。
+PMC_Solider Rin PMC_General PMC_CEO
+OST_92
+BG_BuildingCorridor_Night.jpg BG_GeneralMeetingRoom_Night.jpg
+--
+被发觉的众人
+False
+||
+zh_Tw 1 2:47
+//
+环奈总结，当前联邦学生会处于停摆状态。生活安全局两位询问环奈的情况，结果后者立刻倒了下去。这时PMC的兵力也发现了他们。
+Kanna Kirino Fubuki
+
+BG_ShootingRange.jpg
+--
+虚弱的环奈
+False
+||
+zh_Tw 1 3:26
+//
+环奈让两人不要管她，尽快带着老师离开这里。环奈想起了新生合宿时的样子，记起了她曾经也想成为正义的一方的梦想。她随后指导其他两人撤离的路径，并拿出了老师的平板电脑――这是她通过搜集内部情报所找到的。
+Kanna Kirino Fubuki
+OST_105
+BG_CS_S1Final_13.jpg BG_CS_S1Final_13_2.jpg
+--
+为了正义而战的人
+False
+||
+zh_Tw 1 4:6
+//
+环奈指出，联邦学生会陷入混乱、凯撒接管圣所之塔行政权，必将导致基沃托斯陷入前所未有的混乱。她说还有许多正义的人――但不包括她――正在抵抗这一切。老师安慰环奈，保证一定会有办法，拿出了箱子。
+Kanna Kirino Fubuki
+OST_105
+BG_ShootingRange.jpg
+--
+箱子，再启动
+False
+||
+zh_Tw 1 4:48
+//
+老师念出了箱子的密码，见到了彩奈。
+Arona
+OST_12
+BG_CS_PR_00.jpg BG_AronaRoom_Night.jpg
+//
+有了箱子的力量，老师重新开始了战术指挥。
+Fubuki Kanna Kirino
+OST_12
+BG_ShootingRange.jpg
+;;
+
+;;
+
+11
+finalS1, 1, 11
+逃脫（１）
+老師收到環奈帶來的希迪姆的箱子後，為了保護大家而再次負起指揮的職務。
+||
+zh_Tw 3 https://www.bilibili.com/video/BV17V4y1t7m5/?p=11 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+被迫交战
+False
+//
+虽然听说过老师高超的指挥技术，但生活安全局的两人听到老师要指挥他们对战PMC时还是吓了一跳――然而PMC已经闯了进来，两人没有回旋的余地了。
+Fubuki Kirino
+OST_76
+BG_ShootingRange.jpg
+--
+与PMC士兵的战斗
+True
+||
+zh_Tw 1 44
+//
+桐乃与吹雪和PMC士兵交战。
+Kirino Fubuki
+OST_76
+
+--
+继续脱逃
+False
+||
+zh_Tw 1 1:55
+//
+两人勉强在并不充裕的弹药装备下完成了战斗。环奈恢复了些许体力，与众人继续脱逃。
+Kirino Fubuki Kanna
+OST_76
+BG_ClassCorridor2_Night.jpg
+;;
+
+;;
+
+11
+finalS1 1 12
+逃脫（２）
+在凱薩PMC的攻勢下，一行人面臨了攸關生死的危機，RABBIT小隊在收到彩奈的聯絡後，在緊要關頭終於登場了，老師和一行人順利被救出。
+||
+zh_Tw 3 https://www.bilibili.com/video/BV17V4y1t7m5/?p=12 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+断开的通讯网
+False
+//
+桐乃一边带路，老师一边向彩奈询问能否联系上其他学生。
+Kirino
+OST_27
+BG_MilleniumCorridor_Night.jpg
+//
+彩奈表示相较于圣所之塔，她的权限相对较低，但还是设法连接上了那么一瞬间，向最近的单位发出了信息。
+Arona
+OST_27
+BG_AronaRoom_Night.jpg
+--
+压倒性的敌人
+False
+||
+zh_Tw 1 48
+//
+区域警报突然拉响，一众PMC士兵赶到现场。PMC士兵劝老师一行人投降，就在这时传来了一阵声音。
+PMC_Solider Kirino Fubuki Kanna
+
+BG_MilleniumCorridor_Night.jpg
+--
+RABBIT小队，突入！
+False
+||
+zh_Tw 1 1:19
+//
+RABBIT小队的咲希和都子通过绳索空降到老师所在位置，及时支援了老师。
+Saki
+OST_74
+BG_CS_S1Final_09.jpg
+//
+PMC指挥官大受震撼，但立刻被美游狙击。原来是SRT一行人收到了老师的通讯而前来救援。因为兵力众多，SRT和生活安全局决定一起对峙敌人。
+Saki Miyako Moe Miyu Fubuki Kirino Kanna
+OST_74
+BG_MilleniumCorridor_Night.jpg
+--
+行政命令的漏洞
+||
+zh_Tw 1 2:29
+//
+环奈对RABBIT小队居然“违抗”了命令出动而惊讶，而都子则表示还没听过戒严令这事，毕竟他们还露宿在公园。不论如何，他们决定先突破这里，护送老师到安全地点再说。
+Kanna Miyako Miyu Moe Saki Kirino Fubuki
+OST_74
+BG_MilleniumCorridor_Night.jpg
+--
+与PMC士兵的战斗
+True
+||
+zh_Tw 03:16
+//
+都子、美游、桐乃、吹雪、咲希、萌六人一起对峙来袭的PMC士兵。
+Miyako Miyu Kirino Fubuki Saki Moe
+OST_74
+
+;;
+
+;;
+
+11
+finalS1 1 13
+夏萊奪還作戰（１）
+凱薩占領了聯邦學生會，D.U.全區已經宣布緊急事態。為了平息眼前的混亂和救出被囚禁在夏萊的琳，以RABBIT小隊和生活安全局為首展開了夏萊奪還作戰。
+在公安局學生的協助下，老師和學生們抵達了夏萊建築物的入口。桃香和步協助掌握了琳的所在位置。
+||
+zh_Tw 3 https://www.bilibili.com/video/BV17V4y1t7m5/?p=13 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+情报共享
+False
+//
+RABBIT小队一行人了解到老师也被绑架的情况，提出为了更好活动，建议先互相共享一下情报。
+Miyako Saki Miyu Moe
+OST_129
+BG_SRTCampSite.jpg
+--
+DU全域的戒严
+False
+||
+zh_Tw 1 30
+//
+彩奈重新整理了事情的前因后果：DU因戒严令导致全部停摆，对外通讯交流全部被切断，无法与其他学院取得联系。要撤回戒严令，需要从凯撒手中夺回行政控制权，由于琳由于不信任案已经不具备权限。
+Arona
+OST_129
+BG_AronaRoom_Night.jpg
+--
+帮不上忙的联邦学生会
+False
+||
+zh_Tw 1 48
+//
+RABBIT小队对联邦学生会停摆一事没有表现出太大的惊讶，毕竟他们一直也帮不上什么忙。
+Moe Saki Miyako Miyu
+OST_129
+BG_SRTCampSite.jpg
+--
+被控制的夏莱
+False
+||
+zh_Tw 1 64
+//
+彩奈指出，夺回行政控制权的唯一方法就是物理攻击凯撒的所在。彩奈解释道，凯撒取得行政控制权是通过启动位于夏莱地下室的工艺室进行的――这本来只能由箱子启动。同时彩奈还表示，琳正被关押在夏莱内。
+Arona
+OST_129
+BG_AronaRoom_Night.jpg
+--
+夏莱夺取战
+False
+||
+zh_Tw 1 01:40
+//
+RABBIT小队决定发起夏莱夺取战。
+Miyako Miyu Moe Saki Kirino Fubuki
+OST_129
+BG_SRTCampSite.jpg
+--
+有所准备的PMC
+False
+||
+zh_Tw 1 1:59
+//
+将军呼叫了PMC的特殊行动部队SOF――虽然本来是为了对付“狐狸”（若藻）的，但他表示不能排除老师对这里发起攻击的可能。
+PMC_General PMC_Solider
+OST_129
+BG_BuildingFront2.jpg
+--
+夏莱夺取战，开始！
+False
+||
+zh_Tw 1 02:20
+//
+在商讨了一阵之后，RABBIT小队和生活安全局宣布夏莱夺取战开始。
+Miyu Miyako Kirino Fubuki Saki Moe
+OST_129
+BG_SRTCampSite.jpg
+//
+彩奈提醒老师务必小心，并提到了她先前在箱子教室外看到的不祥的流星雨。
+Arona
+OST_129
+BG_AronaRoom_Night.jpg
+--
+女武神警察局学生的支援
+False
+||
+zh_Tw 1 3:36
+//
+女武神警察局的学生在公园附近看见了局长和老师。由于长时间处于待机状态而没有新命令下达，他们决定前来协助老师。老师将指挥交给都子，他将辅助进行指挥。
+PMC_Solider Moe Saki Miyu Miyako Kirino StudentOfPublicPeace Fubuki
+OST_68
+BG_CityDowntown.jpg
+--
+夏莱夺取战指挥
+True
+||
+zh_Tw 1 4:50
+//
+都子、美游、桐乃、吹雪、咲希、萌，以及女武神警察局的一部分学生们，开始对PMC的部队发动攻击，一路打到了大门前。
+Miyako Miyu Kirino Fubuki Saki Moe StudentOfPublicPeace
+OST_18
+
+--
+撤退的PMC
+False
+||
+zh_Tw 1 7:10
+//
+由于损失严重，PMC先撤回到建筑内部进行整理。
+PMC_Solider
+OST_13
+BG_BuildingFront2.jpg
+--
+天使24便利店
+False
+||
+zh_Tw 1 7:22
+//
+RABBIT小队解除了楼下天使24便利店的情况。店主小空表示将会在这之后将所有的便当都送给他们。
+PMC_Solider Miyako Sora
+OST_13
+BG_Shop.jpg
+--
+建筑内作战计划
+False
+||
+zh_Tw 1 7:44
+//
+RABBIT小队感谢女武神警察局的学生的支援。之后都子发布行动计划，先是夺回工艺室，然后救出被囚禁的琳。萌指出在不确定人质位置的情况下贸然行动会有危险，这时桃香和步接入通讯。
+Saki Miyako Moe StudentOfPublicPeace Momoka Miyu Ayumu
+OST_13
+BG_BuildingFront2.jpg
+--
+逃出监视的桃香和步
+False
+||
+zh_Tw 1 8:30
+//
+桃香和步表示在夏莱的地下通讯中心。他们指出琳被囚禁在夏莱居住区的北部，未被使用的第三个房间里。两人拜托老师救出琳前辈。
+Momoka Ayumu
+OST_13
+BG_ComputerCenter_Off.jpg
+;;
+
+;;
+
+11
+finalS1 1 14
+夏萊奪還作戰（２）
+蓋瑪特利亞遭到謎樣的少女攻擊。將軍召集凱薩SOF，在夏萊的建築物內部做好迎接老師的準備。
+因為RABBIT小隊的活躍表現，一行人順利奪回夏萊，也順利救出了琳。
+||
+zh_Tw 1 https://www.bilibili.com/video/BV17V4y1t7m5/?p=14 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+混乱的情况
+False
+//
+盖玛特利亚继续会议，整理了当前的混乱情况。黑服最后总结要为各种情况做好准备。
+Maestro BlackSuit Golconde
+OST_70
+BG_GematriaCorridor.jpg
+--
+神秘人的到访
+False
+||
+zh_Tw 1 1:3
+//
+就在盖玛特利亚众人谈话时，有一位神秘人到访。
+
+
+BG_CS_S1Final_10.jpg BG_CS_S1Final_11.jpg BG_CS_S1Final_11_2.jpg BG_CS_S1Final_12.jpg
+--
+突入夏莱大楼
+False
+||
+zh_Tw 1 01:24
+//
+将军在夏莱内做好了准备。
+PMC_General PMC_Solider
+
+BG_IndoorPlaza_Night3.jpg BG_CraftChamber_Night.jpg BG_BuildingCorridor_Night.jpg BG_BuildingRooftop.jpg
+//
+RABBIT小队开始突入夏莱大楼。
+Miyako
+
+BG_BuildingFront2.jpg
+--
+[战斗] 兔子小队的战斗
+True
+||
+zh_Tw 1 1:48
+//
+RABBIT小队与生活安全局的两位共同突入夏莱。
+Miyako Miyu Kirino Fubuki Saki Moe
+OST_115
+
+--
+被击败的PMC
+False
+||
+zh_Tw 1 240
+//
+PMC节节溃败。
+PMC_General
+OST_115
+BG_IndoorPlaza_Night3.jpg BG_BuildingCorridor_Night.jpg BG_BuildingRooftop.jpg
+//
+RABBIT小队夺取了工艺室。
+PMC_Specialist Miyako
+OST_115
+BG_CraftChamber_Night.jpg
+//
+老师救出了琳。
+Rin Momoka Ayumu
+OST_115
+BG_BuildingCorridor2_Night.jpg
+--
+同归于尽
+False
+||
+zh_Tw 1 4:47
+//
+RABBIT小队控制住了PMC将军，但将军以手中的自爆按钮作为威胁。美游从远处狙击并成功。
+Miyako Saki PMC_General
+OST_115
+BG_MainOffice.jpg
+;;
+
+;;
+
+11
+finalS1 1 15
+沉沒的故事
+通訊網終於恢復，老師的手機同時出現了數百封的未讀取訊息。連片刻的喘息時間都沒有，突然響起了令人不舒服的警告聲，從一個名為法蘭西斯的人口中聽見了最後的宣告。
+||
+zh_Tw 3 https://www.bilibili.com/video/BV17V4y1t7m5/?p=15 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+通讯恢复
+False
+//
+桃香和步恢复了通讯，
+Momoka Ayumu
+OST_65
+BG_ComputerCenter_Off.jpg BG_ComputerCenter.jpg
+//
+彩奈表示老师在这期间收到了很多消息。
+Arona
+OST_65
+BG_MainOffice.jpg BG_AronaRoom_Night.jpg
+--
+各自治区情况
+False
+||
+zh_Tw 1 36
+//
+茶会的圣亚报告不明情况。
+Seia
+OST_65
+BG_TrinityClubRoom.jpg
+//
+修女会的樱子报告不明情况。
+Sakurako
+OST_65
+BG_TrinityOldLibrary.jpg
+//
+弥香询问老师为何不去参加会议。
+Mika
+OST_65
+BG_TrinityCampusPlaza.jpg
+//
+渚询问老师的近况。
+Nagisa
+OST_65
+BG_TrinityTerrace.jpg
+//
+研讨会的优香说明会长不见了，并发现消息被戒严令限制。
+Yuuka
+OST_65
+BG_MilleniumCorridor.jpg
+//
+补课部的花子报告自己有不好的预感。
+Hanako
+OST_65
+BG_TrinityClassRoom2.jpg
+//
+特异现象搜查部的阳葵发现通讯恢复。
+Himari
+OST_65
+BG_SpecialOperationRoom.jpg
+//
+联邦学生会的琳询问老师的位置。
+Rin
+OST_65
+BG_ReceptionRoom.jpg
+//
+对策委员会的绫音等人报告白子不见了。
+Ayane Hoshino Nonomi
+OST_65
+BG_CommitteeRoom.jpg
+//
+茜香发现白子只在现场留下了自行车。
+Serika
+OST_65
+BG_CS_PV4_001_2.jpg
+//
+就在这时夏莱内的警报响起。
+Rin
+OST_65
+BG_MainOffice.jpg
+--
+紧急情况
+False
+||
+zh_Tw 1 1:20
+//
+桃香发现基沃托斯各地出现紧急情况。
+Momoka
+OST_65
+BG_CS_PV4_009.jpg
+--
+撤退的PMC
+False
+||
+zh_Tw 1 1:28
+//
+PMC总裁获知消息后决定先行撤退。
+PMC_CEO PMC_Solider
+OST_65
+BG_UpperOffice.jpg
+--
+阿拜多斯沙漠地区的PMC
+False
+||
+zh_Tw 1 1:36
+//
+位于阿拜多斯沙漠地区的PMC驻军被FOX小队妥善处理后，后者开始撤退。
+PMC_Solider Yukino Niko Kurumi Otogi
+OST_65
+BG_DesertCamp.jpg
+--
+被扭曲的故事
+False
+||
+zh_Tw 1 02:10
+//
+琳注意到天空变红。
+Rin
+
+BG_MainOffice.jpg BG_MainOffice_Erode.jpg
+//
+法兰西斯突然到访，指出老师的力量将不再发挥作用，因为老师所处的故事的一切已经被推翻、破坏，老师不再是故事的主角。一切都将不复存在，一切都将成为没有意义而无法理解的世界。他指出老师的故事已经结束，所要发生的将不再是故事。
+Golconde
+OST_142
+BG_MainOffice_Erode.jpg
+--
+老师的破局
+False
+||
+zh_Tw 1 03:24
+//
+老师回答他根本不管这些，因为无论如何，他们都会克服的。法兰西斯表示将观察老师的表现，随后离开。
+Golconde
+OST_59
+BG_MainOffice_Erode.jpg
+--
+联络所有人
+False
+||
+zh_Tw 1 240
+//
+老师让彩奈以夏莱身份联络所有人。
+Arona
+OST_59
+BG_AronaRoom_Night.jpg BG_CS_PV4_018.jpg BG_CS_PV4_020.jpg BG_KohshinjoRoom.jpg BG_CS_PV4_019.jpg BG_CommitteeRoom.jpg BG_CherinoOffice.jpg
+//
+另一边，基沃托斯的一切正在被虹色侵蚀。
+
+OST_59
+BG_CS_PV4_010.jpg BG_CS_PV4_008_2.jpg BG_CS_PV4_043.jpg BG_CS_PV4_007.jpg BG_CS_PV4_006.jpg
+--
+死神阿努比斯
+False
+||
+zh_Tw 1 4:51
+//
+阿努比斯的到来让黑服突然清醒：色彩和无名祭司已经发生了接触。他认出了阿努比斯，认出了他“恐怖”的一面；后者随后开枪。
+BlackSuit ShirokoTerror
+OST_59
+BG_CS_PV4_005.jpg BG_CS_PV4_004.jpg
+--
+联络成功
+False
+||
+zh_Tw 1 5:7
+//
+彩奈告诉老师，她已成功联络所有学生。
+Arona
+OST_59
+BG_AronaRoom_Night.jpg
+--
+到齐的演员
+False
+||
+zh_Tw 1 5:18
+//
+黑服说，这出戏剧的演员就此到齐。
+BlackSuit
+OST_59
+
+//
+下一个要出场的，将是阿努比斯带来的“色彩的向导者”。
+
+OST_59
+BG_CS_PV4_145.jpg BG_MainOffice_Erode.jpg
 ;;
