@@ -5,7 +5,7 @@ Misaki, 1
 名為肉體的牢籠
 追著看起來有些危險的{cf美咲}，來到高樓大廈頂樓的老師。但是{cf美咲}對老師的關心沒有做出特別的反應，兩人搭著電梯回到地面。但是在下來的途中，電梯突然停了下來。在故障的電梯裡，{cf美咲}因為有幽閉恐懼症而感到驚慌失措。
 ||
-zh_tw, 3, https://www.bilibili.com/video/BV1uG411d7c4/, [STORY_SOURCE_ZH_TW_MODEJUN]
+zh_tw, 2, https://www.bilibili.com/video/BV1uG411d7c4/, [STORY_SOURCE_ZH_TW_MODEJUN]
 --
 [Momotalk] 似有心事的{cf美咲}
 F,F
@@ -90,7 +90,7 @@ Misaki, 2
 不受控制的身體
 到江邊吹風的{cf美咲}和老師。老師很好奇{cf美咲}為什麼在散步時也一直戴着口罩。正當{cf美咲}想回答說是因為花粉過敏的瞬間，突然打了個噴嚏，於是老師把手帕借給了{cf美咲}。
 ||
-zh_tw, 3, https://www.bilibili.com/video/BV1uG411d7c4/?p=2, [STORY_SOURCE_ZH_TW_MODEJUN]
+zh_tw, 2, https://www.bilibili.com/video/BV1uG411d7c4/?p=2, [STORY_SOURCE_ZH_TW_MODEJUN]
 --
 [Momotalk] 到达下一个地点
 False, True
@@ -160,7 +160,7 @@ Misaki, 3
 就算無法變乾淨
 在身體狀況不好的情況下，因為淋了雨而患上重感冒的{cf美咲}。老師在附近借用了一間辦公室讓{cf美咲}休息並照顧著他。在老師為了任務暫時離開的期間，{cf美咲}對自己羸弱的身體感到悲觀，並陷入了孤獨中。
 ||
-zh_tw, 3, https://www.bilibili.com/video/BV1uG411d7c4/?p=3, [STORY_SOURCE_ZH_TW_MODEJUN]
+zh_tw, 2, https://www.bilibili.com/video/BV1uG411d7c4/?p=3, [STORY_SOURCE_ZH_TW_MODEJUN]
 --
 [Momotalk] 主动约见的{cf美咲}
 F, T
