@@ -1,0 +1,415 @@
+;;
+
+11
+finalS1 2 1
+色彩的嚮導者
+奇普托斯因為突如其來的異常現象而陷入混亂。老師使用大人的卡片企圖收拾眼前的混亂狀況。來歷不明的存在出現在老師面前，並且留下了耐人尋味的忠告。
+||
+zh_tw, 2, https://www.bilibili.com/video/BV1Th4y157Ba/, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+格黑娜学院
+False
+//
+阳奈和亚子发现天空变红。
+Hina Ako
+OST_65
+BG_BigBridge.jpg
+--
+千年学院
+False
+||
+zh_tw 1 18
+//
+优香询问乃爱关于莉央的踪迹，后者表示还没有找到。优香表示自己将先出发一步。
+Yuuka Noa
+OST_65
+BG_ClassRoom2.jpg
+--
+三一学院
+False
+||
+zh_Tw 1 33
+//
+花子听说有急事后来到茶会所在的阳台，见到了茶会的渚、修女会的樱子和救援骑士团的美祢。花子希望大家能够一起齐心协力，即便派系不同。
+Hanako Nagisa Sakurako Mine
+OST_65
+BG_TrinityTerrace.jpg
+--
+便利屋68
+False
+||
+zh_Tw 1 51
+//
+完成任务的众人发现天空变红了。就在这时他们收到老师的消息。
+Haruka Mutsuki Kayoko Aru
+OST_65
+BG_BlackMarket.jpg
+--
+圣所之塔的崩坏
+False
+||
+zh_Tw 1 1:13
+//
+诗音向电视屏幕前的所有人报道称，DU白鸟区出现不明情况，有一个巨大的塔从天空落下且正中圣所之塔。随后是一些现场的情况。
+Shinon
+OST_65
+BG_CS_PV4_011.jpg BG_CS_PV4_008_2.jpg BG_CS_PV4_007.jpg BG_CS_PV4_006.jpg BG_CS_S1Final_14.jpg
+--
+色彩的侵略
+False
+||
+zh_Tw 1 1:39
+//
+站在夏莱的顶楼上，老师遇见了黑色西服人。黑服说他所在的组织已被摧毁，而色彩将“胡狼神”扭曲为“阿努比斯”反转为其恐怖的一面，而后者也遵循着其命运的指导，给基沃托斯带来终结。
+BlackSuit
+OST_142
+BG_BuildingRooftop.jpg BG_CS_PV4_001.jpg BG_CS_PV4_002.jpg
+--
+不同寻常的色彩
+False
+||
+zh_Tw 1 2:14
+//
+黑服表示，自己虽然先前认为色彩没有意识、无法理解，但在这次行动中，他们却明显感觉到色彩具有了意识和意义――色彩试图吸收基沃托斯所有崇高和神秘的概念，将其化为己有。
+BlackSuit
+OST_142
+BG_BuildingRooftop.jpg
+--
+圣所之塔的变种
+False
+||
+zh_Tw 1 2:28
+//
+黑服表示，出现在基沃托斯的六座塔大概可以算作是圣所之塔的一种变体，其将会把色彩的光散播到整个基沃托斯，扭曲所有人。
+BlackSuit
+OST_142
+BG_CS_PV4_043.jpg
+--
+色彩的向导者
+False
+||
+zh_Tw 1 2:47
+//
+黑服表示，自己的组织受到色彩攻击，可能是由于色彩想要夺走他们的技术。他提到他们称代表色彩意志的存在为“色彩的向导者”，其名为“诱骗者”。
+BlackSuit
+OST_142
+BG_CS_PV4_043.jpg BG_CS_PV4_145.jpg
+--
+基沃托斯各地的敌人
+False
+||
+zh_Tw 1 3:11
+//
+基沃托斯各地都出现了敌人。
+
+OST_142
+BG_RiversideRoad_Erode.jpg BG_Wilderness_Erode.jpg BG_RuinCity_Erode.jpg
+--
+混乱的新闻
+False
+||
+zh_Tw 1 3:31
+//
+诗音向大屏幕前的所有人通报即时的新闻动态，提到塔的情况尚不清楚，基沃托斯各地也出现了来源不明的兵力。随后夏莱的通知抵达，其中明确表明各自治区的学生立即避难，切勿靠近黑色高塔。
+Shinon
+OST_142
+BG_CS_PV4_012.jpg BG_CS_PV4_011.jpg
+--
+大人的卡片
+False
+||
+zh_Tw 1 4:9
+//
+站在高台上的老师拿出了大人的卡片，黑服警告老师滥用卡片的后果。
+BlackSuit
+
+BG_BuildingRooftop.jpg
+--
+[UI] 走格子画面
+True
+||
+zh_Tw 1 4:30
+//
+【本段剧情含多场战斗，需要走格子】
+
+OST_148
+
+--
+[战斗] 与色彩化机器人的战斗
+True
+||
+zh_Tw 1 4:36
+//
+学生与色彩化的机器人战斗。
+
+OST_101
+
+--
+[战斗] 与神秘系敌人的战斗
+True
+||
+zh_Tw 1 5:56
+//
+学生与神秘系敌人的战斗。BGM NRG Field
+
+OST_101
+
+--
+[BOSS战] 与BOSS的战斗
+True
+||
+zh_Tw 1 10:10
+//
+学生与BOSS的战斗。
+
+OST_142
+
+;;
+
+;;
+
+11
+finalS1 2 2
+作戰會議
+學生們收到老師的聯絡後一一前往聯邦學生會。為了解決眼前的狀況，以琳為首收集情報與建立作戰計畫。為了拯救暴露在聖所的人，老師和聖亞開始尋找葛葉。聽到消息後，仁耶表示搜索葛葉的任務交給自己。
+||
+zh_tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=2 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+遇见白子
+False
+//
+对策委员会一行人在列车站遇见了虚弱的白子。白子与她们发生了战斗，随后倒地。星野询问白子来自哪里，白子回答不知道。
+Shiroko Hoshino Nonomi
+OST_55
+BG_CS_S1Final_15.jpg
+--
+温暖的围巾
+False
+||
+zh_Tw 1 01:22
+//
+星野决定将落难的白子带回阿拜多斯，并给了她一条蓝色的围巾用作保暖。
+Hoshino Shiroko
+OST_55
+BG_CS_S1Final_16.jpg BG_CS_S1Final_17.jpg
+--
+对策委员会的纠结
+False
+||
+zh_Tw 1 1:42
+//
+星野想起了她以前遇到白子的时候，认为此时的情况应该和当时类似。星野想不参与夏莱的集合，自己去找白子，被野乃美拦下。
+Hoshino Nonomi
+OST_55
+BG_Classroom.jpg
+//
+就在这时绫音和茜香来到教室，他们提议一起去找老师；星野转而接受。
+Serika Ayane Hoshino Nonomi
+OST_13
+BG_Classroom.jpg
+--
+以夏莱名义召集学生
+False
+||
+zh_Tw 1 2:36
+//
+联邦学生会的琳由于被撤职且处于不被信任状态，因而不得不拜托夏莱发布召集命令。琳随后拜托桃香和步代她处理在这期间的事情。
+Ayumu Rin Momoka
+OST_65
+BG_MainOffice_Erode.jpg
+--
+陆续到达的学生
+False
+||
+zh_Tw 1 3:17
+//
+佳世子、优香、亚子、花子和绫音陆续赶到。有人询问老师的情况，得到的回答是老师正在DU交战，稍后会回来一趟。大家前往会议室。
+Kayoko Yuuka Ako Hanako Ayane Momoka Rin
+OST_65
+BG_MainOffice_Erode.jpg
+--
+会议前准备
+False
+||
+zh_Tw 1 4:43
+//
+琳开始准备会议，搭载着老师的直升机也正在赶来。来到的代表们拿到资料后，开始与自己学院的其他成员确认情况。
+Rin Ayane Hanako Ako Yuuka
+OST_65
+BG_CS_PV4_022.jpg BG_CS_PV4_023.jpg BG_CS_PV4_024.jpg BG_CS_PV4_025.jpg BG_CS_PV4_026.jpg
+--
+作战会议
+False
+||
+zh_Tw 1 5:32
+//
+琳指出他们的目标是在两周内破坏掉那些塔――她目前将其称为“虚假的圣所”，意义不言自明。
+Rin Kayoko Yuuka Ayane
+OST_101
+BG_CS_PV4_029.jpg BG_CS_PV4_028.jpg BG_CS_PV4_027.jpg
+--
+关于“色彩”所知的一切
+False
+||
+zh_Tw 1 5:54
+//
+花子向各位提到了茶会和修女会在古书馆发现的资料。
+Hanako
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+圣亚指出，目前正在入侵基沃托斯的是所谓名叫“色彩”的存在；
+Seia
+OST_101
+BG_TrinityClubRoom.jpg
+//
+修女会说明，这是一种会让人陷入疯狂的光。
+Sakurako
+OST_101
+BG_TrinityOldLibrary.jpg
+//
+优香有些不可置信，而乃爱则表示工程部已经发现其中的光信号能使人精神错乱；
+Yuuka Noa
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+工程部进一步表示，这一说法可信度较低，需要进一步确认，而亚都梨则搬来了三一古书馆的书；
+Utaha Hibiki Kotori
+OST_101
+BG_CS_PV4_035.jpg
+//
+贝里塔斯表示虽然进展不顺，但估计在300小时后就会达到临界点。
+Hare Chihiro Kotama
+OST_101
+BG_CS_PV4_033.jpg
+//
+圣亚向各位描述了她曾告诉老师的预知梦的情形。
+Seia
+OST_101
+BG_TrinityClubRoom.jpg
+//
+佳世子等人被圣亚的说法惊到。
+Kayoko Ako Hanako
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+老师还提到需要找到恢复色彩之人的方案；
+Seia
+OST_101
+BG_TrinityClubRoom.jpg BG_SchaleOperationRoom2.jpg
+//
+而圣亚则表示这要去找百鬼夜行、身为大预言者的葛业。
+Seia Niya
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+阴阳部的仁耶接受了请求。
+Niya
+OST_101
+BG_HyakkiyakoMeetingroom2.jpg
+--
+敌人情况
+False
+||
+zh_Tw 1 8:22
+//
+琳再一次重复了计划的紧迫性，指出圣塔分布在基沃托斯六处地方，其中以DU白鸟区的能量最强，因此提议最后再来清除。就在这时阳葵接入通讯。
+Rin Kayoko Hanako Ako Yuuka Ayumu Himari
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+阳葵表示，他们通过大姐大留下的装备尝试访问虚假的圣所时遭到大量敌人阻止。
+Himari Eimi
+OST_101
+BG_CS_PV4_034.jpg
+//
+季被选中执行这项任务，通话间隙，英美指示季进行撤离。
+Toki
+OST_101
+BG_RuinCity_Erode.jpg
+//
+阳葵还指出，这些地方出现了此前基沃托斯出现的全部特异现象，并指出需要击败各地区守护者才可成功。
+Himari
+OST_101
+BG_CS_PV4_043.jpg BG_CS_PV4_048_2.jpg BG_AriusBasilica_Night.jpg BG_RuinCity_Erode.jpg BG_EriduCityTown_Erode.jpg
+--
+确认平民安全
+False
+||
+zh_Tw 1 10:20
+//
+情况明晰，但桃香指出需要先保护平民的安全才行。
+Momoka
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+三一茶会接入通讯并表示负责。
+Nagisa Mika Seia
+OST_101
+BG_TrinityTerrace.jpg
+//
+格黑娜风纪委员会与急救医学部表示负责。
+Iori Chinatsu Sena
+OST_101
+BG_SlumFront.jpg
+//
+赤冬事务局表示负责。
+Tomoe Marina
+OST_101
+BG_WinterRoad.jpg
+//
+百鬼夜行阴阳部与修行部表示负责作战。
+Kaho Chise Tsubaki
+OST_101
+BG_HyakkiyakoMeetingroom2.jpg
+//
+节庆营运管理部表示将负责支援。
+Shizuko Umika
+OST_101
+BG_HyakkiyakoFestivalRoad.jpg
+//
+山海经的炼丹术研究会与梅花园表示负责；
+Saya Shun Kokona
+OST_101
+BG_ShanStreet.jpg
+//
+玄武商会表示将提供后备支援。
+Rumi
+OST_101
+BG_ShanTeaHouse.jpg
+//
+女武神生活安全局和公安局表示负责。
+Kirino Fubuki Kanna
+OST_101
+BG_CityOffice.jpg
+//
+千年特异现象搜查部表示负责。
+Himari Eimi
+OST_101
+BG_SpecialOperationRoom.jpg
+--
+最后的准备
+False
+||
+zh_Tw 1 12:27
+//
+琳让老师担任计划的总指挥。为了统筹计划安排，琳让所有人将时间调整到基沃托斯标准时间。
+Rin Momoka Ayumu
+OST_101
+BG_SchaleOperationRoom2.jpg BG_CS_PV4_030.jpg
+//
+两周倒计时正式开启，“虚假的圣所攻略战”正式开始。
+Momoka Ayumu Rin
+OST_101
+BG_CS_PV4_028.jpg
+--
+不存在的葛业
+False
+||
+zh_Tw 1 13:11
+//
+阴阳部表示，葛业并不在百鬼夜行的学生名册上，但提到有一个地方记载了相关内容：在百鬼夜行尚未成立时，葛业设立了“百花缭乱”以调停纷争。尽管目前仍有传言百花缭乱的委员长会直接听命于她，但由于百花缭乱的正副委员长已经长时间无法联络，因而百花缭乱即将被废部――在似乎无望之际，仁耶提出了一个方法。
+Niya Kaho Seia
+OST_105
+BG_HyakkiyakoMeetingroom2.jpg
+;;
