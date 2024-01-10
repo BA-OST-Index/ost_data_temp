@@ -1,0 +1,422 @@
+;;
+b00cce0e-72fe-49f4-9b6a-641fae449073
+14
+999 1
+開戰
+終於所有攻略準備結束，總攻擊即將開始。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=21 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+基沃托斯全地区
+False
+//
+基沃托斯全地区都被不详的红光所笼罩。
+
+OST_41
+BG_CS_S1Final_14.jpg BG_CS_PV4_008_2.jpg BG_BigBridge.jpg BG_CityOffice_Ruin.jpg BG_Residence.jpg BG_Park_Erode.jpg BG_View_Schale_erode.jpg
+--
+开战倒计时
+False
+||
+zh_Tw 1 28
+//
+全员等待着，等待琳的一声令下。
+Ayumu Rin Momoka Arona
+OST_41
+BG_HQ_Erode.jpg BG_CS_PV4_044.jpg
+;;
+
+;;
+5e9083fd-e183-436f-a598-84752c2ba553
+14
+999 1
+第1聖所【合并】
+以阿拜多斯的對策委員會與格黑娜的便利屋68為首，對付第1聖所的守護者薇娜。
+琳告知第1聖所已經被摧毀了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=22 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+薇娜的出现
+False
+//
+便利屋68按照规划引出了薇娜，对策委员会与真纪开始移动并攻击。
+Serika Nonomi Hoshino Maki Ayane
+OST_24
+BG_Wilderness_Erode.jpg BG_CS_PV4_045.jpg
+//
+便利屋68的众人在远处完成任务后，待机并观察。薇娜发起攻击，正中对策委员会众人。
+Mutsuki Haruka Aru
+OST_24
+BG_CS_PV4_046.jpg
+--
+攻击就位
+False
+||
+zh_Tw 1 1:05
+//
+真纪和绫音确认对策委员会的状态，还好众人没事。绫音下令第一圣所攻略战开始。
+Maki Ayane Hoshino Nonomi Serika
+OST_65
+BG_Wilderness_Erode.jpg BG_CS_PV4_047.jpg
+--
+第一圣所攻略战
+True
+||
+zh_Tw 1 1:55
+//
+对策委员会和便利屋68共同对峙色彩化后的薇娜。
+Hoshino Nonomi Aru Mutsuki Serika Haruka
+OST_24
+
+--
+第一圣所攻略战成功
+False
+||
+zh_Tw 1 4:30
+//
+琳宣布第一圣所攻略战成功。
+Rin
+OST_12
+BG_HQ_Erode.jpg
+;;
+
+;;
+e16c2c83-c0fc-4fe7-a412-17d78ca4623c
+14
+999 3
+第2聖所【合并】
+寧瑠與弦生率先對付赫賽德的士兵。但十字神名的兵力沒有減少，就在危機感高漲之際，赤冬聯邦學園的援軍加入了。
+桃香告知第2聖所已經被摧毀了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=23 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+最后交战
+False
+//
+英美宣布交战即将结束。宁瑠和弦生互相称赞了对方的实力。不过敌人数量还是太多了，两支队伍有些疲于应付。
+Eimi Ichika Karin Akane
+OST_48
+BG_DestructionFront.jpg
+//
+Neru Tsurugi
+OST_48
+BG_CS_PV4_052.jpg
+--
+赤冬的支援
+False
+||
+zh_Tw 1 31
+//
+就在这时赤冬的支援到达现场。
+MemberOfRedWinterOffice Ichika Akane Cherino Karin Tsurugi Asuna Neru Eimi
+OST_84 OST_3 OST_48
+BG_DestructionFront.jpg BG_CS_PV4_051.jpg BG_CS_PV4_053.jpg
+--
+第二圣所攻略战
+True
+||
+zh_Tw 1 1:36
+//
+三支队伍一同开始对峙色彩化的赫德赛。
+Neru Cherino Asuna Eimi Karin Tsurugi Akane MemberOfRedWinterOffice
+OST_48
+
+--
+第二圣所攻略战成功
+F
+||
+zh_Tw 1 4:32
+//
+桃香宣布第二圣所攻略战成功。
+Momoka
+OST_65
+BG_HQ_Erode.jpg
+;;
+
+;;
+8eebc95c-30ce-47b6-93c0-c04454498061
+14
+999 4
+第3聖所【合并】
+RABBIT小隊、遊戲開發部、以及陽奈在對抗第3聖所的守護者白&黑。
+步告知第3聖所已經被摧毀了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=24 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+攻击准备完毕
+False
+//
+柚子宣布对第三圣所的攻击准备完成。
+Yuzu Hina Aris
+OST_56
+BG_Amusement_Erode.jpg BG_CS_Millenium_02.jpg BG_CS_Millenium_02.jpg
+--
+第三圣所攻略战
+True
+||
+zh_Tw 1 21
+//
+RABBIT小队、游戏开发部、阳奈和前卫君Mk3一起对峙色彩化的白与黑。
+Hina Aris Miyako Miyu Moe Saki Momoi Midori
+OST_56
+
+--
+第三圣所攻略战成功
+False
+||
+zh_Tw 1 1:57
+//
+步宣布第三圣所攻略战完毕。
+Ayumu
+OST_12
+BG_HQ_Erode.jpg
+;;
+
+;;
+3730564a-e7e2-459f-86fe-3631d89d6428
+14
+999 5
+第4聖所【合并】
+奧利斯小隊和三一的修女會組成的隊伍則負責去對付第4聖所的守護者耶羅尼姆斯。
+琳告知第4聖所已經被摧毀了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=25 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+准备攻击
+False
+//
+救援骑士团预备攻击。
+Mine Hanako Sakurako
+OST_85
+BG_CS_PV4_054.jpg BG_CS_PV4_056.jpg
+//
+奥利斯小队的攻击就位。
+Saori Atsuko
+OST_85
+BG_RuinInside.jpg BG_CS_PV4_055.jpg
+--
+第四圣所攻略战
+True
+||
+zh_Tw 1 53
+//
+救援骑士团和奥利斯小队共同对峙色彩化后的耶罗尼姆斯。
+Mine Hinata Saori Atsuko Serina Hiyori Misaki
+OST_85
+
+--
+第四圣所攻略战成功
+False
+||
+zh_Tw 1 3:32
+//
+琳宣布第四圣所攻略战成功。
+Rin
+OST_12
+BG_HQ_Erode.jpg
+;;
+
+;;
+59e06ba5-cc21-4ba7-a707-a428bf98c990
+14
+999 6
+第5聖所【合并】
+以千年的研討會與格黑娜的溫泉開發部為首，對付第5聖所的守護者霍德。
+桃香告知第5聖所已經被摧毀了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=26 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+准备就绪
+False
+//
+研讨会三人成功将霍德引诱到地面上。
+Yuuka Noa Koyuki
+OST_100
+BG_CS_PV4_057.jpg
+//
+贝里塔斯回报温泉开发部已经拆除所有柱子。
+Chihiro Kasumi Megu
+OST_100
+BG_ComputerCenter.jpg BG_CS_PV4_059.jpg
+--
+第五圣所攻略战
+True
+||
+zh_Tw 1 42
+//
+研讨会和温泉开发部一同对峙色彩化后的霍德。
+Megu Yuuka Noa Chihiro Hare Koyuki MemberOfHotSpringsDepartment
+OST_100
+
+--
+第五圣所攻略战成功
+False
+||
+zh_Tw 1 3:52
+//
+桃香宣布第五圣所攻略战成功。
+Momoka
+OST_12
+BG_HQ_Erode.jpg
+;;
+
+;;
+a7f145d1-edcf-4dfd-92b3-c85969fad6f6
+14
+999 7
+新的危機
+隨著5個聖所都攻陷後，被摧毀的聖所再次出現高濃度能量的反應。為了前往第6聖所進行最後的戰役，大家決定再次攻略剛剛攻陷的5個聖所。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=27 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+最后的战斗
+False
+//
+就在众人准备对第六圣所进行攻略时，众人发现其他被破坏了的圣所再次出现极高的能量反应。
+Momoka Rin Ayumu
+OST_75 OST_142
+BG_HQ_Erode.jpg BG_CS_S1Final_14.jpg BG_CS_S1Final_05.jpg
+--
+各个圣所所在地
+False
+||
+zh_Tw 1 24
+//
+各个圣所所在地再次陷入危机。
+Ayumu Rin Momoka
+OST_142
+BG_Wilderness_Erode.jpg BG_RiversideRoad_Erode.jpg BG_EriduCityTown_Erode.jpg BG_Amusement_Erode.jpg BG_RuinCity_Erode.jpg
+--
+功亏一篑
+False
+||
+zh_Tw 1 66
+//
+琳下令对五座重新生成的圣所与第六座圣所发动攻击。此时，活动进入第二阶段。
+Momoka Rin Ayumu Himari
+OST_142
+BG_HQ_Erode.jpg
+;;
+
+;;
+32240b7f-3910-4da0-97f0-e7f0b510c831
+14
+999 8
+第6聖所【合并】
+美食研究會和剛會合的日步美、梓共同對付D.U.白鳥區第6聖所的守護者佩洛洛吉拉。
+總部通知第6聖所已經攻略完成了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=28 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+大地的晃动
+False
+//
+DU白鸟区的大地一下一下地晃动着。
+
+OST_98
+BG_CityOffice_Ruin.jpg
+//
+日步美和梓无法相信自己的眼睛，他们看到了巨大化的佩洛洛吉拉正在入侵DU白鸟区。
+Hifumi Azusa
+OST_98
+BG_CS_PV4_061.jpg BG_CityOffice_Ruin.jpg
+//
+美食研究会同样观察到了，并试图进一步观察。
+Haruna Junko Izumi Akari
+OST_98
+BG_CS_PV4_060.jpg
+--
+第六圣所攻略战
+True
+||
+zh_Tw 1 1:20
+//
+美食研究会、补习部和供给部共同加入对峙色彩化后的佩洛洛吉拉。
+Haruna Akari Junko Izumi Fuuka Juri Azusa Hifumi
+OST_98
+
+--
+第六圣所攻略战成功
+False
+||
+zh_Tw 1 4:20
+//
+步宣布第六圣所攻略战成功。
+Ayumu Momoka Rin
+OST_12
+BG_SchaleOperationRoom2.jpg BG_HQ_Erode.jpg
+;;
+
+;;
+72d7109f-949f-4857-929b-a480690c5060
+14
+999 9
+最終聖所【合并】
+五個聖所全都消滅了，但能量全都集中在第6個聖所。在「最後聖所」進行決戰，現在命運全都取決於陽葵拿出的秘密武器。
+確認順利消滅最後的聖所了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=29 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+最后的圣所
+False
+//
+阳葵和琳等人注意到各个圣所的能量正在共同朝一个方向聚集，生成了最后的圣所。
+Ayumu Momoka Himari Rin
+OST_101
+BG_HQ_Erode.jpg
+--
+阳葵的秘密武器
+False
+||
+zh_Tw 1 21
+//
+阳葵突然说自己有秘密武器。英美有些不解。千寻解释说，阳葵认为圣所的能量应该可以使一个东西在三分钟内扩大化。就在阳葵物色该扩大什么的时候，老师有了主意。
+Himari Eimi Chihiro
+OST_68
+BG_SpecialOperationRoom.jpg
+--
+凯坦泽的支援
+False
+||
+zh_Tw 1 01:34
+//
+老师找到了凯坦泽，让她们把自己的机甲扩大。
+Kaitenger
+OST_78
+BG_CityOffice_Ruin.jpg
+//
+特异现象搜查部和贝里塔斯有些怀疑计划的可行性。
+Himari Chihiro Eimi
+OST_78
+BG_SpecialOperationRoom.jpg
+//
+另一方面，日步美和梓看见了巨大化的寿司机甲。
+Hifumi Azusa
+OST_78
+BG_CS_PV4_061.jpg
+//
+寿司机器人与佩洛洛吉拉交战。
+Kaitenger Junko Izumi Haruna Akari
+OST_72
+BG_CityOffice_Ruin.jpg BG_CS_PV4_062.jpg
+--
+寿司机甲VS佩洛洛吉拉（色彩）
+True
+||
+zh_Tw 1 03:03
+//
+寿司机甲对峙佩洛洛吉拉（色彩）。此战斗为预先编排好的战斗脚本，其中寿司机甲最终一定能将佩洛洛吉拉击败。
+Kaitenger
+OST_151
+
+--
+最终圣所破坏成功
+False
+||
+zh_Tw 1 5:40
+//
+琳、桃香和步宣布最后的圣所攻略成功。事情暂且告一段落。
+Rin Momoka Ayumu
+OST_40
+BG_CS_S1Final_05.jpg BG_HQ_Erode.jpg
+;;
