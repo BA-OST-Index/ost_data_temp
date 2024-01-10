@@ -1,0 +1,1787 @@
+;;
+8bd3f771-2bfc-4695-b16a-48e3136ffd50
+11
+finalS1 3 1
+職責
+忍術研究部在百鬼夜行的大雪原遇見了百花繚亂的副部長名草。突然現身的白子警告老師說未來早已決定好，是無法改變的。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/ [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+雪原深处
+False
+//
+忍术研究部众人来到了雪原深处，在那敌人突然全部消失不见。
+Michiru Izuna Tsukuyo
+OST_16
+BG_WinterRoad.jpg
+--
+变蓝的天空
+False
+||
+zh_Tw 1 20
+//
+天空变回了原本的蓝色天空，众人知道老师一定成功了，对此感到高兴。就在这时他们受到攻击。
+Izuna Tsukuyo Michiru
+OST_28
+BG_CS_S1Final_14.jpg BG_WinterRoad.jpg
+--
+一个奇怪的coser
+False
+||
+zh_Tw 1 55
+//
+众人遇到了一个像是百花缭乱部的成员。起先有人以为是部长，但三千留感觉并不像。那人先矢口否认自己的身份，称自己只是个coser，但更遭到三千留的怀疑。
+Michiru Tsukuyo Izuna Nagusa
+OST_3 OST_130
+BG_WinterRoad.jpg
+--
+百花缭乱副部长
+False
+||
+zh_Tw 1 180
+//
+那人最后承认自己的身份，是百花缭乱的副部长名草。她向众人表示，寺院已经被破坏，已经没法找到委员长。
+Nagusa Michiru Izuna Tsukuyo
+OST_6
+BG_WinterRoad.jpg
+--
+给夏莱的一封信
+False
+||
+zh_Tw 1 3:23
+//
+众人表示他们寻找部长的原因是受夏莱所托。听闻这话，副部长将一个卷轴交给了他们，之后匆匆离开。众人好奇打开卷轴。
+Tsukuyo Nagusa Michiru Izuna
+OST_6
+BG_Wilderness
+--
+与另一位白子的对峙
+False
+||
+zh_Tw 1 4:6
+//
+另一位白子突然出现在老师的办公室。她对老师能够走到这一步有些惊讶，但表示基沃托斯的未来无法改变，她自己给世界带来毁灭的目标也不会改变。老师以为白子被色彩控制，但白子否认了这一点，并指出实际是自己在控制色彩。
+ShirokoTerror
+OST_73
+BG_MainOffice.jpg BG_CS_S1Final_17.jpg
+--
+无法改变的既定命运
+False
+||
+zh_Tw 1 4:49
+//
+白子再次表示，命运已经定好，无法再次改变。她不愿伤害老师，希望老师能离开基沃托斯。她指出她的职责就是将老师引导到这里，然后结束老师――她并不会在这点上犹豫。
+ShirokoTerror
+OST_73
+BG_MainOffice.jpg BG_CS_Abydos_02.jpg BG_CS_S1Final_04.jpg
+--
+入侵者
+False
+||
+zh_Tw 1 5:19
+//
+琳向老师报告基沃托斯各地又出现了高浓度的能量反应，却正好撞上了另一个白子。条件反射的琳立刻开枪，桃香和步闻声而来，警告有入侵者。绫音随后赶到，也遇到了那位白子。白子立刻尝试逃走，老师试图紧随其后。
+Rin ShirokoTerror Momoka Ayumu Ayane
+
+BG_MainOffice.jpg
+--
+在那一个空间里
+False
+||
+zh_Tw 1 5:53
+//
+老师随着白子进入到了另一个空间，见到了紫色的大厅、那一位白子和“色彩的向导者”。
+ShirokoTerror Phrenapates
+OST_48
+BG_MainOffice.jpg BG_CS_S1Final_20.jpg BG_CS_S1Final_28_2.jpg BG_CS_S1Final_21.jpg BG_View_Atrahasis_erode.jpg BG_CS_PV4_144_2.jpg
+//
+但老师被立刻丢出空间之外，回到了办公室。众人被镇住了。
+Rin Momoka Ayane Ayumu
+
+BG_MainOffice.jpg
+;;
+
+;;
+a164c565-4cd7-45e5-816f-b937d486594c
+11
+finalS1 3 2
+異變
+奇普托斯的天空再次出現了超高濃度的能量體，不久後虛假的聖所再次出現，整個氣氛瀰漫著危機。對策委員會的所有人目標都一致，大家都認為要把白子帶回來。發現色彩的嚮導者誘騙者的所在地了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=2 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+黑色西服人与玛艾斯托洛
+False
+//
+在色彩袭击后，黑色西服人和玛艾斯托洛受伤严重，后者甚至是黑服临时拼接的。黑服指出色彩似乎看透了一切，夺走了他们所拥有的一切力量。
+BlackSuit Maestro
+OST_73
+BG_RuinCity.jpg
+--
+原地解散
+F
+||
+zh_Tw 1 47
+//
+由于色彩的活动，黑色西服人表示基沃托斯已经不适合他们继续活动。玛艾斯托洛询问这是否意味着基沃托斯的终结，而黑服则提到了老师。黑服突然宣布盖玛特利亚原地解散。之后两人交流了一下其他各成员的情况。
+BlackSuit Maestro
+OST_73
+BG_CS_PV4_045.jpg BG_CS_PV4_048.jpg BG_CS_PV4_051.jpg BG_CS_PV4_054.jpg BG_CS_PV4_057.jpg BG_CS_PV4_062.jpg
+--
+能量体再出现
+False
+||
+zh_Tw 1 1:55
+//
+桃香向琳等人报告，指出基沃托斯上空再次出现了能量浓度极高的能量体。
+Rin Momoka Ayumu
+OST_27
+BG_CS_S1Final_05.jpg
+--
+圣亚的解释
+False
+||
+zh_Tw 1 2:17
+//
+圣亚向对策委员会众人表示，白子应该是接触了色彩才变得那样。众人无法理解这番话的含义。圣亚指出，白子或许是认为自己的世界再无方法改变，于是顺从了所谓命运的指引。
+Serika Hoshino Nonomi Seia Ayane
+OST_55
+BG_CommitteeRoom.jpg
+--
+未知的色彩
+False
+||
+zh_Tw 1 2:59
+//
+众人理解了圣亚的话，指出这似乎表明全是那“色彩”搞的鬼。圣亚表示目前没有办法能将白子变回来，但老师已经向百鬼夜行请求帮助，自己也在和修女会一同研究。
+Serika Ayane Nonomi Seia
+OST_55
+BG_CommitteeRoom.jpg
+--
+没有复原的方法
+False
+||
+zh_Tw 1 3:27
+//
+忍术研究部一行人打开了信件，信中指出，被色彩侵蚀之人没有复原的方法，如同逝者不可再生，是世界的绝对法则。
+Izuna Tsukuyo Michiru
+
+BG_WinterRoad.jpg
+--
+新的圣所
+False
+||
+zh_Tw 1 3:50
+//
+琳指出这次情况较上次更加不同：这次的能量浓度更高，意味着较上次相比，此次圣所的降临可能会更快――但这时各自治区却还在整理事务中，实在是再坏不过。
+Ayumu Momoka Rin
+OST_129
+BG_HQ2.jpg
+--
+老师的自责
+False
+||
+zh_Tw 1 4:52
+//
+看不见摸不着的圣所与能量体，意味着众人无法对其从物理层面上打击。
+Ayumu Rin
+OST_129
+BG_HQ2.jpg
+//
+老师向各位道歉，表示自己早就清楚一切事情――白子的变化、基沃托斯的总结、敌人的警告――如果不是他轻视事情的严重性，一切就可能都不会发生。
+
+OST_129
+BG_CS_PR_08.jpg BG_CS_PV3_02_2.jpg BG_CS_Arius_03.jpg BG_CS_PV4_144_2.jpg
+//
+琳表示自己也有过错。
+Rin Momoka Ayumu
+OST_129
+BG_HQ2.jpg
+--
+只要把白子带回来就好
+False
+||
+zh_Tw 1 6:09
+//
+就在老师和琳自责时，星野从对策委员会的课室接入通讯。她指出他们应对付的是色彩，并且只要把白子带回来就好――如果真的与白子有挂关，把她“抓”回来就好。星野最后安慰老师，让老师乐观些；老师也承诺会将白子带回来。
+Hoshino Ayane Serika Nonomi
+OST_32
+BG_CommitteeRoom.jpg
+--
+位于75000m的高空
+False
+||
+zh_Tw 1 7:41
+//
+琳询问桃香能否最终能量体间的能量流动情况。桃香照做，发现的确有一个能量中心点。
+Rin Momoka Ayumu
+OST_65
+BG_HQ2.jpg BG_CS_S1Final_05.jpg
+//
+那是基沃托斯上空75000m的一处地方――那便是，色彩的向导者，“诱骗者”的所在。
+
+OST_65
+BG_CS_S1Final_28_2.jpg BG_CS_PV4_145_2.jpg
+;;
+
+;;
+54baa71f-41f3-4500-838a-375494d9e65a
+11
+finalS1 3 3
+方法
+雖然嘗試攻擊推測是誘騙者所在的地方，但利用目前的攻擊方式根本就無法造成傷害。老師遇見了黑色西裝人，從對方口中得知可以觸及誘騙者的方法。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=3 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+未知的能量体
+False
+//
+阳葵和千寻对能量中心点居然能在这么高的地方出现而感到惊奇。阳葵表示大家没有能力能够到达那个高度，而且也由于其外层被一层膜保护而无法探测。
+Himari Chihiro Utaha
+OST_65
+BG_SpecialOperationRoom.jpg
+--
+大姐大的遗产
+False
+||
+zh_Tw 1 25
+//
+阳葵提到莉央――大姐大在都市里留下了一种导弹，以便对抗来自空中的威胁。阳葵委托贝里塔斯进行骇入，并要工程部一起参与。
+Himari Chihiro Utaha
+OST_65
+BG_SpecialOperationRoom.jpg
+--
+命中失败
+False
+||
+zh_Tw 1 52
+//
+工程师部惊讶的发现莉央的导弹没什么用，其在到达目标后直接穿透了过去。
+Utaha Kotori Hibiki Chihiro
+OST_27
+BG_CS_PV4_106_2.jpg BG_CS_S1Final_28_2.jpg BG_ComputerCenter.jpg
+//
+优香了解到后极为震撼。阳葵指责莉央，说她就和这些导弹一样没用，而且到现在还不肯出现。
+Yuuka Himari
+OST_27
+BG_SpecialOperationRoom.jpg
+--
+一种对结构的可能解释
+False
+||
+zh_Tw 1 2:9
+//
+夏莱指挥室，众人了解到了千年那边的情况，感到有心无力。
+Ayumu Momoka
+OST_65
+BG_HQ2.jpg
+//
+这时，三一的花子突然接入通讯，指出她有一种对当前情况的解释。
+Hanako Rin Himari
+
+BG_HQ2.jpg
+--
+一种共存状态
+False
+||
+zh_Tw 1 2:34
+//
+花子指出，无论是圣所还是天上的那个能量体，似乎都表明他们存在一种“共存状态”。更准确的说，这是“多次元诠释”――那个空间将一切的可能都糅合到了一起，形成一种混沌共存的状态。在这种情况下，基沃托斯所在的“确定的世界”无法加以干涉。
+Shimiko Ui Sakurako Mari Nagisa Seia Hanako Himari Yuuka Ako Ayane Momoka
+OST_129
+BG_TrinityOldLibrary.jpg
+--
+外层的保护膜
+False
+||
+zh_Tw 1 3:46
+//
+然而，花子也指出，她推测或许只有外面的一层是处于这种情况，否则内部无法向地面的圣所传递能量。从这个角度出发，只要能够破坏保护膜，对其本体应当就能发起攻击。
+Hanako Himari
+OST_129
+BG_CS_S1Final_28_2.jpg
+--
+共存的“共振”参数
+False
+||
+zh_Tw 1 4:05
+//
+为了对保护罩加以干涉，就必须要使他们处于和保护罩一样的情况。花子指出，他们可以将这种达到“共存状态”的过程理解为“使物体与之共振”的概念――但那需要进行多次元诠释，而只有量子电脑能做得到。
+Himari Hanako Yuuka Kayoko
+OST_129
+BG_SpecialOperationRoom.jpg
+--
+一条死路
+False
+||
+zh_Tw 1 4:45
+//
+事态并没有向好的方向发展。众人意识到，如果不摧毁本体，圣所之塔就会一直出现――优香抱怨这种事完全违反热力学第一定律，不过佳世子则指出，毕竟是囊括了一切可能性的“多次元”空间。
+Himari Yuuka Kayoko Hanako Ayane
+OST_129
+BG_SpecialOperationRoom.jpg
+--
+离开的老师
+False
+||
+zh_Tw 1 5:13
+//
+就在众人讨论对策时，琳等人却发现老师突然离开了。
+Rin Momoka Ayumu
+OST_129
+BG_HQ2.jpg
+--
+一个方法
+False
+||
+zh_Tw 1 5:31
+//
+老师去找了黑服。黑服说当然有，而且凭借那个东西可能真能到达能量体所在的高空。黑服问老师愿意付出什么代价，不过他立刻明白了老师此行就是不惜一切代价。黑服开玩笑，建议老师加入盖玛特利亚，不过立刻表示这一组织已经解散。
+BlackSuit
+OST_92
+BG_CS_PV4_003_3.jpg BG_GematriaCorridor.jpg
+--
+方法的风险
+False
+||
+zh_Tw 1 6:10
+//
+因为组织解散，黑服决定跟老师特别说明一次，但警告老师可能会在使用时丧命――老师无畏一切。
+BlackSuit
+OST_92
+BG_GematriaCorridor.jpg
+--
+位于阿拜多斯的存在
+False
+||
+zh_Tw 1 6:34
+//
+黑服最后向老师透露，他说的东西和方法，位于阿拜多斯。
+BlackSuit
+
+BG_GematriaCorridor.jpg
+;;
+
+;;
+530065b2-0c4e-4526-a715-f80e8704f215
+11
+finalS1 3 4
+位於阿拜多斯的某物（１）
+誘騙者的居住處、可前往阿特拉哈西斯的方舟的方法全都在阿拜多斯。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=4 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+阿特拉哈西斯的方舟
+False
+//
+黑服告诉老师，天上的那个东西实为阿特拉哈西斯的方舟，是古代文明的造物――先前，同样名字的方舟在千年出现过，也就是桃井等人发现的爱丽丝。黑服表示，这些东西都是以往基沃托斯的居民“无名之神”的遗产，而如果事实的确如此的话，那么现在就没有能与之抗敌的技术，除了一样古代武器。
+BlackSuit
+OST_70
+BG_GematriaCorridor.jpg BG_View_Atrahasis.jpg
+--
+一样远古兵器
+False
+||
+zh_Tw 1 55
+//
+黑服表示，那样兵器就在阿拜多斯的沙漠下，也是他通过凯撒公司了解到的。当时，他只不过是为了获得星野而与凯撒合作，也并不指望能之后利用他们挖出来的东西；但他提到的这个东西引起了凯撒总裁的兴趣，因为这样似乎就表明他能够以武力征服整个基沃托斯，也正是为什么PMC先前入侵了联邦学生会――但是，虚假的圣所出现了，总裁断定他在没有圣所之塔的情况下也许无法启动武器，所以选择了撤退。黑服认为，能够启动它的估计只有希蒂姆的箱子的持有者，也就是老师。
+BlackSuit
+OST_70
+BG_GematriaCorridor.jpg BG_Wilderness.jpg BG_CS_Abydos_05.jpg BG_UpperOffice_Night.jpg BG_DesertCamp.jpg BG_GeneralMeetingRoom_Night.jpg BG_CS_S1Final_14.jpg
+--
+何为远古兵器
+False
+||
+zh_Tw 1 2:18
+//
+老师询问远古兵器究竟是什么，而黑服则向老师做了解释：起初，他也以为那是跟方舟一样的存在，但最后他发现那是艘船――“生命守护者主舰”――更简单的来说，一艘宇宙战舰。
+BlackSuit
+OST_70
+BG_GematriaCorridor.jpg
+;;
+
+;;
+e2f3c066-fd26-4eb1-8602-a380ed3c5fd2
+11
+finalS1 3 5
+位於阿拜多斯的某物（２）
+為了從凱薩PMC手中奪下「超古代兵器」，對策委員會前往凱薩的挖掘地。
+終於在挖掘地發現了「超古代兵器」。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=5 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+凯撒与远古武器
+False
+//
+联邦学生会和阳葵来到了阿拜多斯对策委员会的教室。
+Rin Himari Momoka Ayumu Ayane
+
+BG_SchoolFrontGate.jpg
+//
+琳回忆起总裁曾对她说的话，他说只要有了所谓“远古兵器”就能占有整个基沃托斯――这确实是很奇怪的一件事。
+Rin PMC_President
+OST_129
+BG_GeneralMeetingRoom_Night.jpg
+--
+只要抢过来就好了吧
+False
+||
+zh_Tw 1 50
+//
+星野接入通讯，此刻对策委员会的其他人已经到了阿拜多斯沙漠。众人终于理解为何凯撒要蚕食阿拜多斯的土地，也明白了所谓“寻宝”是什么东西。星野认为，在这种情况下，只要把武器抢过来就好；绫音提醒星野那里是凯撒的私有土地，不过星野表示“为何不效仿一下白子”，随即全员戴上了面罩。
+Hoshino Ayane Serika Nonomi Ayane
+OST_129
+BG_CommitteeRoom.jpg BG_Wilderness.jpg
+--
+挺大的古代兵器
+False
+||
+zh_Tw 1 1:30
+//
+绫音有些猝不及防，不过还是顺着他们戴上了面罩。她提到说凯撒似乎已经撤离了那个基地，听到这话的星野有点失落，摘下了面罩。阳葵表示要将武器带回来可能有些困难，因而他们随后也会到场；星野疑惑武器的大小，而阳葵说，根据老师的说法，那是一艘宇宙战舰。众人吃了一惊。
+Serika Hoshino Nonomi Ayane Himari
+OST_3
+BG_Wilderness.jpg
+--
+PMC大劫案
+False
+||
+zh_Tw 1 2:37
+//
+众人来到了PMC在沙漠里的基地，发现PMC士兵已经在圣所消失后回来。放倒PMC士兵后，众人与出现的残留圣所敌人交战。
+PMC_Solider Hoshino Nonomi Serika Ayane
+OST_49
+BG_DesertCamp.jpg
+--
+交战
+True
+||
+zh_Tw 1 3:28
+//
+与色彩化的敌人交战。
+Hoshinio Nonomi Serika Ayane Himari
+OST_20
+
+--
+地下入口
+False
+||
+zh_Tw 1 4:45
+//
+众人发现了一个地下入口。在那里面，他们找到了一个挖掘现场，挖掘现场里正屹立着一艘船舰。
+Ayane Serika Nonomi Hoshinio
+OST_92
+BG_DesertCamp.jpg BG_ArkCorridor.jpg BG_VehiclePowerRoom_Night.jpg BG_CS_S1Final_22.jpg
+;;
+
+;;
+b1574b86-17a7-477a-a6f7-b2891809472d
+11
+finalS1 3 6
+生命守護者主艦（１）
+在外觀如同宇宙戰艦的「生命守護者主艦」上聚集著各個學園的學生。而且Kei警告愛麗絲遠離那艘船。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=6 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+一艘大型战舰
+False
+//
+战舰上的一切都让大家感到新奇，一切都像模像样。琳提到这艘战舰的规模，认为可能需要大量人手共同协作才能成功，此外对其结构与运行方式尚不清晰。
+Rin Momoka Ayumu
+OST_129
+BG_UtnapishtimBridge_V1.jpg BG_CS_PV4_067_2.jpg BG_CS_PV4_069_2.jpg BG_CS_PV4_070_2.jpg
+//
+阳葵提出请求夏莱的帮助，调动一切可能的力量进行支援；她先与贝里塔斯的千寻取得联系，表示之后可能会非常忙碌。
+Rin Himari Chihiro
+OST_129
+BG_UtnapishtimBridge_V1.jpg
+--
+兴奋的孩子们
+False
+||
+zh_Tw 1 56
+//
+工程部和游戏开发部登上主舰。工程部和爱丽丝一见到战舰就兴奋的喊了出来。工程部已经迫不及待想要对其分析一番，咏叶甚至提到爱丽丝的光之剑终于能被切实地用在宇宙战舰上了。
+Kotori Hibiki Utaha Aris Chihiro
+OST_40
+BG_UtnapishtimBridge_V1.jpg
+--
+优香妈妈
+False
+||
+zh_Tw 1 1:24
+//
+优香对爱丽丝居然跟着上主舰一事感到惊讶，毕竟她可是曾经向她保证会留在千年，不过立刻招致桃井等人的不满。优香认为千年应该是最安全的，不过乃爱则表示事情可能并不尽然。正说着话，游戏开发部四人趁机溜走，优香瞬间慌了，而乃爱则淡淡一笑。
+Yuuka Aris Momoi Midori Yuzu Noa
+OST_40
+BG_UtnapishtimBridge_V1.jpg
+--
+分析战舰硬件
+False
+||
+zh_Tw 1 2:44
+//
+工程部众人开始分析战舰的硬件构成，发觉它可能不具备反重力飞行的能力。
+Utaha Kotori
+OST_33
+BG_VehiclePowerRoom.jpg
+--
+破译战舰系统
+False
+||
+zh_Tw 1 2:45
+//
+贝里塔斯对战舰系统的分析取得阶段性成果，目前允许阳葵与战舰进行神经连接以分析系统。
+Chihiro Kotama Hare
+OST_33
+BG_VehiclePowerRoom.jpg
+//
+花子询问阳葵进度如何，阳葵表示虽尚不能进行控制，但控制了中枢就能对整体进行控制。
+Hanako Himari
+OST_33
+BG_UtnapishtimBridge_V1.jpg
+--
+战舰的规格
+False
+||
+zh_Tw 1 3:56
+//
+阳葵连接了战舰系统，查看到战舰的结构，确实挺像一艘战舰，但却没有发现武器或可飞行的物品。阳葵表示具体情况必须要进一步分析。
+Himari Hanako
+OST_33
+BG_CS_PV4_068_2.jpg BG_UtnapishtimBridge_V1.jpg
+--
+Kei的警告
+False
+||
+zh_Tw 1 4:33
+//
+Kei在意识中警告爱丽丝，称对方不仅身份不明，而且还以某种方法复制了她“阿特拉哈西斯的方舟”的能力。这艘船，是远古人民为了对抗方舟而生的，因而对她是天然的天敌，对她有着生命威胁。她希望爱丽丝能够听她的，尽快离开。
+ArisKey
+OST_92
+BG_RuinCenter.jpg
+;;
+
+;;
+475330ab-dd17-46c8-83b4-6220c11d376b
+11
+finalS1 3 7
+生命守護者主艦（２）
+在工程師部的協助下，得知利用生命守護者主艦就能攻略在天空的阿特拉哈西斯的方舟。攻略阿特拉哈西斯的方舟的作戰計劃書終於完成了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+无法理解的战舰
+False
+//
+步前来询问工程部的进展如何，但可惜的是连工程部甚至都不理解这艘战舰的构造和原理。不过，众人表示只要明白输入与输出的关系就好，根据对应关系即可写出操作手册。
+Ayumu Utaha Hibiki Kotori
+OST_129
+BG_VehiclePowerRoom.jpg
+--
+完全不算一艘战舰
+False
+||
+zh_Tw 1 62
+//
+更加深入的分析指出，这艘“战舰”并非所谓宇宙战舰。其不仅没有携带武器，而且最大飞行高度也仅限于100千米――但更引人瞩目的是，这艘船绝大部分都是逻辑运算装置，换言之这实际上是台量子电脑。阳葵表示，只要用它就有突破方舟的“多次元诠释”的可能，而花子认为可能甚至能控制方舟自爆或坠毁。阳葵随后表示她将负责构建多次元诠释的内容。
+Himari
+OST_33
+BG_UtnapishtimBridge_V1.jpg
+--
+一个小型AMAS
+False
+||
+zh_Tw 1 2:17
+//
+就在阳葵开始计算时，一个小型AMAS突然来到她身旁，指出她的计算有误，并建议了一个新方案。阳葵问它的身份，而AMAS则表示它是受会长委托前来支援的计算AI。
+Himari Rio
+OST_129
+BG_UtnapishtimBridge_V1.jpg
+--
+不可饶恕的莉央
+False
+||
+zh_Tw 1 3:6
+//
+小机器人提到了爱丽丝，阳葵立刻否认说爱丽丝在别的地方。阳葵喃喃自语，说她绝不会饶恕莉央对季做的一切：将危险的武装交付给季、禁止她一切的交流、让她去绑架可爱的后辈。阳葵怀疑季是否明白任务的意义，对莉央所谓“不是生命”的观点持有异议。她怀疑季在了解到事情全貌后的真实感受，并对莉央在事发之后对季不做任何善后直接离开一事愤愤不平。阳葵提到，季曾对她说希望能帮助到大家，阳葵据此推测季现在或许会不要命地在可能出现圣所的地方独自战斗着。她最后评价莉央根本配不上像季这样一个忠实的C&C女仆。小机器人（实际上就是莉央自己）想继续协助阳葵进行分析，表示阳葵一定需要她的帮助启动战舰；阳葵反驳，如果莉央是了解“无名之神”的，那么她就不会造成那场危机，真正制止危机的并不是她，并让小机器人离开。
+Himari Rio
+OST_135
+BG_UtnapishtimBridge_V1.jpg
+--
+收到神谕的国王
+False
+||
+zh_Tw 1 4:56
+//
+花子回来，听到了阳葵跟会长的对话。她说这段对话让她想起来一个讽刺寓言故事：一个试图躲避预言的国王，不惜一切代价试图规避它，结果反而造成了王国的毁灭。阳葵思考所谓命运和决定论是否有意义。
+Hanako Himari
+OST_135
+BG_UtnapishtimBridge_V1.jpg
+--
+没有答案的故事
+False
+||
+zh_Tw 1 5:40
+//
+花子提到，这个故事是她曾经与具有预知梦能力的朋友圣亚交谈时听说的。
+Hanako Himari
+OST_135
+BG_UtnapishtimBridge_V1.jpg
+//
+圣亚从结果论的角度分析，王的最大错误就是他身为“王”这件事――如果他不是王，就看不见神谕，就不会有危机；但同时也指出这样的故事是没有答案的。
+Seia Hanako
+OST_135
+BG_TrinityPrison2.jpg
+--
+阳葵的再邀请
+False
+||
+zh_Tw 1 6:18
+//
+阳葵谢谢花子讲的故事，表示这为她扩宽了些许思路。她暂时放下了对莉央的仇恨，把小机器人叫回来，希望它能提供一些支援。
+Himari Hanako Rio
+OST_135
+BG_UtnapishtimBridge_V1.jpg
+--
+第二项古则
+False
+||
+zh_Tw 1 6:45
+//
+琳和老师无意间听到了花子与阳葵的对话，表示会将会长在船上一事保密。琳表示这让她想起了七之古则，一些联邦学生会会长很喜欢的东西。琳向老师讲出了第二项古则的内容：通过无法理解的事物，我们是否能够理解呢？花子对此感到新奇，而琳则指出这个句子并不完整，更像个问题――不过会长忽略了这点，表示只要将其中的要素替换成自己想要的东西就好了。
+Rin Hanako
+OST_135
+BG_UtnapishtimBridge_V1.jpg
+--
+命运的意义
+False
+||
+zh_Tw 1 8:00
+//
+花子不禁在意起答案来，她给出了自己的说法：通过命运，我们能够理解的是什么呢？老师提醒花子这个问题不应寻求答案，花子表示同意。
+Hanako
+OST_135
+BG_UtnapishtimBridge_V1.jpg
+--
+国王的结局
+False
+||
+zh_Tw 1 8:16
+//
+琳向花子询问故事中那位国王的结局。花子很隐晦地表示，国王最后意识到了自己就是造成灾厄的罪魁祸首，接着便不愿再继续说下去。
+Rin Hanako
+OST_135
+BG_UtnapishtimBridge_V1.jpg
+--
+作战计划完成
+False
+||
+zh_Tw 1 8:47
+//
+桃香和步向在场众人表示，作战计划已经完成规划，希望老师和琳能够先来确认一下。
+Rin Ayumu Momoka
+OST_65
+BG_UtnapishtimBridge_V1.jpg
+;;
+
+;;
+a5ce0370-6893-4d26-843b-5270bb8cf92e
+11
+finalS1 3 8
+作戰簡報
+作戰名稱決定是「阿特拉哈西斯的方舟占領戰」。老師是戰艦的總負責人，包含聯邦學生會在內的九名支援者則擔任操作員。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=8 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+作战简报
+False
+//
+舰上的主要成员全体在舰桥集合，开始聆听作战计划。绫音将计划命名为“阿特拉哈西斯的方舟占领战”，指出这可能会是最后一场战役。在有些不安的氛围中，琳开始介绍计划。
+Hanako Ayane Yuuka Ako Kayoko Himari Rio Momoka Ayumu Rin
+OST_65
+BG_UtnapishtimBridge_V1.jpg
+--
+计划的步骤
+False
+||
+zh_Tw 1 42
+//
+琳直接指出，本次作战目标是为了破坏方舟本体，为此需要先突破方舟的防护罩，而为了对防护罩进行干涉，他们需要借助船上的计算模块进行多次元诠释。佳世子询问计算失败的后果，阳葵则表示最好结果就是全员从75000米高空坠落，不然就是在原子层面上分解，不过最佳情况也并没好到哪去。琳继续解释，进入方舟内部后，只要一步步攻陷方舟，使方舟自爆或坠落到地面上即可。
+Rin Momoka Himari Kayoko Ako Rio
+OST_65
+BG_UtnapishtimBridge_V1.jpg BG_CS_PV4_106_2.jpg BG_CS_PV4_115.jpg
+--
+被发现的莉央
+False
+||
+zh_Tw 1 120
+//
+因为莉央用AMAS传了话，引起了亚子和优香的注意――优香立刻认出AMAS就是会长。优香警告莉央不要对游戏开发部有任何非分之想，而阳葵则表示会在它有任何异常时破坏它；优香提到她仍会追究会长的事情。莉央提出为大家制作紧急逃生方案，阳葵同意了这个提案。
+Yuuka Rio Himari
+OST_3
+BG_UtnapishtimBridge_V1.jpg
+--
+计划紧迫
+False
+||
+zh_Tw 1 2:43
+//
+琳询问步还剩下多少时间，后者报告称还剩下12小时；阳葵表示这次作战成功率高达3%――虽然也没好到哪去。琳表示这仍然值得一试，并认为只要遵循先前的一切作战即可。琳最后下达了8小时后出发的命令，并要求各位将使用手册牢记在心。琳指出操作员可能需要十人左右，众人欣然答应；老师主动提出担任总指挥员。
+Rin Ayumu Momoka Himari Hanako Yuuka Ayane Kayoko Ako
+OST_129
+BG_UtnapishtimBridge_V1.jpg BG_CS_S1Final_05.jpg BG_CS_S1Final_14.jpg
+--
+战舰成员的服装
+False
+||
+zh_Tw 1 5:25
+//
+花子突然提起来成员们的服装，立刻让工程部一行人来了兴趣。花子和阳葵表示会参与服装的制作，老师也提出了一些建议。
+Hanako Ayane Yuuka Hibiki Utaha Kotori Himari Ayumu Ako Kayoko
+OST_129
+BG_UtnapishtimBridge_V1.jpg
+--
+不再回头的旅途
+False
+||
+zh_Tw 1 6:21
+//
+八小时起飞倒计时正式生效。步建议老师和琳都在这期间去休息一下。琳宣布将在黎明破晓之时起飞。
+Momoka Ayumu Rin
+OST_129
+BG_UtnapishtimBridge_V1.jpg
+;;
+
+;;
+bf22f06a-b7e0-49bb-ab89-ad3e82b4ae36
+11
+finalS1 3 9
+陸上的最後一夜
+搭乘生命守護者主艦的學生、以及留在陸地上的學生一起共度最後的晚上，為了迎接美好的未來而做好覺悟。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=9 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+向千年的大家告别
+False
+//
+优香与乃爱连线，希望他们能够保护好千年。乃爱请优香放心，并让她也注意自己。
+Yuuka Noa
+OST_135
+BG_BuildingCorridor.jpg BG_Milleniumclub_Night.jpg
+--
+对策委员会全员上舰
+False
+||
+zh_Tw 1 34
+//
+对策委员会其他人听到绫音要走坚决不同意，表示如果要走大家就要一起走。大家的理由是，如果会发生战斗，人手越多越好，而且更重要的是他们要亲手带回白子。绫音提醒众人这个计划并不是百分百成功，就在这时一阵声音打断了绫音。
+Ayane Hoshino Serika Nonomi
+OST_135
+BG_CommitteeRoom_Night2.jpg
+--
+便利屋的加油打气
+False
+||
+zh_Tw 1 1:12
+//
+便利屋全员来拜访对策委员会众人。亚瑠指出，这种时刻更不应该向后看，而应向前看。便利屋表示只要有老师在，一切一定都会成功。对策委员会回想起以前的种种，坚定了信心。
+Ayane Nonomi Mutsuki Haruka Kayoko Aru
+OST_45
+BG_CommitteeRoom_Night2.jpg BG_CS_Abydos_03.jpg BG_Bank.jpg BG_CS_Abydos_06.jpg BG_CS_Abydos_08.jpg
+--
+坚定的游戏开发部
+False
+||
+zh_Tw 1 2:46
+//
+游戏开发部对生命守护者并非真正意义上的战舰而感到失望，同时也因为计划的可行性不高而想打退堂鼓。爱丽丝坚决要去，她认为自己是船上唯一携带着武器的人，她想保护大家，为大家作出些贡献。柚子对爱丽丝的想法表示赞同，说明她不想再让大家分开――况且，还有老师在呢。柚子说正是因为爱丽丝才让她走到了今天这一步，提议大家还是一起去最好；桃井和绿最后接受。
+Midori Momoi Yuzu Aris
+OST_67
+BG_Ward_Night.jpg
+--
+残存的Kei
+False
+||
+zh_Tw 1 4:51
+//
+爱丽丝说自己也曾害怕过，因为Kei仍在爱丽丝的数据中。爱丽丝提起老师跟她谈论“自己选择成为什么”的事情，表示自己这次想要成为勇者。所有人支持爱丽丝的话，表示爱丽丝要成为“宇宙勇者”了。
+Aris Yuzu Momoi Midori
+OST_140 other_1
+BG_Ward_Night.jpg BG_RuinCenter.jpg
+--
+向补习部告别
+False
+||
+zh_Tw 1 6:25
+//
+花子来到补习部所在的教室，向各位告别。花子谈起他们与老师以前发生的种种事情，似问非问地提出“要是老师不在会怎么样。”众人随后请花子放心，表示他们会守护好三一的。
+Hanako Hifumi Azusa Koharu
+OST_21
+BG_TrinityClassRoom2_Night.jpg BG_TrinityClassRoom.jpg BG_CS_Trinity_03.jpg BG_CS_Trinity_04.jpg BG_CS_Trinity_15.jpg BG_CS_Trinity_16.jpg BG_CS_Trinity_17.jpg
+--
+向风纪委员会告别
+False
+||
+zh_Tw 1 7:32
+//
+亚子向风纪委员会告别，阳奈让她保重身体。
+Hina Ako
+OST_135
+BG_GehennaClubRoom_Night.jpg
+--
+担忧的茶会
+False
+||
+zh_Tw 1 7:47
+//
+茶会的三位成员，弥香、圣亚和渚都很担心这次计划。众人最后相信老师能够将故事带到它应该的Happy End上，并祝愿老师武运昌隆。
+Seia Miki Nagisa
+OST_135
+BG_TrinityTerrace_Night.jpg
+--
+忧心的兔子小队
+False
+||
+zh_Tw 1 8:33
+//
+兔子小队也对老师忧心忡忡，对之后要干什么有点迷茫。都子表示只需要按平常守护基沃托斯的和平就行。他们相信老师能够做到。
+Miyu Miyako Saki Moe
+OST_135
+BG_SRTCampSite_Night.jpg
+--
+期待着明天的奥利斯小队
+False
+||
+zh_Tw 1 9:5
+//
+奥利斯小队对未来的希望有些暗淡，纱织示意他们不要继续再谈论下去。她再次重申要大家将精力集中在战斗与保护上。敦子对能和大家在一起而感到开心。
+Misaki Saori Atsuko Hiyori
+OST_135
+BG_CathedralRuins_Night.jpg
+--
+疲惫的琳
+False
+||
+zh_Tw 1 10:02
+//
+琳在窗边坐着，全身写满了疲惫。她看着自己与学生会会长以前的照片。
+Rin
+
+BG_CS_PV4_102.jpg BG_CS_PV4_104.jpg BG_CS_PV4_103.jpg
+//
+就在这时步敲响了门，表示紧急通讯网上有人一直在找她。
+Ayumu Rin
+
+BG_Ward_Night.jpg
+--
+财务室长碧的道歉
+False
+||
+zh_Tw 1 11:00
+//
+琳接通了通讯，电话那头是财务室长碧。碧对怀疑琳表示道歉，但琳并不埋怨她。琳将联邦学生会整个的责任交给了碧，随后挂断。
+Rin Aoi
+OST_67
+BG_Ward_Night.jpg
+--
+黎明的到来
+False
+||
+zh_Tw 1 12:00
+//
+黎明很快就来了。老师在房间里收到琳的通知，表示大家都已经在舰桥上就位。老师即刻动身。
+Rin
+OST_12
+BG_Ward.jpg
+;;
+
+;;
+b90ee122-fd4b-490d-a951-9783cf57467c
+11
+finalS1 3 10
+前往天上遙遠的彼方
+為了九名操作員準備的特殊服裝也完成了，生命守護者主艦開始朝著方舟前進了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=10 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+赶制的服装
+False
+//
+登船时，老师收到响的消息，表示船员服已经就绪。这时，船上的操作员都已经换上了新衣服。
+Hibiki
+OST_11
+BG_View_Sky2.jpg BG_Wilderness.jpg BG_CS_S1Final_22.jpg BG_CS_Millenium_02.jpg
+//
+舰长琳被特意准备了一个大衣。阳葵表示这些服装经过改造后，不仅实现了生理监测，同时还具备防火之类的功能。虽然有些人对这套服装仍颇有微词，不过琳很快平息冲突，进入正题。
+Yuuka Ayane Ako Hanako Kayoko Himari Momoka Ayumu Rin
+OST_11
+BG_UtnapishtimBridge_V1.jpg
+--
+启航前的点名
+False
+||
+zh_Tw 1 1:32
+//
+琳重申了计划的目标与基本步骤，然后开始点名：
+Rin
+OST_74
+BG_UtnapishtimBridge_V1.jpg
+//
+船舰上的操作员与负责人，些许学院代表及联邦学生会全体；
+Hanako Ako Ayane Yuuka Kayoko Himari Momoka Ayumu Rin
+OST_74
+BG_UtnapishtimBridge_V1.jpg
+//
+地面支持人员，千年贝里塔斯与工程部。
+Kotama Hare Maki Chihiro Hibiki Utaha Kotori
+OST_74
+BG_ComputerCenter.jpg
+//
+舰上战斗人员：阿拜多斯对策委员会、
+Hoshino Serika Nonomi Ayane
+OST_74
+BG_VehiclePowerRoom.jpg
+//
+千年游戏开发部（特别点名爱丽丝的电磁炮为舰上唯一武器）。
+Aris Momoi Midori Yuzu Yuuka
+OST_74
+BG_UndergroundPassage_Night.jpg BG_PowerRoom.jpg
+//
+在最后点名时，琳着重提到了一群特殊的人员。
+Rin
+OST_74
+BG_UtnapishtimBridge_V1.jpg
+--
+美食研究会与风华同学
+False
+||
+zh_Tw 1 3:4
+//
+琳宣布风华同学正式负责船上的餐饮供给，同时一同到来的还有美食研究会。风华对莫名其妙来到这里有些不满，但美食研究会解释称这是为了尝到“太空美食”――虽然这番说辞对风华而言并没有什么吸引力。亚伽里同时提到为了以防万一，他们顺便还把供给部的小车也给拿上来了。众人的期望和兴致都很高。
+Fuuka Haruna Junko Izumi Akari
+OST_3
+BG_ArkCorridor.jpg
+--
+启动战舰
+False
+||
+zh_Tw 1 4:25
+//
+琳表示，由于圣所之塔被破坏，现在唯一有类似权限而可以启动战舰的只有老师的箱子。
+Rin
+OST_41
+BG_UtnapishtimBridge_V1.jpg
+//
+老师让彩奈启动战舰，但彩奈要老师再三考虑，并且提到在这种情况下她是无法保护老师的。
+Arona
+OST_41
+BG_AronaRoom.jpg
+--
+与黑服的话
+False
+||
+zh_Tw 1 5:10
+//
+老师想起来与黑服的对话，其中黑服表示强行启动战舰将可能导致老师的肉体受到损害。
+BlackSuit
+OST_41
+BG_GematriaCorridor.jpg
+//
+老师让彩奈照做不妨。彩奈询问这么做的原因。
+Arona
+OST_41
+BG_AronaRoom.jpg
+--
+既定的命运与责任
+False
+||
+zh_Tw 1 5:33
+//
+黑服在与老师的交流中提到，即便老师这么去做了，命运的归宿最终仍会让基沃托斯到达终结，就像白子那一般。黑服无法理解老师为何在一个命运已经决定的世界里奋力挣扎到这种地步。
+BlackSuit
+OST_41
+BG_GematriaCorridor.jpg
+--
+大人的身份与责任
+False
+||
+zh_Tw 1 6:11
+//
+老师对彩奈问题的回答是――这是作为大人的责任。
+Arona
+OST_41
+BG_AronaRoom.jpg
+--
+无论以什么代价
+False
+||
+zh_Tw 1 6:21
+//
+黑服追问老师他是否是真的会不惜一切代价，老师坚定的回答了“是”。
+BlackSuit
+OST_41
+BG_GematriaCorridor.jpg
+--
+对第二项古则的回答
+False
+||
+zh_Tw 1 6:44
+//
+老师内心做着激烈的斗争，琳把老师拉回现实。老师询问琳当时是如何回答会长关于“第二项古则”的问题的――更准确的来说，琳是如何填空的。
+Rin
+
+BG_UtnapishtimBridge_V1.jpg
+--
+琳对古则的回答
+False
+||
+zh_Tw 1 7:15
+//
+会长相信，琳与她之间无法互相理解、无法触及彼此而只能走在各自的道路上，是一种天意。会长很喜欢琳完成的句子：通过无法理解的他人（事物），是否能够理解自己（彼此）呢？
+GscPres
+OST_46
+BG_CS_PV4_075_2.jpg BG_CS_PV4_163.jpg BG_CS_PV4_017_2.jpg
+--
+生命守护者，启动完毕！
+False
+||
+zh_Tw 1 8:15
+//
+利用箱子的力量，老师成功启动了战舰，一切都在按照手册和计划上的执行着。老师下令战舰正式启航，绫音报告战舰准备离地。
+Ako Ayumu Momoka Kayoko Hanako Yuuka Rin Ayane
+OST_150
+BG_UtnapishtimBridge_V1.jpg BG_CS_PV4_070_2.jpg BG_CS_PV4_070.jpg BG_CS_PV4_068_2.jpg BG_CS_PV4_068.jpg BG_CS_PV4_069_2.jpg BG_CS_PV4_069.jpg BG_CS_PV4_067_2.jpg BG_CS_PV4_067.jpg BG_CS_S1Final_22.jpg BG_CS_S1Final_22_2.jpg
+//
+阿拜多斯的沙漠中，战舰从地底下如鲸鱼般跃起。高度急速增加，优香指示启动多次元诠释系统。
+Ayane Yuuka Himari Hanako
+OST_150
+BG_Wilderness.jpg BG_CS_PV4_063.jpg BG_CS_PV4_064.jpg BG_UtnapishtimBridge_V2.jpg
+--
+老师付出的代价
+False
+||
+zh_Tw 1 9:39
+//
+高度的急剧变化导致老师意识逐渐模糊。到达指定高度后，多次元诠释系统也准备完毕，战舰全速冲向方舟的所在地。
+Rin Ayumu Momoka Hanako Kayoko Ako Ayane Yuuka
+OST_150
+BG_UtnapishtimBridge_V2.jpg BG_CS_PV4_065.jpg BG_CS_PV4_066.jpg BG_View_DawnSky.jpg
+--
+命运的一切，一切的开始
+False
+||
+zh_Tw 1 10:53
+//
+老师逐渐失去意识。
+Hanako Himari
+BG_UtnapishtimBridge_V2_2.jpg
+//
+在主要意识丢失的过程中，老师闪回到多个场景片段中。老师感觉，这一切似曾相识。
+
+
+BG_CS_PV4_071.jpg BG_CS_PV4_072.jpg BG_CS_S1Final_04.jpg BG_CS_S1Final_23.jpg BG_CS_PV4_073.jpg BG_CS_PV4_076.jpg BG_CS_PR_07.jpg
+;;
+
+;;
+aab39893-71ba-4207-8ea0-c4c21f887f04
+11
+finalS1 3 11
+最初的故事
+老師的腦海中如同跑馬燈一般，短暫浮現了另一個可能發生的故事。啟航的生命守護者瞬間陷入危機當中。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=11 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+在那列火车上
+False
+//
+老师回到了与会长在火车上的那一刻。会长对自己的行为抱歉，表示直到最后的这时，才意识到老师是对的，并希望老师能够接下她的烂摊子。
+GscPres
+OST_34
+BG_CS_PV4_076.jpg BG_CS_PR_07.jpg BG_CS_PR_12.jpg BG_CS_PR_19.jpg
+--
+相同的选择
+False
+||
+zh_Tw 1 1:5
+//
+会长因不明原因负伤。会长继续向老师讲述，即便无法回忆起任何东西，但她相信老师能在同样的情况下，做出同样的选择；她相信，这些选择唯有老师能够做到。会长又提到了背负责任之人的话题。她说虽然那时的她尚不理解，但现在她理解了老师，以及在选择的延长线上的，更多的选择。
+GscPres
+OST_34
+BG_CS_PV4_079.jpg BG_CS_PV4_078.jpg BG_CS_PV4_077.jpg BG_CS_PV4_080.jpg
+--
+如果你是我所能信任之人
+False
+||
+zh_Tw 1 2:7
+//
+【过场动画播放，似乎暗示了两条时间线上截然不同的结局】会长在最后拜托老师将这个故事扭曲且令人不悦的终点改写，重新做出选择。
+GscPres
+OST_59
+BG_CS_PV4_081.jpg BG_CS_PV4_082.jpg BG_CS_PV4_083.jpg BG_CS_PV4_084.jpg BG_CS_PV4_085.jpg BG_CS_PV4_086.jpg BG_CS_PV4_087.jpg BG_CS_PV4_088.jpg BG_CS_PV4_089.jpg BG_CS_PV4_090.jpg BG_CS_PV4_091.jpg BG_CS_PV4_092.jpg BG_CS_PV4_093.jpg BG_CS_PV4_094.jpg BG_CS_PV4_095.jpg BG_CS_PV4_096.jpg BG_CS_PV4_097.jpg BG_CS_PV4_098.jpg BG_CS_PV4_099.jpg BG_CS_PV4_100.jpg BG_CS_PV4_101.jpg
+--
+大家一起走过的日子
+False
+||
+zh_Tw 1 2:34
+//
+会长希望老师能将他们走过的日子和与他们之间的所有回忆都一并珍藏——但话都没说完就被打断。
+GscPres
+OST_59
+BG_CS_PV4_074.jpg BG_CS_PV4_075.jpg
+--
+状态不一致的战舰
+False
+||
+zh_Tw 1 3:4
+//
+生命守护者战舰出现严重情况，老师突然惊醒。花子报告战舰所处的状态与方舟不一致。优香以为是系统错误，但莉央则指出是方舟主动改变了状态――众人意识到，他们所做的一切，又化为了虚无。
+Yuuka Hanako Himari Rio
+OST_29
+BG_UtnapishtimBridge_V2.jpg BG_CS_S1Final_28_2.jpg
+;;
+
+;;
+1dafb56b-6ff2-4505-aedb-7c1084e7f364
+11
+finalS1 3 12
+「勇者」的資格（１）
+為了突破阿特拉哈西斯的方舟設立的新軸，一行人緊急進行了討論，為了克服眼前的危機，愛麗絲想到了一個點子。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=12 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+即将撞击多次元防护罩
+False
+//
+75000m的高空上，众人突然发现方舟改变了多次元防护罩，此前所作的计算完全失效。有人立即提出减速，但绫音表示由于速度过高，撞击不可避免。
+Hanako Rio Ayane Ako
+OST_20
+BG_CS_PV4_106.jpg BG_UtnapishtimBridge_V2.jpg
+--
+与方舟同样的存在
+False
+||
+zh_Tw 1 30
+//
+莉央指出方舟的保护罩不像是一种物质，更像是一种概念，而唯有符合相同概念的东西――另一个方舟，才能与之抗衡。阳葵立刻意识到莉央说的是爱丽丝，当场提出异议。
+Rio Himari Yuuka Ako
+OST_20
+BG_UtnapishtimBridge_V2.jpg
+--
+爱丽丝的现身
+False
+||
+zh_Tw 1 50
+//
+就在莉央和阳葵吵的不可开交之际，爱丽丝突然现身，表示理解了两人所说的一切――作为无名诸神的王女的她，拥有着启动另一艘方舟的能力。游戏开发部众人想起种种，立刻慌忙劝解爱丽丝不要做自我牺牲。但爱丽丝有自己的话，老师也制止了慌乱的大家。
+Aris Himari Rio Yuzu Momoi Midori
+OST_19
+BG_UtnapishtimBridge_V2.jpg
+--
+自己选择成为什么
+False
+||
+zh_Tw 1 1:40
+//
+爱丽丝回忆起先前老师说的话，指出爱丽丝想成为什么，可以由她自己决定。就像这样，爱丽丝于是正式以“无名诸神的王女”的名义向Kei请求协助。
+Aris
+OST_19
+BG_UtnapishtimBridge_V2.jpg
+--
+阿特拉哈希斯的方舟
+False
+||
+zh_Tw 1 120
+//
+Kei清楚爱丽丝的意图，表示如果强行重启方舟，对她将是毁灭性的打击，甚至可能以生命为代价。爱丽丝指出，如果那样能帮助大家，那它就将不再是毁灭世界的工具，而是勇者的武器。爱丽丝还希望这么做能让莉央与阳葵和好。Kei仍然警告并表示担忧。
+Aris ArisKey Rio Himari
+OST_32
+BG_RuinCenter.jpg BG_UtnapishtimBridge_V2.jpg
+--
+爱丽丝与Kei的对话
+False
+||
+zh_Tw 1 2:50
+//
+爱丽丝向Kei抱歉，表示自己不应该逃避对她的认识，即便她们几乎不可能互相理解。爱丽丝同情Kei作为毁灭世界的武器的感受，希望Kei能够真正追求真实的自己，而不是照着自己可能原本并不愿意的方向，就像老师对她说的那样。爱丽丝还觉得，因为Kei是被意外念错的名字，这一名字的意义可以被重新定义。Kei似乎明白爱丽丝是想拯救她，而爱丽丝接受了这种解释，并说“拯救他人，正是勇者的心意所在。”
+Aris ArisKey
+OST_140
+BG_RuinCenter.jpg BG_CS_S1Final_24.jpg BG_CS_S1Final_25.jpg BG_CS_S1Final_24_2.jpg BG_CS_S1Final_24_3.jpg BG_CS_S1Final_25_2.jpg BG_CS_S1Final_24_4.jpg BG_CS_S1Final_25_3.jpg BG_CS_S1Final_24_5.jpg BG_CS_S1Final_25_4.jpg
+--
+Kei对爱丽丝的接受
+False
+||
+zh_Tw 1 4:10
+//
+Kei启动了协议，开始准备方舟的生成。众人本以为Kei又占据了爱丽丝的意识，但爱丽丝在一瞬间又变回了原样。莉央惊讶于爱丽丝竟能设法让Kei“服从”她，但爱丽丝纠正说，是她“接受”了请求。爱丽丝想要借助会长的力量，同时希望能见她一面。
+ArisKey Momoi Midori Himari Rio Yuzu
+OST_135
+BG_UtnapishtimBridge_V2.jpg
+--
+爱丽丝与莉央
+False
+||
+zh_Tw 1 5:13
+//
+莉央用自己的小机器人将自己的全息影像投射到舰桥上，与爱丽丝交流。莉央对爱丽丝表示抱歉，但有些难以开口；爱丽丝表示感谢，指出莉央已经成为她的同伴；莉央有些惊诧，但爱丽丝表示敌人变朋友的故事可是相当常见。
+Rio Aris Himari
+OST_135
+BG_UtnapishtimBridge_V2.jpg BG_CS_S1Final_26.jpg BG_CS_S1Final_26_2.jpg
+--
+协议启动
+False
+||
+zh_Tw 1 6:21
+//
+爱丽丝执行了协议。
+Aris Momoi Midori Yuzu
+OST_101
+BG_UtnapishtimBridge_V2.jpg
+//
+来到舰船末尾，Kei首先搜索并确保方舟的所有资源可供使用。随后，Kei宣布“王女已获得钥匙”，而爱丽丝则宣布以公主的名义，“允许新的圣所在此降临。”
+Aris ArisKey
+OST_101
+BG_VehiclePowerRoom.jpg BG_UndergroundPassage_Night.jpg BG_CS_PV4_036_3.jpg BG_CS_S1Final_27.jpg BG_CS_S1Final_27_2.jpg
+--
+方舟与光之剑
+False
+||
+zh_Tw 1 7:18
+//
+蓝天上，电光火石之间，爱丽丝以自己的光之剑为原型，改变了生命守护者号。在数据的深处，Kei终于将“王女”尊称为“爱丽丝”，认可了这一名字的正当性。
+ArisKey
+OST_59
+BG_CS_S1Final_27_3.jpg BG_CS_Millenium_02.jpg BG_CS_PV4_106.jpg
+;;
+
+;;
+5ff28246-b7b2-46bf-a61a-864b626ae783
+11
+finalS1 3 13
+「勇者」的資格（２）
+在獲得Kei的力量後進行了重建，「阿特拉哈西斯：Supernova」粉碎了方舟的多次元屏障。生命守護者就這樣全速向前進，成功進入了方舟的內部。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=13 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+变换开始
+False
+//
+莉央进一步解释，爱丽丝的方舟与防护罩是同一种东西，因而这并非某种“复制”，应该能够对其造成干涉。阳葵指出方舟的形态依建造者决定，显然莉央的是一个堡垒都市，不过爱丽丝的嘛……
+Rio Himari
+OST_49
+BG_UtnapishtimBridge_V2.jpg
+--
+光之剑形态的方舟
+False
+||
+zh_Tw 1 27
+//
+空中，蓝色的电光闪烁；
+
+OST_32
+BG_CS_S1Final_27_3.jpg
+//
+地上，工程部三人发现舰艇的数据正在被分解而重新组合，最终变成了工程部所铸造的光之剑的模样。
+Utaha Hibiki Kotori
+OST_32
+BG_ComputerCenter.jpg
+//
+阳葵指出这不仅才是真正意义上的方舟，同时更是爱丽丝内心勇气的体现。阳葵给它取了个名字，叫“光之剑：阿特拉哈西斯的方舟”。
+Himari
+OST_32
+BG_UtnapishtimBridge_V2.jpg
+--
+光之剑，发射！
+False
+||
+zh_Tw 1 58
+//
+爱丽丝宣布光之剑充电完毕，即将瞄准发射。
+Aris
+OST_32
+BG_CS_PV4_112.jpg
+//
+莉央为爱丽丝加油打气，用的特别是游戏开发部的风格。
+Rio
+OST_32
+BG_UtnapishtimBridge_V2.jpg
+//
+在一声“光――――啊――――！”的喊声中，光之剑重重地打出了一炮。
+Aris
+OST_32
+BG_CS_PV4_113.jpg BG_CS_PV4_114.jpg BG_CS_S1Final_28.jpg
+--
+一击重拳，接招！
+False
+||
+zh_Tw 1 1:27
+//
+优香、佳世子与亚子报告爱丽丝的光之剑发射出极高的能量，并正直直向方舟飞去，瞄准误差可忽略不计。
+Yuuka Kayoko Ako Hanako Himari Rio
+OST_101
+BG_UtnapishtimBridge_V2.jpg BG_CS_S1Final_28_2.jpg BG_CS_S1Final_28.jpg BG_CS_S1Final_28_3.jpg BG_CS_PV4_116.jpg BG_CS_PV4_118.jpg
+--
+防护罩，失效！
+False
+||
+zh_Tw 1 2:3
+//
+花子报告防护罩完全失效。
+Hanako Rio Himari
+OST_76
+BG_UtnapishtimBridge_V2.jpg
+//
+另一方面，爱丽丝则突然倒地。优香和阳葵有些惊讶，游戏开发部则表示爱丽丝并无大碍并已经转移。
+Aris Yuzu Momoi Midori Yuuka Himari
+OST_76
+BG_CS_PV4_036_3.jpg BG_UtnapishtimBridge_V2.jpg
+--
+突入方舟之中
+False
+||
+zh_Tw 1 2:45
+//
+命中的一炮产生了反向冲击波。冲击波后，舰长七神琳下令方舟以最大速度前进，试图突破防护罩。碰撞后，绫音立刻减速。随后与方舟本体发生碰撞，众人成功突入进方舟内部。
+Ako Kayoko Yuuka Momoka Ayumu Rin Ayane Hanako
+OST_
+BG_CS_PV4_106.jpg BG_CS_PV4_107.jpg BG_CS_PV4_108.jpg BG_CS_PV4_109.jpg BG_CS_PV4_110.jpg BG_CS_PV4_111.jpg BG_CS_Millenium_02.jpg BG_CS_PV4_117.jpg BG_CS_PV4_119.jpg
+--
+在方舟内部
+False
+||
+zh_Tw 1 4:10
+//
+众人松了一口气。阳葵对莉央的方法表示赞赏，说是她拯救了世界。
+Rin Momoka Ayumu Ayane Kayoko Hanako Himari Rio
+OST_149
+BG_UtnapishtimBridge_V4.jpg
+//
+听到此种赞赏，莉央突然情绪崩溃，离开了通讯，自己在某处办公室的桌子下抱着头。
+
+
+BG_CS_S1Final_29.jpg
+--
+Kei对爱丽丝的理解
+False
+||
+zh_Tw 1 5:32
+//
+Kei与爱丽丝回到了最一开始她们被找到的那个废墟里。爱丽丝向Kei告别，随后倒地失去意识――但被Kei及时搂住。Kei这时完全理解了爱丽丝的“勇者”与“勇气”究竟为何物，并以自己，一个武器，的消失作为代价，救回了爱丽丝；自己却变成了一个小机器人。
+ArisKey Aris
+OST_55
+BG_RuinCenter.jpg BG_CS_S1Final_30.jpg BG_CS_S1Final_30_2.jpg BG_CS_S1Final_30_3.jpg BG_CS_S1Final_30_4.jpg BG_CS_S1Final_30_5.jpg BG_CS_S1Final_31.jpg BG_CS_S1Final_31_2.jpg BG_CS_S1Final_31_3.jpg BG_CS_S1Final_32.jpg
+//
+在方舟内，游戏开发部三人爱丽丝喃喃着“Kei”，眼角流下了泪水。
+Momoi Midori Yuzu
+OST_55
+BG_VehiclePowerRoom.jpg
+;;
+
+;;
+5ded321e-dd3a-4e77-be73-a98bbccb5824
+11
+finalS1 3 14
+突入
+雖然成功進入了，但生命守護者在瞬間被方舟內部的敵人團團包圍住了。船內的學生立刻衝出來，展開保護船隻的防禦戰。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=14 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+损坏严重的方舟
+False
+//
+虽然众人都没什么事，但是阳葵等人报告称方舟损坏严重，不仅动力系统失效，通讯和运算模块也受到了不小的影响。
+Ayumu Momoka Rin Hanako Ako Kayoko
+OST_129
+BG_UtnapishtimBridge_V4.jpg BG_CS_PV4_120.jpg
+--
+敌人入侵
+False
+||
+zh_Tw 1 30
+//
+毕竟是在敌方的大本营里头。很快，敌人蜂拥而至，但似乎却没有合适的作战力量。
+Ayumu Momoka Yuuka Himari Ako Kayoko
+OST_149
+BG_UtnapishtimBridge_V4.jpg BG_UndergroundPassage_Night.jpg BG_ArkCorridor.jpg
+--
+对策委员会的协助
+False
+||
+zh_Tw 1 60
+//
+对策委员会主动请缨，表示将协助作战。绫音同意并说明将提供导航。
+Hoshino Ayane Nonomi Serika
+OST_149
+BG_VehiclePowerRoom.jpg
+--
+美食研究会的协助
+False
+||
+zh_Tw 1 1:20
+//
+美食研究会主动请缨，表示要在船上炸翻天、探寻宇宙美食。亚子对众人何时登船一事有些惊讶，但立刻接受了众人的帮助。
+Haruna Junko Fuuka Ako Akari Izumi
+OST_149
+BG_ArkCorridor.jpg BG_InSideTank.jpg
+--
+游戏开发部的协助
+False
+||
+zh_Tw 1 1:49
+//
+游戏开发部（爱丽丝尚未醒来）主动请缨，要求帮助老师。优香表示同意，但说明众人一定要保证安全。
+Yuzu Yuuka Midori Momoi
+OST_149
+BG_UndergroundPassage_Night.jpg BG_PowerRoom.jpg
+--
+[UI] 战斗指挥UI
+True
+||
+zh_Tw 1 2:23
+//
+[UI] 战斗指挥UI
+
+OST_149
+
+--
+[战斗]美食研究会方面
+True
+||
+zh_Tw 1 2:27
+//
+美食研究会与敌人战斗。
+Haruna Junko Akari Izumi Fuuka
+OST_19
+
+--
+[战斗]游戏开发部方面
+True
+||
+zh_Tw 1 3:12
+//
+游戏开发部与敌人战斗。
+Yuzu Momoi Midori
+OST_19
+
+--
+[战斗]对策委员会方面
+True
+||
+zh_Tw 1 4:29
+//
+对策委员会与敌人战斗。本故事中，对策委员会共需独自对抗三波敌人。
+Hoshino Nonomi Serika
+OST_19
+
+--
+[战斗]对策委员会方面（BOSS战）
+True
+||
+zh_Tw 1 6:2
+//
+对策委员会与BOSS战斗。
+Hoshino Nonomi Serika
+OST_20
+
+;;
+
+;;
+08ab4e3a-7bdb-4d24-bc05-06481a2e8b07
+11
+finalS1 3 15
+阿特拉哈西斯的方舟占領戰
+成功擊退包圍船的敵人後，白子隨著爆炸出現在老師的面前。同一時間，對策委員會的所有人都出現在白子的面前，白子有些驚訝且立刻逃走了。在防禦生命守護者主艦的同時，也展開了阿特拉哈西斯方舟的占領戰。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=15 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+战斗成功
+False
+//
+战斗非常成功，但就在众人以为一切结束时，爆炸突然发生在船舰内。
+Ayumu Momoka
+OST_29
+BG_UtnapishtimBridge_V4.jpg
+--
+另一位白子的现身
+False
+||
+zh_Tw 1 23
+//
+另一位白子对老师居然能到达这里感到惊奇，但同时也警告老师。绫音大声叫喊，让对策委员会一行人前来抓住白子，但白子见状后以手榴弹为掩护，立刻跑掉了。
+ShirokoTerror Riin Ayumu Ayane Shiroko Nonomi Serika
+OST_142
+BG_UtnapishtimBridge_V4.jpg
+--
+对方舟的修复
+False
+||
+zh_Tw 1 1:47
+//
+优香请求工程师部确认战舰的受损情况；
+Yuuka
+OST_33
+BG_UtnapishtimBridge_V4.jpg
+//
+后者则表示情况不容乐观，但表示应该至少能重新启动。
+Utaha Hibiki Kotori
+OST_33
+BG_ComputerCenter.jpg
+//
+佳世子主动提出了帮助。
+Kayoko Kotori Rin
+OST_33
+BG_UtnapishtimBridge_V4.jpg
+--
+方舟的计算与跃迁能力
+False
+||
+zh_Tw 1 2:30
+//
+莉央敏锐地感觉出另一位白子的实时位置跳跃似乎是依靠方舟强大的计算能力所实现，因而只要保住它的计算能力，制作出一个空间跳跃程序并不是问题。她继而指出，这样就能让所有人安全回到地面。
+Rio Himari
+OST_129
+BG_UtnapishtimBridge_V4.jpg
+--
+“大姐大”与收到神谕的国王
+False
+||
+zh_Tw 1 2:56
+//
+阳葵读出了莉央的意思：她自己似乎也无法修复这艘船。阳葵表示莉央这种心态就像之前提到过的那位国王一般，因他自己对他人的不信任而引发了诸多问题。莉央表示同意，但同时说这点恐怕很难改变；阳葵则澄清她只是纯粹讨厌，并非鄙视。
+Himari Rio
+OST_129
+BG_UtnapishtimBridge_V4.jpg
+--
+阳葵对莉央的祝福
+False
+||
+zh_Tw 1 3:35
+//
+阳葵最后对莉央表示感谢，并说其他人，包括工程师部，大概也会很感谢她。阳葵对莉央的程序寄予希望，表示这样的消息一定会激励大家。
+Himari Rio
+OST_129
+BG_UtnapishtimBridge_V4.jpg
+--
+占领战，开始！
+False
+||
+zh_Tw 1 4:3
+//
+琳正式宣布对方舟的占领战正式开始，提出要在工程师部修复方舟时确保方舟掌握在自己手里。
+Rin Ayumu Momoka
+OST_149
+BG_UtnapishtimBridge_V4.jpg
+;;
+
+;;
+d6b73c1c-fcef-409c-baef-6b5ac6fe3002
+11
+finalS1 3 16
+逆襲
+貝里塔斯在阿特拉哈西斯方舟中準備了自爆程式。但生命守護者早已被敵人駭入了。奇普托斯的天空再次染紅且陷入絕望當中，白子和老師抵達了駭入生命守護者的位置，在那邊遇見了誘騙者和另一個白子。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=21 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+焦急等待
+False
+//
+优香、亚子、花子等人焦急的等待着众人回来。
+Yuuka Ako Hanako Kayoko Rin Momoka Ayumu
+OST_27
+BG_UtnapishtimBridge_V4.jpg
+--
+自爆就绪
+False
+||
+zh_Tw 1 21
+//
+贝里塔斯宣布他们已经准备好启动自爆程序。
+Hare Kotama Maki Chihiro
+OST_27
+BG_ComputerCenter.jpg
+//
+就在即将启动时，莉央突然意识到方舟的状态很不对劲，她立刻让阳葵注意――情况表明，生命守护者本舰已被骇入。
+Rio Himari
+
+BG_BigSisterRoom.jpg
+--
+自爆程序已启动
+False
+||
+zh_Tw 1 53
+//
+自爆程序突然启动，让地面上的贝里塔斯和船上的众人迷惑不解。
+Chihiro Kotama Maki Hare
+OST_149
+BG_ComputerCenter.jpg
+//
+船上的佳世子让所有人立刻趴下，爆炸紧随而至。
+Yuuka Ako Hanako Kayoko
+
+BG_UtnapishtimBridge_V4.jpg BG_UtnapishtimBridge_V5.jpg
+--
+现在的情况
+False
+||
+zh_Tw 1 1:45
+//
+贝里塔斯的众人疑惑不已。
+Chihiro Maki Hare Kotama
+OST_76
+BG_ComputerCenter.jpg
+//
+船上，优香向阳葵询问情况，阳葵则表示他们中了敌人的计：在他们占领方舟时，敌人也在反向骇入生命守护者舰艇并已成功。优香表示这必须通过物理手段达到，但并没有人来过这——除了一个人。
+Ayumu Kotama Rin Yuuka Himari
+OST_76
+BG_UtnapishtimBridge_V5.jpg BG_CS_PV4_131.jpg BG_CS_PV4_130.jpg
+--
+物理手段
+False
+||
+zh_Tw 1 2:37
+//
+两人记起那一位白子同学来，认定大概就是在那个时候。
+ShirokoTerror
+
+BG_UtnapishtimBridge_V4.jpg
+//
+阳葵同时表示，现在他们不仅丧失对战舰的控制，战舰甚至还在协助方舟进行多次元诠释。她警告说，这样圣塔很有可能再度出现。
+Yuuka Himari
+OST_76
+BG_UtnapishtimBridge_V5.jpg
+--
+血红的基沃托斯
+False
+||
+zh_Tw 1 180
+//
+因为多次元诠释重新启动，天空再次变成了红色。
+Rin Momoka Ayumu
+OST_76
+BG_View_Atrahasis.jpg BG_View_Atrahasis_erode.jpg BG_UtnapishtimBridge_V5.jpg BG_View_Schale_erode.jpg BG_MainOffice_Erode.jpg BG_Wilderness_Erode.jpg BG_RuinCity_Erode.jpg BG_RiversideRoad_Erode.jpg
+--
+格黑娜自治区
+False
+||
+zh_Tw 1 3:28
+//
+千夏和阳奈注意到天空再次变红。
+Iori Chinatsu Hina
+OST_76
+BG_SlumFront.jpg
+--
+Eridu
+False
+||
+zh_Tw 1 3:37
+//
+季发现天空变红，认定紧急情况已发生。
+Toki
+OST_76
+BG_EriduCityTown_Erode.jpg
+--
+百鬼夜行自治区
+False
+||
+zh_Tw 1 3:46
+//
+阴阳部众人发现天空变红，不禁担心起来。
+Niya Kaho
+OST_76
+BG_HyakkiyakoFestivalRoad.jpg
+--
+千年自治区
+False
+||
+zh_Tw 1 3:54
+//
+研讨会剩下的两人发现天空变红，不禁担心起来。
+Koyuki Noa
+OST_76
+BG_MilleniumCampus.jpg
+--
+D.U.自治区
+False
+||
+zh_Tw 1 4:01
+//
+RABBIT小队发现天空变红。
+Saki Miyu Moe Miyako
+OST_76
+BG_CityDowntown.jpg
+--
+三一自治区
+False
+||
+zh_Tw 1 4:13
+//
+渚前来询问情况。弥香表示圣亚已经先走了一步，据称是自己有什么预感。两人决定做好准备。
+Nagisa Mika
+OST_76
+BG_TrinityTerrace.jpg
+--
+奥利斯自治区
+False
+||
+zh_Tw 1 4:39
+//
+奥利斯小队继续战斗。
+Hiyori Misaki Saori Atsuko
+OST_76
+BG_AriusStreet.jpg
+--
+骇入的位置
+False
+||
+zh_Tw 1 4:57
+//
+经过定位，贝里塔斯众人认定骇入位置位于方舟的中央第四区域。
+Hare Kotama Maki Chihiro
+OST_76
+BG_ComputerCenter_Erode.jpg
+--
+一切白给
+False
+||
+zh_Tw 1 5:15
+//
+直到这时对策委员会众人才意识到，那位白子的行为应该是为了拖延时间。就在众人以为走投无路之际，白子接入通讯。
+Ayane Serika Hoshino Nonomi
+OST_76
+BG_ArkCorridor.jpg
+--
+前往中央区的白子和老师
+False
+||
+zh_Tw 1 5:30
+//
+白子表示自己正在和老师前往方舟的中央核心区，要求各位在此期间管好相关的事情。两人很快到达管制室。
+Shiroko
+OST_76
+BG_CS_PV4_128_2.jpg BG_CS_PV4_141.jpg
+--
+遇见诱骗者的白子
+False
+||
+zh_Tw 1 6:27
+//
+白子遇见了诱骗者，她大喊他就是将她绑架的人。白子让诱骗者不要轻举妄动，毕竟夏莱的老师可是也在场上。诱骗者没做什么，说出了启动箱子的密码。白子立刻开枪。
+Shiroko Phrenapates
+
+BG_CS_PV4_144_2.jpg BG_CS_PV4_142.jpg BG_CS_PV4_143.jpg BG_CS_PV4_144.jpg BG_CS_PV4_145.jpg BG_CS_S1Final_33.jpg BG_CS_PV4_146.jpg
+--
+A.R.O.N.A.就绪
+False
+||
+zh_Tw 1 7:24
+//
+一片烟中，白子发现子弹全部没有命中，令她大为震惊。这时，老师听见了自己和疑似彩奈的名字――是对方的，箱子。
+Shiroko
+OST_157
+BG_CS_PV4_147.jpg BG_CS_PV4_149.jpg BG_CS_PV4_144_2.jpg BG_CS_PV4_147.jpg BG_CS_S1Final_34.jpg BG_CS_S1Final_35.jpg
+//
+A.R.O.N.A.宣布方舟的修复程序启动，并且被入侵的生命守护者也将在800秒后启动最终自爆程序。另一位白子向老师冷冰冰地宣告基沃托斯迎向终结的不可避性，并对着诱骗者称呼老师的名字。
+Phrenapates Plana ShirokoTerror
+OST_157
+BG_CS_PV4_144_2.jpg BG_CS_PV4_148.jpg BG_CS_PV4_149.jpg BG_CS_PV4_150.jpg
+;;
