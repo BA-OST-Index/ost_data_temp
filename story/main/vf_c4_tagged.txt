@@ -1,0 +1,1145 @@
+;;
+405527cf-264e-4bcd-bff2-3e1e78c60044
+11
+finalS1 4 1
+既定的命運
+生命守護者主艦被駭客入侵，走向破滅的奇普托斯。{cf白子}、老師和{cf彩奈}與另一個{cf白子}、誘騙者、另一個{cf彩奈}在對峙當中。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=1 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+基沃托斯各地
+False
+//
+基沃托斯各地的红色天空再度显现。
+
+OST_149
+BG_CS_PV4_008_2.jpg BG_RiversideRoad_Erode.jpg BG_Park_Erode.jpg BG_RuinCity_Erode.jpg BG_RailWay_Erode.jpg BG_Wilderness_Erode.jpg BG_View_Atrahasis_erode.jpg
+--
+被骇入的方舟
+False
+||
+zh_Tw 1 20
+//
+{cf优香}和{cf阳葵}惊讶的发现，生命守卫者舰艇被方舟骇入，并且前者实际上正在协助后者的运算，重新执行“多次元诠释”，同时利用船舰的能量修复次元引擎。{cf阳葵}警告说，圣所随时可能出现。
+Yuuka Himari
+OST_149
+BG_CS_PV4_131.jpg BG_CS_PV4_130.jpg
+--
+自爆程序的重启
+False
+||
+zh_Tw 1 41
+//
+就在所有人慌乱之时，生命守卫者的舰上系统提示自爆程序重启完毕，800秒倒计时已启动。
+Hanako Ako Kayoko Himari
+OST_149
+BG_UtnapishtimBridge_V5.jpg
+//
+由于此时系统被骇入，{cf阳葵}请求地面上的{cn贝里塔斯}协助断开连接，但结果出乎所有人的意料：断开请求被拒绝。
+Chihiro Maki Kotama Hare
+OST_149
+BG_ComputerCenter_Erode.jpg BG_UtnapishtimBridge_V6.jpg BG_CS_PV4_132.jpg
+//
+{cf阳葵}感慨方舟居然能在毁坏这么严重的情况下仍设法骇入战舰，对其计算能力啧啧称奇。
+Himari Rin Ayumu Momoka
+OST_149
+BG_UtnapishtimBridge_V5.jpg
+--
+{cf白子}与另一时间线上的自己
+False
+||
+zh_Tw 1 1:52
+//
+{cf白子}见到了诱骗者与另一时间线上的自己，而A.R.O.N.A.肯定了{cf白子}的描述。老师感到惊奇，询问A.R.O.N.A.是否就是{cf彩奈}，而前者给出了“部分肯定”。
+Shiroko ShirokoTerror Plana
+OST_73
+BG_CS_PV4_144.jpg BG_CS_PV4_149.jpg BG_CS_S1Final_34.jpg BG_CS_S1Final_35.jpg BG_CS_PV4_150.jpg BG_CS_PV4_144_2.jpg
+//
+{cf彩奈}对A.R.O.N.A.居然能脱离系统、存在实体形态感到惊讶，而后者则表示这主要是由于环境的混沌不确定性导致，且表示由于其特殊身份能直接与{cf彩奈}通信。
+Arona Plana
+OST_73
+BG_AronaRoom_Night.jpg BG_CS_PV4_144_2.jpg
+--
+老师与另一时间线上的老师
+False
+||
+zh_Tw 1 3:34
+//
+A.R.O.N.A.要求老师——诱骗者——下达命令。老师这才意识到诱骗者实际上就是另一时间线的自己；A.R.O.N.A.虽确认了这一说法，但表示两者有一明显区别。
+Plana Phrenapates
+OST_73
+BG_CS_PV4_144_2.jpg
+//
+{cf彩奈}随后解释，诱骗者形态的老师，已经死亡。
+Arona
+
+BG_AronaRoom_Night.jpg
+--
+杀了老师的人
+False
+||
+zh_Tw 1 4:37
+//
+另一时间线上的{cf白子}表示肯定，并表示原因就是因为她杀死了老师，之后老师成为了“色彩的向导者”，成了现在这个样子。她表示老师将她引导到了这里，让她毁灭世界。
+ShirokoTerror Shiroko Phrenapates
+OST_157
+BG_CS_PV4_144_2.jpg BG_CS_S1Final_04.jpg
+--
+“我不相信！”
+False
+||
+zh_Tw 1 5:17
+//
+{cf白子}对自己“杀死”了老师和要“毁灭”世界两件事感到不可接受，开始对另一个自己发起攻击。但另一位在混战中夺下了现在{cf白子}的枪，并指出命运的终宿必然让她这么去做——因为砂狼{cf白子}就是死神的代表。
+Shiroko ShirokoTerror
+OST_157
+BG_CS_PV4_151.jpg BG_CS_PV4_153.jpg BG_CS_PV4_146.jpg BG_CS_PV4_147.jpg BG_CS_PV4_154.jpg BG_CS_PV4_155_2.jpg BG_CS_PV4_155.jpg BG_CS_PV4_144_2.jpg
+--
+两个砂狼{cf白子}
+False
+||
+zh_Tw 1 6:3
+//
+另一时间线上的{cf白子}表示，由于时间线和所经历的事件不同，现在的{cf白子}于她而言不是对手。并且指出为了保证能执行计划、稳定地在当前世界活动，她必须要除掉当前时间线的{cf白子}，也就是为何要将她绑架于此。之后她对{cf白子}表示怜悯，表示如果{cf白子}按她所说的做，在其它人就此消失时就不会有任何痛苦。
+Shiroko ShirokoTerror Phrenapates
+OST_157
+BG_CS_PV4_144_2.jpg BG_CS_PV4_152.jpg
+;;
+
+;;
+26a1a249-f08c-4274-bedc-1ea8b3bf8a04
+11
+finalS1 4 2
+抵抗（1）
+雖然阻止了眼前的破滅，但依舊是岌岌可危的狀況。為了防止生命守護者自爆，大家齊心協力共同合作。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=2 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{cn便利屋68}
+False
+//
+{cn便利屋68}在地面上观测到了天空中的红色光芒，加紧脚步。
+Haruka Mutsuki Aru
+OST_149
+BG_SlumFront.jpg
+--
+{cl飞鸟马}·{cf季}
+False
+||
+zh_Tw 1 37
+//
+在{sn千年}郊外的废墟，{cf季}观察到了天空不自然的光芒，决定前去调查。
+Toki
+OST_149
+BG_RuinCity_Erode.jpg
+--
+废弃游乐园
+False
+||
+zh_Tw 1 51
+//
+{cf阳奈}与{cnRABBIT小队}观察到天空中出现红色光芒，担心老师的安危，但还是坚守阵地。
+Hina Miyako Saki Miyu
+OST_149
+BG_CS_PV4_048_2.jpg
+--
+自爆程序不可避
+False
+||
+zh_Tw 1 01:11
+//
+{cf阳葵}再次试图断开，但请求仍被拒绝。就在自爆程序仅剩9秒启动时，{cf阳葵}束手就擒——这时，{cf莉央}突然出现。
+Yuuka Himari
+
+BG_UtnapishtimBridge_V5.jpg BG_CS_PV4_132.jpg
+--
+{cf莉央}的帮助与请求
+False
+||
+zh_Tw 1 01:30
+//
+{cf莉央}批评了{cf阳葵}，说放弃这种话可不像能出自她口。{cf阳葵}先是感到诧异，但随后发现倒计时停止在先前的9秒钟——{cf莉央}解释是她用多次元诠释系统抑制了方舟的连接，但只不过是权宜之计。{cf莉央}向众人请求帮助，{cf阳葵}则指出这艘船一定有信号中继器之类的东西，只要破坏就能断开连接；在断开期间，只要能修复好生命守卫者舰艇，就能反而启动方舟的自爆程序。
+Rio Himari Yuuka
+OST_76
+BG_UtnapishtimBridge_V5.jpg
+--
+确认通信中继模块
+False
+||
+zh_Tw 1 2:30
+//
+{cf阳葵}向在地面的{cf千寻}请求帮助，而{cf真纪}与{cf小玉}则表示，虽然能定位到方舟通信最集中的地方，但具体位置则需要{cn工程师部}的帮助。
+Chihiro Maki Kotama Hare
+OST_76
+BG_ComputerCenter_Erode.jpg
+//
+{cn工程师部}接受了要求，并表示分析与查找正进行中。
+Utaha Hibiki Kotori
+OST_76
+BG_HQ2.jpg
+--
+{cn奥利斯小队}
+False
+||
+zh_Tw 1 2:55
+//
+虽然对老师和一切深感不安，但众人决定就地等待。
+Hiyori Saori Atsuko Misaki
+OST_76
+BG_AriusStreet.jpg
+--
+{sn格黑娜}学院
+False
+||
+zh_Tw 1 3:6
+//
+{cn风纪委员会}与{cn万魔殿}在学院继续待命，期间{cf伊织}和真琴还起了点口角。
+Iori Chinatsu MemberOfPrefectTeam Makoto
+OST_76
+BG_GehennaCampus.jpg
+--
+{sn三一}综合学院
+False
+||
+zh_Tw 1 3:16
+//
+{cn实现正义部}注意到了天空的异变，但继续等待着。
+Hasumi Mashiro
+OST_76
+BG_TrinityStreet.jpg
+//
+{cf弥香}也注意到了天空的异变。
+Mika
+OST_76
+BG_TrinityMarket.jpg
+--
+两个{cf白子}的对峙
+False
+||
+zh_Tw 1 3:26
+//
+两个{cf白子}站着，互相对峙。老师表示“事情尚未结束”，而另一时间线的{cf白子}则表示此话不错，她的确还能继续战斗。{cf白子}不语。
+Shiroko ShirokoTerror
+OST_76
+BG_CS_PV4_144_2.jpg
+--
+下层通讯模块
+False
+||
+zh_Tw 1 3:47
+//
+{cn工程部}定位到通信集中点为方舟最下层。
+Hibiki Utaha Kotori
+OST_76
+BG_HQ2.jpg
+//
+{cf千寻}将坐标转发到方舟上。
+Chihiro
+OST_76
+BG_ComputerCenter_Erode.jpg
+//
+然而{cf阳葵}表示从上层到下层有至少1200m远，并且{cf花子}指出安全系统很难破坏，在骇入的情况下唯有同时破坏东、西两边的解除装置才能打开下层大门——但即便那样也只能持续五秒。更麻烦的是，下层还没有人能这么快移动。
+Himari Utaha Hanako Kayoko Ako
+OST_76
+BG_UtnapishtimBridge_V5.jpg
+--
+{cn美食研究会}与{cf风华}同学
+False
+||
+zh_Tw 1 4:38
+//
+先前被{cn美食研究会}一行人绑上来的{cf风华}同学终于到了发光发亮的时候，虽然{cf风华}非常不愿意这么做。不过最终众人还是保证一定能够破坏安全系统。
+Haruna Fuuka Akari Izumi Junko
+OST_60
+BG_CS_PV4_121.jpg BG_UtnapishtimBridge_V5.jpg
+--
+{cn对策委员会}的支援
+False
+||
+zh_Tw 1 5:27
+//
+{cn对策委员会}表示他们将负责东侧解除装置的破坏。{cf绫音}表示会提供协助。
+Hoshino Serika Nonomi Ayane
+OST_60
+BG_CS_PV4_141_2.jpg
+--
+{cn游戏开发部}的支援
+False
+||
+zh_Tw 1 5:40
+//
+{cn游戏开发部}表示他们离西侧破坏装置最近，因而他们主动请缨帮助破坏。{cf优香}先是一惊，但随后同意。{cf阳葵}询问光之剑状态如何，并表示之后可能会有用。
+Aris Yuuka Yuzu Momoi Midori Himari
+OST_60
+BG_CS_PV4_141_3.jpg
+--
+{cn美食研究会}，全员出发！
+False
+||
+zh_Tw 1 6:14
+//
+{cf羽留奈}让{cf风华}同学放轻松些，当成是在日常送快餐一样就好。{cf风华}虽然到头来还是不愿意，但毅然决然地接下了这段旅程的责任。像风一般，{cn供给部}的小车飞一样的穿过走廊。
+Haruna Fuuka Izumi Akari Junko
+OST_60
+BG_CS_PV4_127.jpg BG_CS_PV4_122.jpg BG_CS_PV4_123.jpg
+;;
+
+;;
+b68dfb69-ac3a-420a-8f01-8d0cfde39a31
+11
+finalS1 4 3
+抵抗（２）
+隱藏在地上的聖所出現了，邁向破滅的倒數速度也加快了。{cf季}在搜索過程中發現了聖所，單槍匹馬去進行攻略。{cn美食研究會}與{cf風華}甩掉了窮追不捨的敵人，往阿特拉哈西斯的方舟的最下層移動。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=3 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+不愿放弃
+False
+//
+{cf白子}不愿放弃。老师指出就像以前一样，他一定是会来阻止{cf白子}的——另一位{cf白子}一样同意。
+Shiroko ShirokoTerror
+OST_65
+BG_CS_PV4_144_2.jpg
+//
+这时A.R.O.N.A.突然说明，圣所显现程序（incarnation）已将圣所从冻结状态中解除，由此加速多次元演绎的计算速度。
+Phrenapates Plana
+OST_122
+BG_CS_PV4_144_2.jpg
+--
+被反抑制的连接
+False
+||
+zh_Tw 1 60
+//
+连接抑制时间大幅缩短，{cn贝里塔斯}众人大为震惊。
+Maki Chihiro Kotama Hare
+OST_122
+BG_CS_PV4_134.jpg BG_CS_PV4_133.jpg
+//
+这时在方舟上的{cf阳葵}表示，她观测到了地上有圣所正在出现，虽然无法目视——这时众人才发觉，敌人是将圣所转移到了他们看不见的地方。
+Himari Rio Momoka Ayumu
+OST_122
+BG_UtnapishtimBridge_V5.jpg
+--
+{sn千年}废墟的圣所
+False
+||
+zh_Tw 1 1:33
+//
+{cf季}与方舟上的{cf阳葵}联系，试图表明自己所在的地区出现了圣所，但连接立刻中断，同时还出现了大量敌人。在撤退与应战之间，{cf季}认为自己所处的地区非常关键，因而决定应战，帮助方舟上的老师。
+Toki
+OST_122
+BG_CS_PV4_007.jpg BG_RuinCity_Erode.jpg
+--
+Abi-Eshuh的信号
+False
+||
+zh_Tw 1 2:27
+//
+{cf小玉}报告抑制时间的减少速度突然恢复正常。
+Kotama Rio Himari
+OST_122
+BG_UtnapishtimBridge_V5.jpg
+//
+{cf阳葵}和{cf莉央}正疑惑之际，他们连上了Abi-Eshuh的信号。
+Himari Rio
+OST_122
+BG_UtnapishtimBridge_V5.jpg
+--
+{cf季}的殊死抵抗
+False
+||
+zh_Tw 1 2:45
+//
+{cf阳葵}和{cf莉央}立刻接入连接，{cf季}对能连上装甲一事感到些许惊讶。{cf莉央}要求{cf季}立刻撤离，停止应战，但{cf季}违抗了她的命令，并希望所有人能在她抵抗的这段时间里完成必要的事情。
+Toki Himari Rio
+OST_122
+BG_RuinCity_Erode.jpg
+--
+{cf风华}的小车
+False
+||
+zh_Tw 1 3:26
+//
+画面转回方舟。{cf亚子}在指挥部询问{cn美食研究会}的情况。
+Ako
+OST_122
+BG_UtnapishtimBridge_V5.jpg
+//
+{cf风华}同学全速驾驶着{cn供给部}的小车，敌人紧追不舍。在下一个转角处，{cf风华}正准备转过，但通讯中却传来了让人不安的尖叫声。{cf亚子}为众人捏了把汗。
+Junko Izumi Fuuka Akari Haruna
+OST_122
+BG_CS_PV4_124.jpg
+--
+{cf白子}的继续战斗
+False
+||
+zh_Tw 1 3:56
+//
+在方舟深处，{cf白子}与老师决定继续战斗。
+Shiroko
+
+BG_CS_PV4_144_2.jpg
+--
+面对另一个自己
+True
+||
+zh_Tw 1 4:12
+//
+{cf白子}与另一个自己的战斗。但由于诱骗者的支援，{cf白子}最终不敌另一个{cf白子}。
+Shiroko
+OST_157
+
+;;
+
+;;
+92f50503-093d-4864-bf90-b9fa8bade7a6
+11
+finalS1 4 4
+抵抗（３）
+{cf季}因為無名守護者的攻擊而陷入危機當中。阿特拉哈西斯方舟的解除裝置一一被破壞，最終總算是切斷了與方舟的連結。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=4 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+倒数加速
+False
+//
+在地上，{cn贝里塔斯}突然惊恐的发现抑制时间倒计时又加速了起来，甚至比先前还快。
+Chihiro Kotama Maki
+OST_149
+BG_CS_PV4_135.jpg BG_CS_PV4_138.jpg BG_CS_PV4_138_2.jpg
+//
+{cf莉央}意识到，{cf季}，大事不妙。
+Himari Rio
+OST_149
+
+--
+{cf季}的最后一搏
+False
+||
+zh_Tw 1 23
+//
+遍体鳞伤的{cf季}继续艰难战斗着，但敌人丝毫没有减少的迹象。
+Toki
+OST_149
+BG_RuinCity_Erode.jpg
+--
+破坏解除装置吧！
+False
+||
+zh_Tw 1 38
+//
+{cn美食研究会}向众人报告表示已经到达安全装置门口。{cf绫音}、{cf优香}立刻下令给{cn对策委员会}与{cn游戏开发部}，要求他们同时、立刻破坏解除装置。
+Rio Fuuka Ako Haruna Ayane Yuuka
+OST_149
+BG_UtnapishtimBridge_V5.jpg
+--
+东侧装置
+False
+||
+zh_Tw 1 52
+//
+一声巨响。尘埃落定后，{cn对策委员会}表示破坏完成。
+Hoshino Nonomi
+OST_149
+BG_CS_PV4_141_2.jpg
+--
+西侧装置
+False
+||
+zh_Tw 1 60
+//
+{cf爱丽丝}拿出了自己的光之剑，一炮轰了解除装置，破坏完成。
+Aris Yuzu
+OST_149
+BG_CS_PV4_141_3.jpg
+--
+安全系统就是个垃圾！
+False
+||
+zh_Tw 1 1:16
+//
+安全系统顺利解锁，{cf亚伽里}将负责最后的爆炸与破坏。
+Haruna Izumi Junko Akari
+OST_149
+BG_CS_PV4_128.jpg
+//
+地面上的{cn贝里塔斯}众人悬着心，看着屏幕上的时间倒回到9秒，希望他们能够最终成功。
+Chihiro Kotama Maki Hare
+OST_149
+BG_CS_PV4_135.jpg
+//
+爆炸声中，连接最终被成功断开。
+Akari Junko Izumi
+OST_149
+BG_CS_PV4_125.jpg BG_CS_PV4_126.jpg
+//
+船上，{cf阳葵}和{cf优香}等人立刻执行断开程序。
+Yuuka
+OST_149
+BG_CS_PV4_140.jpg BG_CS_PV4_138_3.jpg BG_CS_PV4_137.jpg BG_CS_PV4_132.jpg BG_CS_PV4_139.jpg
+--
+成功断开连接
+False
+||
+zh_Tw 1 2:2
+//
+{cf佳世子}宣布已同意连接断开请求，{cf莉央}则宣布抑制程序稳定下来。
+Kayoko Rio
+OST_150
+BG_UtnapishtimBridge_V5.jpg
+--
+稳定的抑制程序
+False
+||
+zh_Tw 1 2:10
+//
+方舟深处，在一阵轻微的晃动后，A.R.O.N.A.和{cf白子}感觉到了什么。
+Plana ShirokoTerror
+OST_150
+BG_CS_PV4_144_2.jpg
+//
+另一边，在生命守护者的舰桥上，所有人露出了久违的笑容，松了一口气。
+Momoka Rin Ayumu Ayane Hanako Kayoko Yuuka Ako Rio Himari
+OST_150
+BG_UtnapishtimBridge_V5.jpg
+//
+{cn贝里塔斯}看到抑制时间停止在一秒。{cn美食研究会}也成功撤出。
+
+OST_150
+BG_CS_PV4_139.jpg BG_CS_PV4_138_3.jpg BG_CS_PV4_129.jpg
+;;
+
+;;
+48f093ff-c3f2-49b4-a8f6-0744240b0a6e
+11
+finalS1 4 5
+簡單的解法
+{cf莉央}和{cf陽葵}成功奪回生命守護者主艦的操控權，但{cf季}已經到極限了。救世主在危機的一刻出現了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=5 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+已断开物理连接
+False
+//
+由于连接已经从物理上断开，短时间内方舟将无法再骇入生命守护者。{cf阳葵}表示将重新设置安全系统，取回控制权，并要{cf莉央}要求{cf季}进行撤退。
+Kayoko Hanako Yuuka Himari Rio
+OST_76
+BG_UtnapishtimBridge_V5.jpg
+--
+绝望的{cf季}
+False
+||
+zh_Tw 1 29
+//
+{cf季}的全身心已经到达了极限，几乎无法继续移动。{cf季}倒在了地上，但敌人源源不断。
+Toki Rio Himari
+OST_76
+BG_RuinCity_Erode.jpg
+--
+{cf季}的临终请求
+False
+||
+zh_Tw 1 60
+//
+{cf季}向{cf莉央}大人抱歉，并表示自己能与她共事是她极大的荣幸。{cf季}说她想和{et夏莱}、和{cnC&C}的前辈们一起战斗——而她对此非常感激。她向{cf莉央}询问Abi-Eshuh的自爆密码，认为其能爆炸的能量应能彻底摧毁圣所——她觉得，以{cf莉央}的性格，应当会有此种保险措施以防她叛变，但{cf莉央}表示那不存在。
+Rio Toki Himari
+OST_135
+BG_CS_S1Final_37.jpg BG_CS_S1Final_37_2.jpg
+--
+提到过的“电车难题”
+False
+||
+zh_Tw 1 01:31
+//
+{cf季}提到了{cf莉央}曾说过的“电车难题”，指出“需要有人去拉下操纵杆”——但{cf莉央}打断了她，指出那是她自己的错，没有去找人帮忙。{cf季}相信{cf莉央}，但不抱希望。
+Toki Rio
+OST_135
+BG_CS_S1Final_37.jpg BG_CS_S1Final_36.jpg
+--
+{cnC&C}的前辈
+False
+||
+zh_Tw 1 1:58
+//
+{cnC&C}及时赶到，帮助{cf季}进行应敌。{cf宁瑠}严重警告了{cf季}，指出那样的话绝不应该再在他们面前说第二次。
+Toki Asuna Akane Karin Neru
+OST_49
+BG_RuinCity_Erode.jpg BG_CS_S1Final_38.jpg BG_CS_S1Final_39.jpg
+--
+{cf乃爱}与{cf圣亚}的帮助
+False
+||
+zh_Tw 1 2:36
+//
+{cf莉央}询问众人如何赶到，而{cf乃爱}则表示{cnC&C}在情况变成这样之前早已出动。{cf莉央}对此感到惊讶，询问她究竟如何得知，而此时{cf圣亚}接入通讯，她表示她将直觉和预感告诉了{cf乃爱}。{cf乃爱}最后将{cf季}托付给{cnC&C}后离开。解释完事情后，{cnC&C}众人开始应战。
+Noa Rio Seia
+OST_49
+BG_RuinCity_Erode.jpg
+--
+郁郁不乐的{cf莉央}
+False
+||
+zh_Tw 1 3:27
+//
+{cf莉央}有些郁郁不乐。{cf优香}请{cf莉央}振作一些，而{cf阳葵}则插了一嘴，说{cf莉央}可就是这样在“干净”和“浑浊”的两条河里头淌水的人。
+Rio Yuuka Himari
+OST_49
+BG_UtnapishtimBridge_V5.jpg
+--
+自爆程序就绪
+False
+||
+zh_Tw 1 3:47
+//
+闲话少说，{cf阳葵}表示自爆程序已就位，{cf莉央}先前开发的逃脱程序正好可以派上用场。
+Himari Rio Yuuka
+OST_49
+BG_UtnapishtimBridge_V5.jpg
+;;
+
+;;
+df1c6a3d-7de3-45d6-a9b0-5c53b50779c4
+11
+finalS1 4 6
+同等的條件
+方舟的自爆程式再次開始了。大家在準備逃脫的過程中，學生們為了協助老師而聚集在一起。為了讓世界走向滅亡，另一個{cf白子}與老師展開了決戰。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=6 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+连接拒绝
+False
+//
+A.R.O.N.A.依据程序开始尝试备用连接，但连接请求均被拒绝；随后她试图用圣所加速计算，但圣所已被破坏。A.R.O.N.A.不得不宣布计划将有可能失败。
+ShirokoTerror Plana
+OST_149
+BG_CS_PV4_144_2.jpg
+--
+自爆程序的启动
+False
+||
+zh_Tw 1 36
+//
+方舟内部响起警报，A.R.O.N.A.宣布方舟的自爆程序已启动，并指出爆炸后多次元诠释功能将永久消失。A.R.O.N.A.试图重启圣所显现程序，但因资源不足无法启动，操作被迫取消。
+Plana
+OST_149
+BG_CS_PV4_144_2.jpg
+//
+被圣所染红的天空再次变蓝。
+
+OST_149
+BG_View_Atrahasis_erode.jpg BG_View_Atrahasis.jpg
+--
+{cn美食研究会}的协助
+False
+||
+zh_Tw 1 62
+//
+{cn美食研究会}成功破坏安全系统，{cf风华}也因体力不支而倒下。众人决定在爆炸前去帮助老师。
+Junko Izumi Akari Fuuka Haruna
+OST_149
+BG_CS_PV4_128_2.jpg
+--
+{cn对策委员会}的协助
+False
+||
+zh_Tw 1 1:49
+//
+{cn对策委员会}发现天空变回蓝色。众人决定在将老师与{cf白子}救出后立即离开，{cf绫音}表示会坚持到最后一刻。
+Serika Ayane Hoshino Nonomi
+OST_149
+BG_CS_PV4_141_4.jpg
+--
+{cn游戏开发部}的协助
+False
+||
+zh_Tw 1 2:13
+//
+{cf优香}想让{cn游戏开发部}回到舰桥，准备使用{cf莉央}会长的逃脱程序。但四人拒绝执行{cf优香}的命令，并前往中央区帮助老师。{cf优香}先是一惊，但随后表示同意。
+Yuuka Aris Momoi Midori Yuzu
+OST_149
+BG_CS_PV4_141_5.jpg
+--
+{cnC&C}的协助
+False
+||
+zh_Tw 1 2:38
+//
+{cf花凛}注意到天空恢复了正常的颜色，他们众人的工作有了效果。他们决定就地等待老师回来。
+Karin Neru Akane Asuna
+OST_149
+BG_RuinCity_Erode.jpg BG_RuinCity.jpg
+--
+计划失败在即
+False
+||
+zh_Tw 1 3:4
+//
+A.R.O.N.A.警告自爆程序一旦启动，方舟内部的人的生存概率将无限接近于零。另一位{cf白子}这时才意识到老师一直都是在拖延时间，等待大家到来。A.R.O.N.A.试图通过{sn其他}途径解决生命守护者的威胁，但被另一位{cf白子}叫住：她意识到老师不论如何都会克服困难、创造奇迹，因而最佳方案应是先除掉老师。
+Plana ShirokoTerror Shiroko Phrenapates
+OST_149
+BG_CS_PV4_144_2.jpg
+--
+战斗支援模式
+False
+||
+zh_Tw 1 4:13
+//
+另一位{cf白子}的话转变了诱骗者的思路，他命令A.R.O.N.A.转换为战斗支援模式。老师不甘落后，叫出了{cf彩奈}进行协助。另一位{cf白子}警告老师自己的能力与这一时间线上的大家都很不同，老师则拿出了大人的卡片。
+ShirokoTerror Phrenapates Plana Arona Shiroko
+OST_157
+BG_CS_PV4_144_2.jpg BG_FrenapatisLobby.jpg
+--
+两张大人的卡片
+False
+||
+zh_Tw 1 300
+//
+另一位{cf白子}表示清楚老师的能力，但同时提醒老师：他面前的诱骗者，也是他自己，也是一位老师。{cf彩奈}指出诱骗者似乎掏出了一样东西：一个已经严重碳化、但尚且完整的银行卡。决战一触即发。【注意：本剧情过后即跳转到活动剧情】
+ShirokoTerror Phrenapates Plana Arona Shiroko
+OST_157
+BG_CS_PV4_145.jpg BG_AronaRoom_Night.jpg BG_CS_S1Final_40.jpg
+;;
+
+;;
+7bea20a3-bb58-40a1-88a7-be9edb98c3e3
+11
+finalS1 4 7
+相同的情況，相同的選擇
+老師利用最後的逃脫程式拯救了另一個{cf白子}。{cf彩奈}為了從墜落的方舟中救出老師而孤軍奮戰，但光憑自己的力量根本就不夠。老師拜託{cf彩奈}去救另一個{cf彩奈}。被傳送至{cf彩奈}的教室的另一個{cf彩奈}，兩人創造了奇蹟且伸出援手。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+坠落
+False
+//
+{cf彩奈}对老师的行为大为震惊，表示这样将导致老师从万米高空坠落。
+Arona
+OST_155
+BG_AronaRoom_Night.jpg
+--
+方舟的闪光
+False
+||
+zh_Tw 1 20
+//
+方舟内部爆发出最后一次闪光，那是{cf白子}被传送走的标志。方舟里，诱骗者的身体倒在方舟的残垣断壁之中。
+
+OST_155
+BG_CS_S1Final_65_2.jpg BG_CS_S1Final_65.jpg BG_CS_S1Final_66.jpg
+--
+A.R.O.N.A.的顿悟
+False
+||
+zh_Tw 1 36
+//
+A.R.O.N.A.对这一时间线上的老师如此不遗余力地来到这里拯救一切感到不解，但在回想了种种事件后，她意识到老师的想法：只要不重复以前的结局、相信老师们都会在“相同的情况”下做出“相同的选择”，就可以了。
+Plana
+OST_155
+BG_CS_PV4_028.jpg BG_CS_PV4_029.jpg BG_CS_PV4_048.jpg BG_CS_PV4_049.jpg BG_CS_PV4_051.jpg BG_CS_PV4_054.jpg BG_CS_PV4_055.jpg BG_CS_PV4_057.jpg BG_CS_PV4_063.jpg BG_CS_PV4_065.jpg BG_CS_PV4_127.jpg BG_CS_PV4_113.jpg BG_CS_PV4_116.jpg BG_CS_PV4_118.jpg
+--
+{cf彩奈}的实力
+False
+||
+zh_Tw 1 1:17
+//
+{cf彩奈}使出浑身解数试图拯救老师不在爆炸中受伤，最终成功——但这无法降低老师坠落的速度。
+Arona
+OST_155
+BG_AronaRoom_Night.jpg BG_AronaRoom.jpg BG_AbandonedCorridor.jpg BG_AbandonedCorridor_Night.jpg BG_CathedralRuins.jpg BG_CathedralRuins_Night.jpg BG_CS_PV4_157.jpg
+//
+{cf彩奈}意识到似乎是力量达到了极限，而这是因为此前的各种战斗所致。老师将保护那位{cf白子}的责任交给了{cf彩奈}，让{cf彩奈}不要再尝试，并与她告了别。
+Arona
+OST_155
+BG_AronaRoom_Night.jpg BG_CS_PV4_158.jpg
+--
+A.R.O.N.A.的加入
+False
+||
+zh_Tw 1 2:41
+//
+{cf彩奈}及时完成了与另一个箱子的传输，将另一个自己一并转移到了现在的箱子里。A.R.O.N.A.先是一惊，但很快明白了{cf彩奈}的意思；在发现老师正处于自由落体、{cf彩奈}力量不足而毫无他法后，A.R.O.N.A.开始强制干涉程序，保护老师。
+Plana Arona
+OST_152
+BG_AronaRoom_Night.jpg BG_CS_PV4_158.jpg BG_AronaRoom.jpg BG_CS_PV4_074.jpg
+--
+强强联手
+False
+||
+zh_Tw 1 4:11
+//
+A.R.O.N.A.向{cf彩奈}提出联手、合并力量的请求——她们两人的力量，只要聚合到一起，一定能引发两人之间的奇迹。
+Arona Plana
+OST_152
+BG_CS_S1Final_67.jpg BG_CS_S1Final_68.jpg BG_CS_S1Final_69.jpg BG_CS_S1Final_70.jpg BG_CS_S1Final_71.jpg BG_CS_S1Final_72.jpg BG_CS_S1Final_73.jpg
+--
+【温柔的记忆 Memories of Kindness】
+False
+||
+zh_Tw 1 5:45
+//
+此处为视频播放。欲了解视频的更多详细信息，请跳转至相关页面。
+
+other_2
+
+;;
+
+;;
+661a2432-36dc-462e-809c-88d64818b3b0
+11
+finalS1 4 8
+所有奇蹟的起點
+老師順利地回到學生們的身邊。{cf白子}把面罩送給另一個{cf白子}，{cf彩奈}則幫另一個{cf彩奈}取名為「星奈」。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=9 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+会长的话
+False
+//
+会长对老师说的话。她希望老师能将回忆、每时每刻铭记于心；并且表示，珍贵的事物从来不会消失。之后，她邀请老师回到“我们所有奇迹的所在之处”。她最后提到，这一切便是“通过无法理解的他人(事物)，理解自己(彼此)的方法。”
+GscPres
+OST_152
+BG_CS_PV4_074.jpg BG_CS_PV4_074_3.jpg BG_CS_PV4_075.jpg BG_CS_S1Final_74.jpg BG_CS_S1Final_75.jpg BG_CS_PV3_77.jpg
+--
+A.R.O.N.A.的离开
+False
+||
+zh_Tw 1 1:31
+//
+两人的奇迹起了效果，老师安全回到了地面上。因为履行完了责任，加上自己大概会与现有的“Arona”冲突，A.R.O.N.A.在沙滩上，向着海的另一边跑去。
+Arona Plana
+OST_152
+BG_CS_PV4_074.jpg BG_CS_PV4_161.jpg
+--
+两位{cf白子}的再相见
+False
+||
+zh_Tw 1 2:6
+//
+两位{cf白子}再次相见。另一位{cf白子}表示，因为这世上只能有一个{cf白子}，她出现在这里只会造成混乱。而{cf白子}只是说，她身上的围巾不能给她，但能给她另外一样重要的东西。
+ShirokoTerror Shiroko
+
+BG_ForestRoad.jpg
+--
+欢迎回到学校
+False
+||
+zh_Tw 1 3:20
+//
+{cf白子}将与{cn对策委员会}抢银行时用的头罩送给了另一位{cf白子}，这同样也是一件对她而言，和围巾一样重要的东西。另一位{cf白子}感谢了{cf白子}，表示非常感激，并说这让她想起了之前的许多事，包括抢联邦学生会的金库。
+ShirokoTerror Shiroko
+OST_162
+BG_CS_S1Final_76.jpg BG_CS_S1Final_76_2.jpg BG_CS_S1Final_76_3.jpg BG_CS_S1Final_76_4.jpg
+--
+两个{cf白子}的共存
+False
+||
+zh_Tw 1 4:7
+//
+临别前，{cf白子}向另一位{cf白子}表示无需担心，因为这里是大人(老师)守护着的地方，而老师必定能找到方面解决这一切。最后{cf白子}邀请另一位改天一起去骑车。
+Shiroko ShirokoTerror
+OST_162
+BG_ForestRoad.jpg
+--
+{cf彩奈}的劝阻
+False
+||
+zh_Tw 1 4:48
+//
+{cf彩奈}请求A.R.O.N.A.留下来，一同住在箱子里协助老师。{cf彩奈}为了防止老师叫错，还贴心地给A.R.O.N.A.找好了一个新名字：星奈/Plana，源于“星象仪”（Planetarium）一词。
+Plana Arona
+OST_152
+BG_CS_PV4_161.jpg BG_CS_PV4_074.jpg
+--
+牵手回家吧！
+False
+||
+zh_Tw 1 5:54
+//
+与上一次星奈主动向{cf彩奈}伸手合作不同，这一次，{cf彩奈}主动向星奈伸出了手，邀请她一同回家——故事的起点，Blue Archive。{cf彩奈}还叫她“姐姐”，虽然很快被纠正为“前辈”。
+Arona Plana
+OST_152
+BG_CS_S1Final_77.jpg BG_CS_S1Final_78.jpg BG_CS_S1Final_79.jpg BG_CS_S1Final_80.jpg BG_CS_S1Final_81.jpg BG_CS_S1Final_82.jpg BG_CS_PV4_074_3.jpg BG_CS_PV4_074_4.jpg BG_CS_PV4_074_4_En.jpg BG_CS_PV4_074_4_Th.jpg BG_CS_PV4_074_4_Tw.jpg
+;;
+
+;;
+5d2484a1-4d18-495e-920c-ec105e55103a
+11
+finalS1 4 9
+尾聲（１）
+D.U.白鳥區正在進行修復作業中，\n{cn遊戲開發部}一行人發現了名為<Kei>的存檔，並且交給了{cf陽葵}。{cf香耶}和曾背叛自己的凱薩將軍合作。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=10 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+新闻报导（1）
+False
+//
+诗音向电视机前的观众介绍DU白鸟区的修复进程，并提到其中的资金流向似乎并不是特别透明，直播随后被中断。
+Shinon
+OST_11
+BG_CS_PV3_02.jpg BG_CS_S1Final_83.jpg
+--
+新闻报导（2）
+False
+||
+zh_Tw 1 47
+//
+诗音向电视机前的观众介绍DU白鸟区的修复进程，提到了在本次事件中各地区的伤亡人数都很低，可谓奇迹。她随后提及了关于圣所之塔的情况，指出大楼虽然被破坏，但实际上在会长消失后就并未使用。诗音还提及了关于{et夏莱}的一个传闻：老师最后在田野里奔跑着、向学生招手。直播被立刻中断。
+Shinon
+OST_11
+BG_CS_S1Final_83.jpg
+--
+新闻报导（3）
+False
+||
+zh_Tw 1 1:43
+//
+被连续中断两次的诗音极其不悦，仍然追着关于{et夏莱}及其有关的阴谋论不放。直播再次中断。
+Shinon
+OST_11
+BG_CS_S1Final_83.jpg
+--
+新闻报导（4）
+False
+||
+zh_Tw 1 1:52
+//
+麻衣代替诗音进行播报。麻衣提到联邦学生会将重建圣所之塔，具体的承建人似乎包含了凯撒建筑，其中可能有一些不透明的东西。屏幕最终被关掉。
+Mai
+OST_11
+BG_CS_S1Final_83.jpg
+--
+防卫室与凯撒的勾结
+False
+||
+zh_Tw 1 2:5
+//
+画面转到PMC的办公室，联邦学生会防卫室的部长{cf香耶}正在与PMC的将军交谈。两人重申了一些共识，指出他们的合作仍然有效，希望之后能提供支持。
+Kaya PMC_General
+OST_73
+BG_DrawingRoom.jpg
+--
+象征Kei的小机器人
+False
+||
+zh_Tw 1 2:50
+//
+{cn游戏开发部}四人回到了自己的社团活动室，发现{cf爱丽丝}正在做一个小机器人的模型。{cf爱丽丝}说这是Kei在消失前，她所看见的东西――也就象征着Kei本身。
+Momoi Midori Yuzu Aris
+OST_64
+BG_GameDevRoom.jpg
+--
+名为Kei的存档
+False
+||
+zh_Tw 1 3:34
+//
+{cf桃井}的游戏机突然又亮了起来。{cf桃井}查看游戏机，发现里头多了个叫做Kei.sav的存档文件。{cf绿}立即提议将游戏机带给{cf阳葵}进行分析。
+Momoi Midori Yuzu Aris
+OST_64 OST_61
+BG_GameDevRoom.jpg BG_CS_Millenium_02.jpg
+--
+{cf爱丽丝}的组队邀请
+False
+||
+zh_Tw 1 4:18
+//
+{cn游戏开发部}众人来到了{cn特异现象搜查部}的活动室，在那他们意外见到了{cf季}。{cf季}表示会长仍然处于失踪状态，因而现在正在求职。{cf爱丽丝}邀请{cf季}加入自己的队伍，但被{cf季}谢绝，表示自己有任务在身。
+Toki Eimi Momoi Midori Yuzu Aris
+OST_129
+BG_SpecialOperationRoom.jpg
+--
+关于那个存档文件
+False
+||
+zh_Tw 1 5:8
+//
+{cf阳葵}前来询问发生了什么。众人说在{cf桃井}的游戏机上突然出现了一个以Kei的名字所命名的存档。{cf阳葵}对这种情况先是一惊，但之后表示这一文件的大小和结构都很奇怪，可能需要{cf莉央}的帮助才能解析。
+Himari Aris Momoi Midori
+OST_129
+BG_SpecialOperationRoom.jpg
+--
+改造后的小机器人
+False
+||
+zh_Tw 1 5:59
+//
+{cf爱丽丝}掏出了自己做的小机器人，跟{cf阳葵}说这是她照着Kei的样子做出来的。她希望能将Kei给带回来。虽然暂时无法解析文件数据，但{cf阳葵}提议为模型增加存储功能，将文件存进去，顺便当个钥匙扣。{cf爱丽丝}欣然同意。
+Himari Aris Yuzu Midori Momoi
+OST_129
+BG_SpecialOperationRoom.jpg
+;;
+
+;;
+d566e2f9-4a69-4615-b97c-5f2a6de338b6
+11
+finalS1 4 10
+尾聲（２）
+混亂結束後，奇普托斯終於恢復平靜。老師從仁耶手中收到了{cf葛葉}的信。{cf琳}則收到了一封沒有寫寄件人的信。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=11 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+三一{cn补习部}
+False
+//
+{sn三一}的{cn补习部}四人仍然在补习。当然了，在经过这么多事情之后，他们已经忘掉了很多……
+Hifumi Koharu Hanako Azusa
+OST_32
+BG_CS_Trinity_03.jpg
+--
+{cn奥利斯小队}
+False
+||
+zh_Tw 1 28
+//
+{cn奥利斯小队}全体为{cf纱织}送行，鼓励他不要放弃追求自我。{cf纱织}随后戴上头盔圈的帽子，接了上司的命令后匆匆离开。
+Atsuko Saori Misaki Hiyori
+OST_32
+BG_BlackMarket.jpg
+--
+{cn对策委员会}与拉面店
+False
+||
+zh_Tw 1 1:34
+//
+{cn对策委员会}在柴大将的店里吃拉面，{cf茜香}有些难堪。谈到价钱，老板主动表示这一顿免费，并让{cf茜香}先歇一会。{cf星野}故意重提许久以前的“坐{cf白子}还是{cf野乃美}旁边”这一问题，而恼火的{cf茜香}直接坐到了{cf星野}大腿上。{cf星野}随后被众人挤着。
+Hoshino Serika Nonomi Shiroko Ayane MasterShiba
+OST_32
+BG_FoodCartRamen.jpg
+--
+星奈的新家
+False
+||
+zh_Tw 1 3:8
+//
+{cf彩奈}欢迎星奈入住自己的箱子，星奈表示了感谢。虽然作为后辈，{cf彩奈}还是让星奈说出了那句“我回来了”的台词。
+Arona Plana
+OST_32
+BG_AronaRoom.jpg BG_CS_S1Final_84.jpg
+--
+联邦学生会
+False
+||
+zh_Tw 1 3:53
+//
+{cf琳}向{cf步}和{cf桃香}表示感谢，感谢他们信任并愿意跟随着她。{cf步}提及了{cf琳}被撤职一事，而{cf琳}则表示这事还是不要{cf步}插手好一些。在走之前，{cf步}提到在{cf琳}的桌面上似乎有一封给她的信。
+Ayumu Rin Momoka
+OST_32
+BG_ReceptionRoom.jpg
+--
+{sn百鬼夜行}{cn阴阳部}
+False
+||
+zh_Tw 1 4:54
+//
+{sn百鬼夜行}的{cn阴阳部}部长仁也联系上了老师，询问老师近况如何，并追问了有关老师全身赤裸在田野上奔跑一事，老师不予置评。回到正题，仁也提到{cn忍术研究部}的各位已经回去，见到了自称为百花缭乱的副部长。她提到他们带回了一封据称是来自部长{cf葛业}的信，要专门给老师看。
+Niya
+OST_32
+BG_MainOffice.jpg
+--
+不可逆转的色彩
+False
+||
+zh_Tw 1 6:14
+//
+{cf葛业}在信件中提到，被色彩侵蚀之人是无法逆转回去的。如果要了解更多的话，就去{sn百鬼夜行}区亲自见见她。
+Kuzunoha
+OST_32
+
+--
+学生会长的信
+False
+||
+zh_Tw 1 6:40
+//
+{cf琳}回到自己的办公室，见到了桌面上的信件。信上没有写寄出人，但{cf琳}根据信的笔迹认出，这似乎是一封来自联邦学生会会长的信。
+Rin
+
+BG_CS_PV4_164.jpg
+--
+星奈与{cf彩奈}的会合
+False
+||
+zh_Tw 1 7:16
+//
+最终，{cf彩奈}与星奈在箱子的教室里会合。星奈坐在一张课桌前，而{cf彩奈}则在一边看着她。本篇故事以此次会合结束。在单击此页面后，游戏将会重启到主菜单，允许玩家重新登录时观看新的加载动画。【注意：这是每个账号都只有一次的机会，重新播放故事并不会触发这一行为。】
+Arona Plana
+OST_152
+
+;;
+
+;;
+7bc509f8-f4c7-4a68-bd48-fdb2b80b89ad
+11
+finalS1 4 11
+後日談（１）
+在{et希迪姆的箱子}中一起相處的{cf彩奈}和星奈。老師和兩人見面後互相寒暄說多多指教，並且為了{cf未來}做準備。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=13 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+星奈的招呼
+False
+//
+星奈向老师打招呼，表示{cf彩奈}前辈很照顾自己。因为{cf彩奈}还在睡觉，所以星奈把她叫了起来。
+Plana
+OST_22
+BG_AronaRoom.jpg
+--
+老师的得力助手
+False
+||
+zh_Tw 1 31
+//
+{cf彩奈}睡觉睡过头，其实已经到中午了。老师最后鼓励两人要一并努力，两人也保证会成为老师的得力助手。
+Arona Plana
+OST_22
+BG_AronaRoom.jpg
+--
+仍然下落不明的联邦学生会会长
+F
+||
+zh_Tw 1 1:24
+//
+星奈推测{cf彩奈}前辈越来越嗜睡的原因，可能是因为自己在这占用了算力。星奈很遗憾地发现，联邦学生会会长同样不在这个世界里。
+Plana
+
+BG_AronaRoom_Night.jpg BG_CS_PV4_162.jpg
+;;
+
+;;
+a05c2a0d-45c3-4732-92e5-3d0cfe53c01d
+11
+finalS1 4 12
+後日談（２）
+{cf法蘭西斯}在廢墟的某處敘述著這個故事的結尾。另一方面──星奈對{cf彩奈}為何是與自己相似卻不同的存在的證明結束了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1B94y1x75F/?p=14 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+故事的结尾
+False
+//
+{cf法兰西斯}述说着故事的结尾，并说黑服未完成的事业将由他继续。
+Golconde
+OST_92
+BG_RuinCity.jpg
+--
+联邦学生会会长的下落
+False
+||
+zh_Tw 1 48
+//
+星奈完成了对可能性的演算，发现了自己为何与{cf彩奈}如此不同的点：{cf彩奈}就是联邦学生会会长的化身。
+Plana
+
+BG_AronaRoom_Night.jpg
+--
+【新剧情预告】
+False
+||
+zh_Tw 1 1:35
+//
+【PV4.5预告片播放】
+
+
+
+;;

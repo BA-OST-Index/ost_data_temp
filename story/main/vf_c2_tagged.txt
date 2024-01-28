@@ -1,0 +1,1553 @@
+;;
+121c4acc-399e-4349-b537-0252e025a43b
+11
+finalS1 2 1
+色彩的嚮導者
+奇普托斯因為突如其來的異常現象而陷入混亂。老師使用大人的卡片企圖收拾眼前的混亂狀況。來歷不明的存在出現在老師面前，並且留下了耐人尋味的忠告。
+||
+zh_tw, 2, https://www.bilibili.com/video/BV1Th4y157Ba/, [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn格黑娜}学院
+False
+//
+{cf阳奈}和{cf亚子}发现天空变红。
+Hina Ako
+OST_65
+BG_BigBridge.jpg
+--
+{sn千年}学院
+False
+||
+zh_tw 1 18
+//
+{cf优香}询问{cf乃爱}关于{cf莉央}的踪迹，后者表示还没有找到。{cf优香}表示自己将先出发一步。
+Yuuka Noa
+OST_65
+BG_ClassRoom2.jpg
+--
+{sn三一}学院
+False
+||
+zh_Tw 1 33
+//
+{cf花子}听说有急事后来到{cn茶会}所在的阳台，见到了{cn茶会}的{cf渚}、{cn修女会}的{cf樱子}和救援骑士团的{cf美祢}。{cf花子}希望大家能够一起齐心协力，即便派系不同。
+Hanako Nagisa Sakurako Mine
+OST_65
+BG_TrinityTerrace.jpg
+--
+{cn便利屋68}
+False
+||
+zh_Tw 1 51
+//
+完成任务的众人发现天空变红了。就在这时他们收到老师的消息。
+Haruka Mutsuki Kayoko Aru
+OST_65
+BG_BlackMarket.jpg
+--
+圣所之塔的崩坏
+False
+||
+zh_Tw 1 1:13
+//
+诗音向电视屏幕前的所有人报道称，DU白鸟区出现不明情况，有一个巨大的塔从天空落下且正中圣所之塔。随后是一些现场的情况。
+Shinon
+OST_65
+BG_CS_PV4_011.jpg BG_CS_PV4_008_2.jpg BG_CS_PV4_007.jpg BG_CS_PV4_006.jpg BG_CS_S1Final_14.jpg
+--
+色彩的侵略
+False
+||
+zh_Tw 1 1:39
+//
+站在{et夏莱}的顶楼上，老师遇见了{cf黑色西服人}。黑服说他所在的组织已被摧毁，而色彩将“胡狼神”扭曲为“阿努比斯”反转为其恐怖的一面，而后者也遵循着其命运的指导，给基沃托斯带来终结。
+BlackSuit
+OST_142
+BG_BuildingRooftop.jpg BG_CS_PV4_001.jpg BG_CS_PV4_002.jpg
+--
+不同寻常的色彩
+False
+||
+zh_Tw 1 2:14
+//
+黑服表示，自己虽然先前认为色彩没有意识、无法理解，但在这次行动中，他们却明显感觉到色彩具有了意识和意义――色彩试图吸收基沃托斯所有崇高和神秘的概念，将其化为己有。
+BlackSuit
+OST_142
+BG_BuildingRooftop.jpg
+--
+圣所之塔的变种
+False
+||
+zh_Tw 1 2:28
+//
+黑服表示，出现在基沃托斯的六座塔大概可以算作是圣所之塔的一种变体，其将会把色彩的光散播到整个基沃托斯，扭曲所有人。
+BlackSuit
+OST_142
+BG_CS_PV4_043.jpg
+--
+色彩的向导者
+False
+||
+zh_Tw 1 2:47
+//
+黑服表示，自己的组织受到色彩攻击，可能是由于色彩想要夺走他们的技术。他提到他们称代表色彩意志的存在为“色彩的向导者”，其名为“诱骗者”。
+BlackSuit
+OST_142
+BG_CS_PV4_043.jpg BG_CS_PV4_145.jpg
+--
+基沃托斯各地的敌人
+False
+||
+zh_Tw 1 3:11
+//
+基沃托斯各地都出现了敌人。
+
+OST_142
+BG_RiversideRoad_Erode.jpg BG_Wilderness_Erode.jpg BG_RuinCity_Erode.jpg
+--
+混乱的新闻
+False
+||
+zh_Tw 1 3:31
+//
+诗音向大屏幕前的所有人通报即时的新闻动态，提到塔的情况尚不清楚，基沃托斯各地也出现了来源不明的兵力。随后{et夏莱}的通知抵达，其中明确表明各自治区的学生立即避难，切勿靠近黑色高塔。
+Shinon
+OST_142
+BG_CS_PV4_012.jpg BG_CS_PV4_011.jpg
+--
+大人的卡片
+False
+||
+zh_Tw 1 4:9
+//
+站在高台上的老师拿出了大人的卡片，黑服警告老师滥用卡片的后果。
+BlackSuit
+
+BG_BuildingRooftop.jpg
+--
+[UI] 走格子画面
+True
+||
+zh_Tw 1 4:30
+//
+【本段剧情含多场战斗，需要走格子】
+
+OST_148
+
+--
+[战斗] 与色彩化机器人的战斗
+True
+||
+zh_Tw 1 4:36
+//
+学生与色彩化的机器人战斗。
+
+OST_101
+
+--
+[战斗] 与神秘系敌人的战斗
+True
+||
+zh_Tw 1 5:56
+//
+学生与神秘系敌人的战斗。BGM NRG Field
+
+OST_101
+
+--
+[BOSS战] 与BOSS的战斗
+True
+||
+zh_Tw 1 10:10
+//
+学生与BOSS的战斗。
+
+OST_142
+
+;;
+
+;;
+dcfb04b0-c6ac-460c-a3a1-7b188cefddd0
+11
+finalS1 2 2
+作戰會議
+學生們收到老師的聯絡後一一前往聯邦學生會。為了解決眼前的狀況，以{cf琳}為首收集情報與建立作戰計畫。為了拯救暴露在聖所的人，老師和{cf聖亞}開始尋找{cf葛葉}。聽到消息後，仁耶表示搜索{cf葛葉}的任務交給自己。
+||
+zh_tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=2 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+遇见{cf白子}
+False
+//
+{cn对策委员会}一行人在列车站遇见了虚弱的{cf白子}。{cf白子}与她们发生了战斗，随后倒地。{cf星野}询问{cf白子}来自哪里，{cf白子}回答不知道。
+Shiroko Hoshino Nonomi
+OST_55
+BG_CS_S1Final_15.jpg
+--
+温暖的围巾
+False
+||
+zh_Tw 1 01:22
+//
+{cf星野}决定将落难的{cf白子}带回{sn阿拜多斯}，并给了她一条蓝色的围巾用作保暖。
+Hoshino Shiroko
+OST_55
+BG_CS_S1Final_16.jpg BG_CS_S1Final_17.jpg
+--
+{cn对策委员会}的纠结
+False
+||
+zh_Tw 1 1:42
+//
+{cf星野}想起了她以前遇到{cf白子}的时候，认为此时的情况应该和当时类似。{cf星野}想不参与{et夏莱}的集合，自己去找{cf白子}，被{cf野乃美}拦下。
+Hoshino Nonomi
+OST_55
+BG_Classroom.jpg
+//
+就在这时{cf绫音}和{cf茜香}来到教室，他们提议一起去找老师；{cf星野}转而接受。
+Serika Ayane Hoshino Nonomi
+OST_13
+BG_Classroom.jpg
+--
+以{et夏莱}名义召集学生
+False
+||
+zh_Tw 1 2:36
+//
+联邦学生会的{cf琳}由于被撤职且处于不被信任状态，因而不得不拜托{et夏莱}发布召集命令。{cf琳}随后拜托{cf桃香}和{cf步}代她处理在这期间的事情。
+Ayumu Rin Momoka
+OST_65
+BG_MainOffice_Erode.jpg
+--
+陆续到达的学生
+False
+||
+zh_Tw 1 3:17
+//
+{cf佳世子}、{cf优香}、{cf亚子}、{cf花子}和{cf绫音}陆续赶到。有人询问老师的情况，得到的回答是老师正在DU交战，稍后会回来一趟。大家前往会议室。
+Kayoko Yuuka Ako Hanako Ayane Momoka Rin
+OST_65
+BG_MainOffice_Erode.jpg
+--
+会议前准备
+False
+||
+zh_Tw 1 4:43
+//
+{cf琳}开始准备会议，搭载着老师的直升机也正在赶来。来到的代表们拿到资料后，开始与自己学院的{sn其他}成员确认情况。
+Rin Ayane Hanako Ako Yuuka
+OST_65
+BG_CS_PV4_022.jpg BG_CS_PV4_023.jpg BG_CS_PV4_024.jpg BG_CS_PV4_025.jpg BG_CS_PV4_026.jpg
+--
+作战会议
+False
+||
+zh_Tw 1 5:32
+//
+{cf琳}指出他们的目标是在两周内破坏掉那些塔――她目前将其称为“虚假的圣所”，意义不言自明。
+Rin Kayoko Yuuka Ayane
+OST_101
+BG_CS_PV4_029.jpg BG_CS_PV4_028.jpg BG_CS_PV4_027.jpg
+--
+关于“色彩”所知的一切
+False
+||
+zh_Tw 1 5:54
+//
+{cf花子}向各位提到了{cn茶会}和{cn修女会}在古书馆发现的资料。
+Hanako
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+{cf圣亚}指出，目前正在入侵基沃托斯的是所谓名叫“色彩”的存在；
+Seia
+OST_101
+BG_TrinityClubRoom.jpg
+//
+{cn修女会}说明，这是一种会让人陷入疯狂的光。
+Sakurako
+OST_101
+BG_TrinityOldLibrary.jpg
+//
+{cf优香}有些不可置信，而{cf乃爱}则表示{cn工程部}已经发现其中的光信号能使人精神错乱；
+Yuuka Noa
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+{cn工程部}进一步表示，这一说法可信度较低，需要进一步确认，而{cf亚都梨}则搬来了{sn三一}古书馆的书；
+Utaha Hibiki Kotori
+OST_101
+BG_CS_PV4_035.jpg
+//
+{cn贝里塔斯}表示虽然进展不顺，但估计在300小时后就会达到临界点。
+Hare Chihiro Kotama
+OST_101
+BG_CS_PV4_033.jpg
+//
+{cf圣亚}向各位描述了她曾告诉老师的预知梦的情形。
+Seia
+OST_101
+BG_TrinityClubRoom.jpg
+//
+{cf佳世子}等人被{cf圣亚}的说法惊到。
+Kayoko Ako Hanako
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+老师还提到需要找到恢复色彩之人的方案；
+Seia
+OST_101
+BG_TrinityClubRoom.jpg BG_SchaleOperationRoom2.jpg
+//
+而{cf圣亚}则表示这要去找{sn百鬼夜行}、身为大预言者的{cf葛业}。
+Seia Niya
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+{cn阴阳部}的仁耶接受了请求。
+Niya
+OST_101
+BG_HyakkiyakoMeetingroom2.jpg
+--
+敌人情况
+False
+||
+zh_Tw 1 8:22
+//
+{cf琳}再一次重复了计划的紧迫性，指出圣塔分布在基沃托斯六处地方，其中以DU白鸟区的能量最强，因此提议最后再来清除。就在这时{cf阳葵}接入通讯。
+Rin Kayoko Hanako Ako Yuuka Ayumu Himari
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+{cf阳葵}表示，他们通过大姐大留下的装备尝试访问虚假的圣所时遭到大量敌人阻止。
+Himari Eimi
+OST_101
+BG_CS_PV4_034.jpg
+//
+{cf季}被选中执行这项任务，通话间隙，{cf英美}指示{cf季}进行撤离。
+Toki
+OST_101
+BG_RuinCity_Erode.jpg
+//
+{cf阳葵}还指出，这些地方出现了此前基沃托斯出现的全部特异现象，并指出需要击败各地区守护者才可成功。
+Himari
+OST_101
+BG_CS_PV4_043.jpg BG_CS_PV4_048_2.jpg BG_AriusBasilica_Night.jpg BG_RuinCity_Erode.jpg BG_EriduCityTown_Erode.jpg
+--
+确认平民安全
+False
+||
+zh_Tw 1 10:20
+//
+情况明晰，但{cf桃香}指出需要先保护平民的安全才行。
+Momoka
+OST_101
+BG_SchaleOperationRoom2.jpg
+//
+{sn三一}{cn茶会}接入通讯并表示负责。
+Nagisa Mika Seia
+OST_101
+BG_TrinityTerrace.jpg
+//
+格黑娜{cn风纪委员会}与{cn急救医学部}表示负责。
+Iori Chinatsu Sena
+OST_101
+BG_SlumFront.jpg
+//
+{cn赤冬事务局}表示负责。
+Tomoe Marina
+OST_101
+BG_WinterRoad.jpg
+//
+{sn百鬼夜行}{cn阴阳部}与{cn修行部}表示负责作战。
+Kaho Chise Tsubaki
+OST_101
+BG_HyakkiyakoMeetingroom2.jpg
+//
+{cn节庆营运管理部}表示将负责支援。
+Shizuko Umika
+OST_101
+BG_HyakkiyakoFestivalRoad.jpg
+//
+{sn山海经}的{cn炼丹术研究会}与{cn梅花园}表示负责；
+Saya Shun Kokona
+OST_101
+BG_ShanStreet.jpg
+//
+{cn玄武商会}表示将提供后备支援。
+Rumi
+OST_101
+BG_ShanTeaHouse.jpg
+//
+女武神{cn生活安全局}和{cn公安局}表示负责。
+Kirino Fubuki Kanna
+OST_101
+BG_CityOffice.jpg
+//
+千年{cn特异现象搜查部}表示负责。
+Himari Eimi
+OST_101
+BG_SpecialOperationRoom.jpg
+--
+最后的准备
+False
+||
+zh_Tw 1 12:27
+//
+{cf琳}让老师担任计划的总指挥。为了统筹计划安排，{cf琳}让所有人将时间调整到基沃托斯标准时间。
+Rin Momoka Ayumu
+OST_101
+BG_SchaleOperationRoom2.jpg BG_CS_PV4_030.jpg
+//
+两周倒计时正式开启，“虚假的圣所攻略战”正式开始。
+Momoka Ayumu Rin
+OST_101
+BG_CS_PV4_028.jpg
+--
+不存在的{cf葛业}
+False
+||
+zh_Tw 1 13:11
+//
+{cn阴阳部}表示，{cf葛业}并不在{sn百鬼夜行}的学生名册上，但提到有一个地方记载了相关内容：在{sn百鬼夜行}尚未成立时，{cf葛业}设立了“百花缭乱”以调停纷争。尽管目前仍有传言百花缭乱的委员长会直接听命于她，但由于百花缭乱的正副委员长已经长时间无法联络，因而百花缭乱即将被废部――在似乎无望之际，仁耶提出了一个方法。
+Niya Kaho Seia
+OST_105
+BG_HyakkiyakoMeetingroom2.jpg
+;;
+
+;;
+598a6e64-be37-4e97-80a7-ce83558953a1
+11
+finalS1 2 3
+作戰準備（１）
+攻略聖所的作戰開始了。{cn對策委員會}與{cn便利屋68}分配在{sn阿拜多斯}沙漠；{cnC&C}、{cf英美}、{cf弦生}和{cf一花}分配在{sn千年}廢墟地區；{cn遊戲開發部}、{cf陽奈}和RABBIT小隊分配在史林皮亞等待命令。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=3 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn阿拜多斯}沙漠的第一圣所
+False
+//
+{cf绫音}联系正在{sn阿拜多斯}沙漠的{cn对策委员会}众人，表示将由她统筹安排。
+Ayane Serika Nonomi Hoshino
+OST_68
+BG_Wilderness_Erode.jpg BG_CS_PV4_043_2.jpg
+--
+引诱计划
+False
+||
+zh_Tw 1 38
+//
+{cn便利屋68}主动承担引诱薇娜的职责，他们将通过列车进行移动。{cf佳世子}提醒众人防止受伤的重要性。{cf亚瑠}想在最后的时候把列车炸掉，{cf野乃美}表示了同意。
+Aru Haruka Mutsuki Kayoko
+OST_68
+BG_RailWay_Erode.jpg
+--
+{sn阿拜多斯}的衰落
+False
+||
+zh_Tw 1 62
+//
+{cf野乃美}提到这些列车也正是{sn阿拜多斯}衰落的关键，{cf佳世子}提到了一个公司――{cf星野}打断两人对话，指出先集中精力在战斗上最好。
+Nonomi Ayane Kayoko Hoshino
+OST_68
+BG_Wilderness_Erode.jpg
+--
+{et夏莱}作战总控制
+False
+||
+zh_Tw 1 1:27
+//
+{sn千年}的{cf乃爱}与{cn贝里塔斯}建立起临时的{et夏莱}作战总控制中心。他们表示已经收到第一圣所的各位的情况，询问第二圣所的状态。
+Noa Maki
+OST_68
+BG_CS_PV4_032.jpg BG_CS_PV4_031.jpg
+--
+{sn千年}郊外封锁地区的第二圣所
+False
+||
+zh_Tw 1 1:49
+//
+{cn特异现象搜查部}的{cf英美}负责统筹该区域的作战。她表示空降部队的成员已经就绪，不过有一点小问题。
+Eimi Noa
+OST_68
+BG_RuinCity_Erode.jpg
+--
+{cf宁瑠}和{cf弦生}的口角
+False
+||
+zh_Tw 1 02:16
+//
+{sn三一}的{cn实现正义部}部长{cf弦生}和{sn千年}的{cnC&C}的部长{cf宁瑠}发生了些口角。{cf明日奈}祸从口出，提到了“让强的当前”，结果{cf宁瑠}决定与{cf弦生}比个高下。
+Neru Tsurugi Karin Ichika Eimi Noa Akane Asuna
+OST_130
+BG_UndergroundPassage.jpg
+--
+{cf宁瑠}与{cf弦生}的争斗
+False
+||
+zh_Tw 1 3:26
+//
+{cf宁瑠}和{cf弦生}在废墟外部打架，不过两人兴致似乎都很高的样子。就在这时{cf优香}到达。
+Akane Asuna Karin Ichika Neru Tsurugi
+OST_49
+BG_RuinCity_Erode.jpg
+--
+{cf优香}的劝架
+False
+||
+zh_Tw 1 4:23
+//
+{cf优香}对这两人居然因为分组而吵架而感到有些小震撼。在两人不肯让步的情况下，{cf优香}勒令两人用猜拳的方式决定，否则计划就要赶不上了。无奈，两人只好以此决胜。
+Yuuka Akane Noa Tsurugi Neru Asuna Eimi
+OST_3
+BG_RuinCity_Erode.jpg
+--
+废弃游乐场的第三圣所
+False
+||
+zh_Tw 1 05:29
+//
+{sn千年}的{cn游戏开发部}、{snSRT}的{cnRABBIT小队}和{cn风纪委员会}的{cf阳奈}到达现场。{cf阳奈}对{cf美游}的狙击能力感到赞叹；她也注意到了{cf爱丽丝}。
+Aris Momoi Midori Saki Miyako Moe Miyu Hina
+OST_129
+BG_CS_PV4_048_2.jpg
+//
+{cf爱丽丝}主动与{cf阳奈}打招呼，并说老师曾提到{cf阳奈}是个很好的人，也是老师信赖的人――{cf爱丽丝}因此很荣幸能与她一起作战。
+Hina Aris Momoi Midori
+OST_64
+BG_CS_PV4_048_2.jpg
+--
+第三圣所战斗指挥{cf柚子}
+False
+||
+zh_Tw 1 7:38
+//
+{cf阳奈}向第三圣所指挥人发出报告，指出{cn游戏开发部}与{cnRABBIT小队}均已就位。指挥人{cf柚子}确认了{cf阳奈}的报告。{cf桃井}、{cf绿}和{cf都子}鼓励{cf柚子}。
+Hina Saki Yuzu Midori Momoi Miyako
+OST_64
+BG_CS_PV4_048_2.jpg
+;;
+
+;;
+a0422735-29d4-4bf7-8fb3-9b18b514c130
+11
+finalS1 2 4
+作戰準備（２）
+{cf沙織}的加入讓聚集在一起的{cn奧利斯小隊}也回應了老師的召集。{cn修女會}和{cn救護騎士團}在第4聖所待機。儘管攻略第5聖所的過程中遇到了困境，但後來{cn溫泉開發部}和被釋放的{cf小雪}伸出了援手。接著第6聖所也完成了居民的避難處理。仁耶向忍術研究部轉達前往雪原搜索百花繚亂部長的任務。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=4 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+落魄的{cn奥利斯小队}
+False
+//
+{cn奥利斯小队}也收到了老师的消息，但{cf日和}担心他们处于通缉状态，这样会给老师带来麻烦。就在这时众人听到一阵奇怪的声音。
+Misaki Hiyori Atsuko
+OST_73
+BG_SlumFront.jpg
+--
+可疑的头盔圈
+False
+||
+zh_Tw 1 25
+//
+众人发现一个奇怪的头盔圈正在向他们靠近。未等确认身份，{cf美咲}就开了枪。奇怪的头盔圈忙脱下帽子，原来是{cf纱织}。
+Misaki Hiyori Atsuko Saori
+OST_3
+BG_SlumFront.jpg
+--
+支援老师的{cn奥利斯小队}
+False
+||
+zh_Tw 1 1:5
+//
+{cf纱织}表示自己也收到了老师的消息。众人继续出发前往支援老师。
+Atsuko Saori Hiyori Misaki
+OST_6
+BG_SlumFront.jpg
+--
+第四圣所指挥人{cf花子}
+False
+||
+zh_Tw 1 1:30
+//
+{cf花子}向各位报告自己的身份，之后询问情况。
+Hanako
+OST_51
+BG_Cathedral.jpg
+--
+第四圣所准备作战
+False
+||
+zh_Tw 1 1:37
+//
+{cn修女会}和救援骑士团在作战地点就绪并回报了自己的状态。
+Hinata Mari Member Mine Serina Hanae
+OST_51
+BG_AriusBasilica.jpg
+--
+钻进地下的霍德
+False
+||
+zh_Tw 1 1:50
+//
+{cf乃爱}询问第五圣所的情况。
+Noa
+OST_51
+BG_ValkyrieOffice2.jpg
+//
+{cn贝里塔斯}回报称，由于霍德钻进了堡垒都市地下，而那里被{cf莉央}的系统保护着，无法探测；他们正在破译密码，但耗时会比较长。{cf真纪}听后有点惊讶，但{cf乃爱}让{cf真纪}继续专注于第一圣所。
+Chihiro Noa Hare Kotama Maki
+OST_51
+BG_ComputerCenter.jpg
+--
+{cn工程部}的困境
+False
+||
+zh_Tw 1 2:26
+//
+{cn贝里塔斯}本想请求{cn工程部}的帮助，但{cn工程师部}正忙于清除侵蚀之柱，而且分析也在进行中。
+Utaha Hibiki Kotori
+OST_51
+BG_Hangar2.jpg
+--
+被叫走的{cf乃爱}
+False
+||
+zh_Tw 1 2:46
+//
+{cf阳葵}突然接入通讯，表示她记得曾经有人伪造过{sn千年}的债券，而相关的系统就是由{cf莉央}设计。{cf千寻}以为是{cf阳葵}所作，但后者表示另有其人。{cf乃爱}听后呼叫了{cf优香}，而{cf优香}让{cf乃爱}来一趟反省室。
+Noa Himari Chihiro Yuuka
+OST_51
+BG_ComputerCenter.jpg
+--
+不切实际的攻略战
+False
+||
+zh_Tw 1 3:25
+//
+{cn工程部}对柱子的攻略方法是：在其周围挖洞，使其失去支撑而倒塌。虽然说也有{sn其他}的方案，但规模实在过大，他们到了极限。就在这时有人前来拜访。
+Hibiki Utaha Kotori
+OST_51
+BG_Hangar2.jpg
+--
+{cn温泉开发部}的支援
+False
+||
+zh_Tw 1 3:44
+//
+{cn温泉开发部}前来帮助{cn工程师部}，毕竟他们最擅长拆东西了，与大家的想法不谋而合。
+Megu MemberOfHotSpringsDepartment Hibiki Utaha Kotori
+OST_8
+BG_Hangar2.jpg
+--
+反省室里的{cf小雪}
+False
+||
+zh_Tw 1 4:32
+//
+{cf优香}和{cf乃爱}打开了反省室的门，把{cf小雪}弄了出来。{cf小雪}以为两人要把她另外带走教育，不过两人则表示并不是为了继续追究上次的事。{cf优香}指出他们需要{cf小雪}的计算能力。
+Yuuka Koyuki Noa
+OST_6
+BG_Vault.jpg BG_BuildingCorridor2.jpg
+--
+DU白鸟区的第六圣所
+False
+||
+zh_Tw 1 6:31
+//
+位于{et夏莱}的联邦学生会干部{cf步}与{cf桃香}询问第六圣所情况。
+Ayumu Momoka
+OST_27
+BG_HQ_Erode.jpg
+//
+{cf环奈}回报情况，表示人员已经转移到避难所，但人力资源相当紧张。
+Kanna
+OST_27
+BG_CityDowntown.jpg
+--
+{cn供给部}的支援
+False
+||
+zh_Tw 1 6:51
+//
+{cn供给部}的{cf风华}和{cf茱莉}分别负责煮饭和食物的分发。{cf风华}提到这样下去食材很可能不够，这时他们听到了车声。
+Juri Fuuka
+
+BG_IndoorPlaza_Night4.jpg
+--
+{cn美食研究会}的支援
+False
+||
+zh_Tw 1 07:15
+//
+{cn美食研究会}众人开着{cn供给部}的卡车前来支援，为他们带来了很多鱼――虽然貌似是通过把水抽干的方式得到。不论如何，食材算是解决了。
+Haruna Akari Fuuka Junko Izumi Juri
+OST_13
+BG_IndoorPlaza_Night4.jpg
+--
+第六圣所情况明朗
+False
+||
+zh_Tw 1 8:20
+//
+第六圣所情况算是明朗了下来，{cf环奈}向{cf琳}等人回报，表示可以放心大胆去做了。
+Kanna Ayumu Momoka
+OST_13
+BG_HQ_Erode.jpg
+--
+{cn补课部}的支援
+False
+||
+zh_Tw 1 8:33
+//
+{cn补课部}的{cf梓}和{cf日步美}被安排到了在第六圣所周边执行巡逻的任务。{cf梓}对保护{cf日步美}一事很有信心。{cf日步美}与{cf梓}约定，在战斗结束后，一起去看佩洛洛大人的特摄电影。
+Azusa Hifumi
+OST_13
+BG_BigBridge.jpg
+--
+{cn阴阳部}与{cn忍术研究部}
+False
+||
+zh_Tw 1 9:2
+//
+{cn阴阳部}叫来了{cn忍术研究部}的大家支援。
+Niya Kaho
+
+BG_HyakkiyakoFestivalRoad.jpg
+//
+{cn忍术研究部}还特意表演了一场“何为忍者”的表演，虽然有点夸张就是。
+Izuna Tsukuyo Michiru
+OST_116
+BG_HyakkiyakoFestivalRoad.jpg
+//
+{cn阴阳部}希望{cn忍术研究部}能够去找到下落不明的百花缭乱委员长，最后众人接下任务。仁耶表示众人最好去寺院找委员长们；同时表示如果找不到就立刻回来，并要他们对任务保密。
+Kaho Niya Izuna Michiru Tsukuyo
+OST_116
+BG_HyakkiyakoFestivalRoad.jpg
+--
+{cn万魔殿}的小心思
+False
+||
+zh_Tw 1 12:40
+//
+{cn万魔殿}窃听了{sn百鬼夜行}一众人的谈话，似乎在计划着什么。
+Makoto Iroha
+OST_134
+BG_HyakkiyakoFestivalRoad.jpg
+;;
+
+;;
+507b9917-a0c1-4f1c-9ae3-7a9337376549
+11
+finalS1 2 5
+作戰準備（３）
+一切都準備就緒了。老師告知聖所攻略戰與自治區防禦戰已經開始了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=5 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+重申战斗重点
+False
+//
+{cf琳}、{cf桃香}和{cf步}共同向所有人重申了战斗重点：确保能与敌人直接交战、清除进攻路线上的阻碍，同时防范敌人突然在各地区出现，最后一同攻略第六圣所。战斗的总指挥将交由{et夏莱}处理。
+Rin Ayumu Momoka
+OST_65
+BG_SchaleOperationRoom2.jpg
+--
+战斗开始！
+False
+||
+zh_Tw 1 1:8
+//
+全员做好了准备，蓄势待发。老师宣布出发，战斗开始。
+
+OST_65
+BG_CS_PV4_036_2.jpg BG_CS_PV4_037.jpg BG_CS_PV4_038.jpg BG_CS_PV4_039.jpg BG_CS_PV4_040.jpg BG_CS_PV4_041.jpg BG_CS_PV4_042.jpg
+;;
+
+;;
+6bc91dd9-bfc7-439a-bbd7-f082d128e78d
+11
+finalS1 2 6
+第1聖所「{sn阿拜多斯}沙漠」
+{cn便利屋68}和{cn對策委員會}在{sn阿拜多斯}沙漠區開始攻略第1聖所。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=6 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+第一阶段准备就绪
+False
+//
+{cf绫音}和{cf佳世子}分别指挥{cn对策委员会}和{cn便利屋68}的工作。{cn对策委员会}将在{cn便利屋68}引来薇娜后对其发起攻击。
+Ayane Maki Nonomi Hoshino Serika Kayoko Mutsuki Haruka Aru
+OST_49
+BG_RailWay_Erode.jpg
+--
+列车开动
+False
+||
+zh_Tw 1 32
+//
+{cf佳世子}启动了列车，{cn便利屋68}很快受到袭击，众人开始交战。
+Haruka Kayoko Mutsuki Aru
+OST_49
+BG_RailWay_Erode.jpg
+--
+[UI] 战斗指挥UI
+True
+||
+zh_Tw 1 60
+//
+[UI] 战斗指挥UI
+
+OST_148
+
+--
+[战斗] {cn对策委员会}
+True
+||
+zh_Tw 1 1:18
+//
+{cn对策委员会}与色彩化的机器人战斗。
+Hoshino Serika Nonomi Ayane
+OST_68
+
+--
+[战斗] {cn便利屋68}
+True
+||
+zh_Tw 1 2:10
+//
+{cn便利屋68}与敌人战斗。
+Aru Haruka Mutsuki Kayoko
+OST_68
+
+--
+[战斗] {cn便利屋68}的BOSS战
+True
+||
+zh_Tw 1 3:3
+//
+{cn便利屋68}与BOSS战斗。
+Aru Haruka Mutsuki Kayoko
+OST_20
+
+;;
+
+;;
+6b6d097c-498b-41fb-b672-cdc037557537
+11
+finalS1 2 7
+「{sn山海經}」自治區防衛
+為了防禦{sn山海經}，梅花園、{cn鍊丹術研究會}和{cn玄武商會}全都出動了。開始行動的{cn玄龍門}的門主妃姬會長為了給予協助，於是便派遣{cf美奈}前往。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn山海经}全境支援
+False
+//
+{cn炼丹术研究会}、{cn梅花园}、玄武门商会都派遣了队伍进行支援。
+Saya Shun Kokona Rumi MemberOfBlackTortoisePromenade Kisaki
+OST_89
+BG_ShanStreet.jpg
+//
+{cn玄龙门}同样派遣了队伍进行支援。
+Mina MemberOfXuanlong
+OST_89
+BG_ShanCampus.jpg
+--
+战斗
+True
+||
+zh_Tw 1 1:20
+//
+{cf旬}、{cf心奈}与{cf沙耶}等人与敌人战斗。
+Shun Kokona Saya MemberOfBlackTortoisePromenade
+OST_89
+
+;;
+
+;;
+5d5bd8c9-986c-4801-bd70-b277fddc88b8
+11
+finalS1 2 8
+「{sn赤冬}」自治區防衛
+{cf瑪麗娜}負責率領親衛隊，{cf實里}則和工務部一起防禦{sn赤冬}聯邦學園。{cn227號特別班}雖然負責避難所，但在那邊卻沒看見{cf潔莉諾}。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=8 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn赤冬}全境支援
+False
+//
+{cn赤冬事务局}、工务部全部进行战斗支援。
+Tomoe Marina MemberOfRedWinterOffice Minori MemberOfLaborParty
+OST_83
+BG_RedWinterCampus.jpg
+--
+位于旧校舍的避难所
+False
+||
+zh_Tw 1 39
+//
+{cn227号特别班}指引大家前往位于旧校舍的避难所。{cn知识解放战线}的两人询问温泉的情况，不过{cf和香}表示已经停业很久了。
+Nodoka Momiji Meru Shigure
+OST_33
+BG_WinterRoad.jpg
+--
+战斗
+True
+||
+zh_Tw 1 1:22
+//
+玛龙娜、{cf智惠}与{cf和香}等人共同抵抗敌人。
+Marina Tomoe Nodoka MemberOfRedWinterOffice MemberOfLaborParty
+OST_84
+
+;;
+
+;;
+5166d493-7bb5-46a4-90ed-0f592016035d
+11
+finalS1 2 9
+第2聖所「{sn千年}郊外的封鎖地區」
+{cnC&C}降落後滲透軍工廠中心，{cf弦生}從正面阻擋住敵軍兵力的進攻。大家都約好要在赫賽德前面碰面，然後就這樣展開了第2聖所的攻略作戰。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=9 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+第二圣所准备完成
+False
+//
+{cn实现正义部}准备就绪。
+Eimi Ichika
+OST_48
+BG_RuinCity_Erode.jpg
+//
+{cnC&C}的空降部队准备就绪，{cf英美}重申战斗内容。
+Akane Karin Asuna Neru Eimi
+OST_48
+BG_RuinUndergroundPassage_Night.jpg
+--
+[UI] 战斗指挥UI
+True
+||
+zh_Tw 1 47
+//
+[UI] 战斗指挥UI
+
+OST_148
+
+--
+[战斗] {cf弦生}的战斗
+True
+||
+zh_Tw 1 01:04
+//
+{cf弦生}与多波次敌人战斗。
+Tsurugi
+OST_19
+
+--
+[战斗] {cnC&C}的BOSS战
+True
+||
+zh_Tw 1 5:6
+//
+{cnC&C}与{cf英美}的BOSS战。
+Neru Asuna Akane Eimi Karin
+OST_48
+
+;;
+
+;;
+3028dc7c-3b8b-4d7f-8443-991969c46d22
+11
+finalS1 2 10
+「{sn百鬼夜行}」自治區防衛
+{sn百鬼夜行}聯合學園的大家齊心協力防禦自治區。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=10 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn百鬼夜行}防御战
+False
+//
+{cn阴阳部}、{cn修行部}、{cn节庆营运管理部}、妖怪剧团都对战斗和避难所做好了准备。
+Kaho Tsukuyo Chise Pina MemberOfStreetMouryo Shizuko Umika
+OST_32
+BG_HyakkiyakoCastleSquare.jpg
+--
+战斗
+True
+||
+zh_Tw 1 40
+//
+{cf椿}、{cf菲娜}、{cf知世}、{cf三森}、{cf静子}和{cf枫}等人对抗敌人。SARUKA Punch
+Tsubaki Pina Chise Mimori Shizuko Kaede
+OST_58
+
+;;
+
+;;
+fe8d5578-ac7c-4a1b-9118-d34fd46bf0a2
+11
+finalS1 2 11
+「{sn格黑娜}」自治區防衛
+為了防禦{sn格黑娜}學園四周而聚集在一起的{cn風紀委員會}。除了攻略第3聖所的{cf陽奈}之外，所有成員都聚在一起了。{cn風紀委員會}雖然期待{cn萬魔殿}能給予支援，但出現在眼前的皐月卻未能給予{cn風紀委員會}太大的幫助。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=11 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn格黑娜}地区作战
+False
+//
+{cn风纪委员会}（除{cf阳奈}）一起参与了战斗工作。
+Ako MemberOfPrefectTeam Chinatsu Iori Satsuki
+OST_20
+BG_GehennaCampus.jpg
+//
+{cn急救医学部}表示，{cn万魔殿}已经将市民引导到了避难所；回家部的话似乎表明{cn万魔殿}用了催眠技术。
+Sena Erika Kirara
+OST_20
+BG_RuinUndergroundPassage_Night.jpg
+--
+催眠术
+False
+||
+zh_Tw 1 2:2
+//
+{cf亚子}等人听到“催眠术”一头雾水，而皐月此时也开始试图对{cf亚子}等人催眠，加油鼓劲的同时试着让她们“服从”{cn万魔殿}。
+Satsuki
+OST_3
+BG_GehennaCampus.jpg
+//
+{cf亚子}被整的非常不快，皐月见没有效果就停止了。最终{cf亚子}宣布作战开始。
+Satsuki Ako
+OST_60
+BG_GehennaCampus.jpg
+--
+战斗
+True
+||
+zh_Tw 1 2:30
+//
+{cf伊织}、{cf千夏}、濑奈等人一起对敌人发起进攻。NRG Field
+Iori Chinatsu Sena MemberOfPrefectTeam
+OST_101
+
+;;
+
+;;
+2e519a89-b701-470a-a076-2808d186dad0
+11
+finalS1 2 12
+第3聖所「廢墟化的遊樂園」
+在第3聖所廢棄遊樂園前集合的RABBIT小隊、{cn遊戲開發部}、以及{cf陽奈}。{cn遊戲開發部}準備了UZQueen專用機體，一起參加了聖所的攻略作戰。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=12 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+第三圣所攻略战
+False
+//
+{cf阳奈}和{cf爱丽丝}打头阵。{cf柚子}通过通讯宣布前卫君启动。
+Hina Aris Midori Saki Miyako Yuzu
+OST_74
+BG_CS_PV4_048.jpg
+//
+{cnRABBIT小队}吓了一大跳，而{cn工程师部}则连忙出来解释称，这是他们改造的前卫君Mk3，可让{cf柚子}实现以帧为单位的操控。
+Saki Aris Hina Kotori Yuzu Utaha
+OST_74
+BG_Amusement_Erode.jpg
+--
+[UI] 战斗指挥UI
+True
+||
+zh_Tw 1 1:30
+//
+[UI] 战斗指挥UI
+
+OST_148
+
+
+--
+[战斗] 兔子小队与{cn游戏开发部}
+True
+||
+zh_Tw 1 2:00
+//
+兔子小队与{cn游戏开发部}和神秘系敌人战斗。
+Miyako Momoi Midori Miyu Saki Moe
+OST_69
+
+--
+[战斗] {cf爱丽丝}和{cf阳奈}的BOSS战
+True
+||
+zh_Tw 1 4:32
+//
+{cf爱丽丝}、{cf阳奈}和前卫君开始对第三圣所的攻略战。Fearful Utopia
+Aris Hina
+OST_56
+
+;;
+
+;;
+1fe7cc69-ebb9-4bdc-b257-d15dfcf04971
+11
+finalS1 2 13
+「{sn三一}」自治區防衛（１）
+為了防禦{sn三一}學園周圍，{sn三一}也配合{cn實現正義部}、{cn圖書委員會}和自衛隊等各自的角色分別去讓一般民眾避難，以及狙擊敵人等。出乎意外的是，連{cn茶會}也參加了，戰況變得有些激烈。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=13 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn三一}自治区防御
+False
+//
+{cn实现正义部}（除{cf弦生}）负责{sn三一}地区的避难。
+MemberOfJusticeTaskForce Hasumi Mashiro
+OST_75
+BG_TrinityStreet.jpg
+//
+{cn图书委员会}负责的古图书馆为避难所的所在地。
+Shimiko Ui
+OST_75
+BG_TrinityOldLibrary_Night.jpg BG_TrinityOldLibrary.jpg
+//
+{cn三一自卫队}、{cn放学后的甜点部}加入战场。
+MemberOfJusticeTaskForce Suzumi Reisa Hasumi Kazusa Airi Yoshimi Natsu
+OST_75
+BG_TrinityMarket.jpg
+//
+{cn茶会}也加入战场；由于有了{cf圣亚}的感知能力，{cn茶会}得以进行有效支援。
+MemberOfJusticeTaskForce Hasumi Nagisa Mashiro Seia
+OST_75
+BG_TrinityStreet.jpg BG_TrinityCampus.jpg
+--
+战斗
+True
+||
+zh_Tw 1 3:22
+//
+{cf莲实}、{cf千纱}、{cf夏}、{cf铃美}、{cf爱莉}、{cf喜美}等人加入战斗。
+Hasumi Kazusa Natsu Suzumi Airi Yoshimi
+OST_101
+
+;;
+
+;;
+97fabff6-484c-4323-ae50-235cbbca2834
+11
+finalS1 2 14
+「{sn三一}」自治區防衛（２）
+主要成員集合的學園附近大致上已經整頓好了，但{cf小春}在遺跡地帶附近陷入苦戰當中。{cn茶會}的{cf彌香}突然登場，讓戰況開始出現了逆轉。
+{cf小春}等{cn實現正義部}的成員都向{cf彌香}道謝。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=14 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+教堂附近的平民
+False
+//
+虽然一边已经打完了战斗，但{cf圣亚}感觉到教堂附近还有人没有撤离。{cf莲实}让{cf麻白}确认情况，果真如此。
+Hasumi Seia Nagisa Mashiro Mika
+OST_29
+BG_TrinityCampus.jpg
+--
+教堂附近的战斗力量
+False
+||
+zh_Tw 1 27
+//
+{cf麻白}具体看到{cn补课部}（前为{cn实现正义部}）的{cf小春}正在孤身保护教堂里的平民。{cf莲实}立刻下令支援。
+Koharu
+OST_41 OST_122
+BG_View_TrinityFrontGate.jpg BG_AbandonedCorridor.jpg BG_CathedralRuins.jpg BG_Cathedral.jpg
+--
+{cf弥香}的支援
+False
+||
+zh_Tw 1 1:50
+//
+就在{cf小春}被包围时，{cf弥香}闯了进来。尽管仍然被人谩骂为“叛徒”，但{cf弥香}并无理会，而是投入战斗中。
+Koharu Mika StudentOfTrinity
+OST_118
+BG_Cathedral.jpg BG_CS_S1Final_18.jpg BG_CS_S1Final_19.jpg
+--
+战斗
+True
+||
+zh_Tw 1 2:43
+//
+{cf弥香}和{cf小春}进入战斗。
+Mika Koharu
+OST_110
+
+;;
+
+;;
+a7d7b9c3-904e-4e7f-be5b-eccb8af4bcf1
+11
+finalS1 2 15
+第4聖所「地下墓穴內部宗座聖殿」
+為了攻略第4聖所，{cf花子}和{cn修女會}聚集在地下墓穴內部的宗座聖殿前。連{cn奧利斯小隊}也一起參戰了。後來穿著聖徒會服裝的{cf櫻子}也加入，並且開始攻略第4聖所。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=15 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+第四圣所攻略
+False
+//
+{cf花子}指出目前通往第四圣所的道路只有一条，恐怕难以集中火力。救援骑士团、{cn修女会}进行战斗，{cn奥利斯小队}则主动请缨担任后方防御。
+Hanako Mine Mari Saori Hiyori Misaki Atsuko
+OST_118 OST_74
+BG_AriusCampus.jpg BG_AriusBasilica.jpg
+--
+不知羞耻的服装
+False
+||
+zh_Tw 1 1:15
+//
+就在{cf花子}追问{cf樱子}的下落时，{cf樱子}突然穿着{cn修女会}的传统服装出现，结果引来{cf花子}的注意。不过最终，第四圣所攻略战终于开始。
+Hanako Sakurako Mari Hinata
+OST_7
+BG_AriusBasilica.jpg
+--
+[UI] 战斗指挥UI
+True
+||
+zh_Tw 1 2:51
+//
+[UI] 战斗指挥UI
+
+OST_148
+
+--
+[战斗] 救援骑士团和{cn修女会}
+True
+||
+zh_Tw 1 3:11
+//
+救援骑士团和{cn修女会}与敌人战斗。BGM是主教的。
+Mine Hinata Serina Mari
+OST_85
+
+--
+[战斗] {cn奥利斯小队}的BOSS战
+True
+||
+zh_Tw 1 4:50
+//
+{cn奥利斯小队}全员与BOSS作战。BGM是羔羊颂。
+Saori Misaki Atsuko Hiyori
+OST_118
+
+;;
+
+;;
+16db2836-9a79-4079-92d4-a8409faa957a
+11
+finalS1 2 16
+「{sn千年}」自治區防衛
+{cn工程師部}為了防禦{sn千年}自治區而聚集在一起。未知的AMAS出現在他們的面前，但卻沒有展現任何的敵意，後來雙方就一起展開防禦作戰。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=16 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{sn千年}地区防御
+False
+//
+{cn工程师部}全员、{cn训练部}的董、{cn贝里塔斯}和一些AMAS机器人共同加入了战斗。
+Utaha Kotori Sumire Hibiki AmasRobot Hare Himari
+OST_19
+BG_MilleniumCampus.jpg
+--
+战斗
+True
+||
+zh_Tw 1 60
+//
+{cf亚都梨}、董、{cf响}、{cf咏叶}和一些AMAS机器人一同加入战斗。
+Kotori Sumire Utaha Hibiki AmasRobot
+OST_74
+
+;;
+
+;;
+0453a72a-9425-4128-99c9-09b45a358966
+11
+finalS1 2 17
+第5聖所「要塞都市{et埃里都}近郊」
+{cn研討會}的成員為了攻略第5聖所而聚集在要塞都市{et埃里都}近郊。{cn溫泉開發部}一方面支援攻略聖所，同時也為了尋找新的溫泉而四處奔波。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=17 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+引诱霍德
+False
+//
+虽然已经破解了安全系统，但是在引诱霍德的过程中还需要破解{sn其他}的安全系统。因而{cf小雪}虽很不愿意，但还是加入了战斗。
+Yuuka Noa Koyuki
+OST_76
+BG_EriduCityTown_Erode.jpg
+--
+{cn温泉开发部}的支援
+False
+||
+zh_Tw 1 50
+//
+{cn温泉开发部}以惊人的力量破坏着都市里的建筑物；
+MemberOfHotSpringsDepartment Megu
+OST_60
+BG_DestructionFront_Fire.jpg
+//
+虽然激进程度连{cn贝里塔斯}都有点看不过眼了。
+Kasumi Chihiro Kotama Hare
+OST_60
+BG_CS_PV4_058.jpg
+--
+[UI] 战斗指挥UI
+True
+||
+zh_Tw 1 120
+//
+[UI] 战斗指挥UI
+
+OST_148
+
+--
+[战斗] {cn研讨会}
+True
+||
+zh_Tw 1 2:17
+//
+{cn研讨会}三人对峙敌人。
+Yuuka Noa Koyuki
+OST_75
+
+--
+[战斗] {cn温泉开发部}的BOSS战
+True
+||
+zh_Tw 1 3:44
+//
+{cn温泉开发部}等人对峙敌人，破坏侵蚀之柱。
+Megu MemberOfHotSpringsDepartment
+OST_76
+
+;;
+
+;;
+053a5be8-8c5a-4dab-ada6-f61b8492e63f
+11
+finalS1 2 18
+在大雪原之中
+忍術研究部為了執行特殊任務來到了大雪原。但出現在眼前的無名守護者比想像中還要多，一行人因此陷入了危機當中…出乎意料的援軍突然從天而降。
+{cn萬魔殿}的加入讓忍術研究部得以脫離險境。一行人再次踏上旅程去執行特殊任務。基於認為任務已經完成，{cn萬魔殿}便回去了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=18 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+雪原里的意外敌人
+False
+//
+{cn忍术研究部}在雪原里见到的敌人越来越多，怀疑消息究竟是怎么泄露出去的。
+Izuna Michiru Tsukuyo
+OST_58
+BG_WinterRoad.jpg
+--
+{cn万魔殿}的降临
+False
+||
+zh_Tw 1 1:07
+//
+就在{cn忍术研究部}准备集体对峙敌人时，{cn万魔殿}众人乘着{cf伊吕波}的坦克从飞机空降下来。
+Makoto Iroha
+OST_58
+BG_CS_PV4_036.jpg BG_View_Sky.jpg
+//
+当然，{cn万魔殿}众人只是为了显摆自己能力罢了。
+Tsukuyo Michiru Izuna Makoto Iroha Ibuki
+OST_101
+BG_WinterRoad.jpg BG_CS_PV4_050.jpg
+--
+战斗
+True
+||
+zh_Tw 1 3:12
+//
+{cf三千留}、{cf伊树菜}、{cf月夜}和{cf伊吕波}四人对峙敌人。BGM NRG Field
+Michiru Izuna Tsukuyo Iroha
+OST_101
+
+--
+{cn万魔殿}的先行告别
+False
+||
+zh_Tw 1 4:50
+//
+战斗结束，{cn万魔殿}为不麻烦{cn忍术研究部}工作，先行离开。
+Iroha Makoto Tsukuyo Izuna Ibuki Michiru
+OST_19
+BG_WinterRoad.jpg
+;;
+
+;;
+04f59b1c-ec4f-4af9-a46d-5ca4a329f4ce
+11
+finalS1 2 19
+「D.U.白鳥區」防衛
+第六個聖所的守護者還沒現身，本部決定要先加強D.U.白鳥區周圍地區的防禦。{cn美食研究會}自願參加防禦作戰…但後來發現凱坦澤在周圍活動。
+或許是達成目的了，所以凱坦澤撤退了。{cf季}依照{cf陽葵}的指示前往下一個目標地點。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=19 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+DU白鸟区第六圣所防御
+False
+//
+虽然还没有发现守卫者，但{cf阳葵}已经开始寻找对策。
+Himari Eimi
+OST_142
+BG_CityDowntown.jpg
+//
+另一方面，{cn美食研究会}和{cn补课部}两人会合，一同行动。
+Junko Haruna Akari Izumi Hifumi Azusa
+OST_74
+BG_BigBridge.jpg
+//
+就在这时，意外的凯坦泽寿司小分队出现，前来支援。
+Kaitenger Hifumi Izumi Junko Haruna
+OST_78
+BG_BigBridge.jpg
+--
+战斗
+True
+||
+zh_Tw 1 124
+//
+{cn美食研究会}、{cn补课部}的两位，凯坦泽寿司小分队一同与敌人战斗。
+Haruna Junko Akari Izumi Hifumi Azusa
+OST_101
+
+--
+凯坦泽的告别
+False
+||
+zh_Tw 1 4:11
+//
+凯坦泽在任务结束后匆匆离开。众人听了他们自夸的言论后，更加迷惑他们是谁了。
+Kaitenger Hifumi Azusa
+OST_78
+BG_BigBridge.jpg
+--
+{cf季}的支援
+False
+||
+zh_Tw 1 4:33
+//
+由于有了{cf季}的支援，{cn特异现象搜查部}两人的工作得以减少一部分。不过{cf阳葵}警告{cf季}说，{cf季}的装甲的力量在很大程度上与{cf莉央}的要塞都市有关，而在都市被摧毁的情况下，建议{cf季}只把它当作普通装甲看待。
+Toki Eimi Himari
+OST_96
+BG_SpecialOperationRoom.jpg
+;;
+
+;;
+84b62c39-76fd-4d8d-b42b-6dccf92f3ad4
+11
+finalS1 2 20
+最終防衛戰「{et夏萊}」
+除了第六個聖所之外，{sn其他}聖所的守護者攻略都已經準備好，所有自治區也完成了防禦準備，就在此時，{et夏萊}附近出現了大量的無名守護者。就在千鈞一髮之際，意外的幫手出現協助防禦{et夏萊}。
+所有自治區的防禦作戰、以及聖所守護者的攻略都準備就緒了，作戰即將開始。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=20 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{et夏莱}保卫战
+False
+//
+五个圣所和所有自治区的战斗全部结束。
+Ayumu Momoka Rin
+OST_41
+BG_HQ_Erode.jpg
+//
+这时{et夏莱}周边突然出现了敌人。
+
+OST_41
+BG_View_Schale_erode.jpg BG_BuildingFrontGate.jpg BG_Campus.jpg BG_CitySqaure.jpg
+//
+{sn女武神}将负责正门防卫。
+Kirino Fubuki Kanna StudentOfValkyrie
+
+BG_BuildingFrontGate.jpg
+//
+头盔圈和一些不良学生及时赶到支援。
+Rabu
+OST_114
+BG_Campus.jpg BG_CitySqaure.jpg
+//
+{cf若藻}进行支援。
+Wakamo
+OST_114
+BG_BuildingRooftop.jpg
+--
+[UI] 战斗指挥UI
+True
+||
+zh_Tw 1 60
+//
+[UI] 战斗指挥UI
+
+OST_148
+
+--
+[战斗] {sn女武神}学生
+True
+||
+zh_Tw 1 2:14
+//
+{sn女武神}学生一同加入了战斗。
+Kirino Fubuki Kanna MemberOfPublicPeace
+OST_101
+
+--
+[战斗] {cf若藻}的BOSS战
+True
+||
+zh_Tw 1 4:20
+//
+{cf若藻}和头盔圈，以及一些不良学生共同加入了战斗。
+Wakamo Rabu
+OST_142
+
+--
+攻略战即将开始
+False
+||
+zh_Tw 1 6:54
+//
+所有自治区的防御战全部结束，意味着虚假的圣所攻略战马上就要开始。
+
+OST_142
+BG_CS_PV4_028_2.jpg BG_CS_S1Final_05.jpg BG_Wilderness_Erode.jpg BG_RailWay_Erode.jpg BG_AriusCampus.jpg BG_DemolitionCity.jpg BG_RiversideRoad_Erode.jpg BG_EriduCityTown_Erode.jpg
+//
+{cf琳}宣布攻略战准备完毕，预备攻击。
+Rin
+OST_142
+
+;;
+
+;;
+663deea0-1bed-437b-b606-48f04172ebb0
+11
+finalS1 2 21
+最終防衛戰「{et夏萊}」
+除了第六個聖所之外，{sn其他}聖所的守護者攻略都已經準備好，所有自治區也完成了防禦準備，就在此時，{et夏萊}附近出現了大量的無名守護者。就在千鈞一髮之際，意外的幫手出現協助防禦{et夏萊}。
+所有自治區的防禦作戰、以及聖所守護者的攻略都準備就緒了，作戰即將開始。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=30 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+恢复正常的基沃托斯
+False
+//
+基沃托斯各地的红色光芒退去，恢复了往日的正常。{cf桃香}等人松了口气。
+Momoka Rin
+OST_12
+BG_CS_S1Final_14.jpg BG_Wilderness_Erode.jpg BG_Wilderness.jpg BG_Amusement_Erode.jpg BG_Amusement.jpg BG_RailWay_Erode.jpg BG_RailWay.jpg BG_RiversideRoad_Erode.jpg BG_RiversideRoad.jpg BG_HQ_Erode.jpg BG_HQ_Erode2.jpg
+--
+与{cf白子}意外相会
+False
+||
+zh_Tw 1 36
+//
+{et夏莱}办公室里，老师遇见了一位{cf白子}。
+ShirokoTerror
+
+BG_MainOffice_Erode.jpg BG_MainOffice.jpg
+;;

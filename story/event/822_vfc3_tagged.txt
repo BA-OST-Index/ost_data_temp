@@ -1,0 +1,486 @@
+;;
+4798c918-81be-413a-a439-f895406cdd49
+14
+822 1
+阿特拉哈西斯的方舟占領戰開始
+老師和學生們進入了阿特拉哈西斯內部。總共分為4個區域的阿特拉哈西斯的方舟占領戰開始了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=16 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+作战会议
+False
+//
+{cn贝里塔斯}开始主持对占领战的会议，指出其核心要点在于在有限的时间内获得方舟的控制权。
+Chihiro Maki Kotama Hare
+OST_129
+BG_ComputerCenter.jpg
+--
+一台量子电脑
+False
+||
+zh_Tw 1 25
+//
+{cf千寻}一针见血的指出，整个方舟本身就是一台量子电脑，其中可进行多次元诠释。
+Chihiro Hare Maki
+OST_129
+BG_View_Atrahasis.jpg
+--
+占领战的意义
+F
+||
+zh_Tw 1 36
+//
+在一点点占领方舟并接管系统后，{cf千寻}指出，就可启动方舟的自爆系统。由于先前{cf爱丽丝}对防护罩的破坏，方舟目前无法进行多次元诠释计算，但其抑制时间有限，超过后可能就再无法与方舟接触。
+Chihiro
+OST_129
+BG_UtnapishtimBridge_V4.jpg
+--
+方舟的结构
+False
+||
+zh_Tw 1 01:12
+//
+{cf小玉}解释方舟的结构。方舟整体为一个圆形，外侧有三个区域，中间有一核心区域；当前，大家的方舟卡在第一区域，因而需要依此逐个突破。各个地区均设有次元引擎，将四个地区的次元引擎控制后即可引爆方舟，任务结束。
+Kotama Chihiro Maki
+OST_129
+BG_CommitteeRoom.jpg BG_CS_Millenium_02.jpg
+--
+{et夏莱}参战
+False
+||
+zh_Tw 1 1:56
+//
+{cn贝里塔斯}表示，计划介绍完毕后，接下来就是{et夏莱}的任务了。老师请大家放心。{sn其他}成员也表示会鼎力相助。
+Chihiro Maki Hare Kotama
+OST_129
+BG_UtnapishtimBridge_V4.jpg
+;;
+
+;;
+7286615f-7d54-420f-9ceb-323e7d0b9c9f
+14
+822 2
+外圍第1區域（1）
+老師和學生們在外圍1區前發現次元引擎，並且遇見了阻擋次元引擎的無名守護者、以及{cf白子}。
+外圍1區前擊破次元引擎的老師。{cf白子}利用傳送門撤退，老師則前往下一個區域。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=17 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+开始准备
+False
+//
+老师到达了外围第1区域，就在这时另一位{cf白子}突然出现。
+Rin Ayumu Momoka ShirokoTerror
+OST_74
+BG_CS_PV4_128_2.jpg
+--
+“无用功”
+False
+||
+zh_Tw 1 27
+//
+老师质问另一位{cf白子}的意图，后者表示她是来阻止老师破坏方舟的，如此便能将基沃托斯导向终点。
+ShirokoTerror
+OST_149
+BG_CS_PV4_128_2.jpg
+--
+忙于对策的委员会
+False
+||
+zh_Tw 1 51
+//
+{cf绫音}向{cn对策委员会}报告“{cf白子}”的出现，但此时{cn对策委员会}正忙于对付敌人。{cf星野}让三人专心应敌，将{cf白子}留给老师。
+Ayane Hoshino Serika Nonomi
+OST_149
+BG_VehiclePowerRoom.jpg
+--
+进入战斗状态
+False
+||
+zh_Tw 1 1:30
+//
+{cf绫音}转告{cn对策委员会}的话，希望让老师来处理{cf白子}。{cf白子}听到后立刻进入战斗状态。
+Ayane ShirokoTerror
+OST_149
+BG_CS_PV4_128_2.jpg
+--
+战斗
+True
+||
+zh_Tw 1 1:48
+//
+与另一位{cf白子}战斗。
+
+OST_101
+
+;;
+
+;;
+93363896-f18c-45f6-89e8-5c1a5e34f709
+14
+822 3
+外圍第1區域（1）
+老師和學生們在外圍1區前發現次元引擎，並且遇見了阻擋次元引擎的無名守護者、以及{cf白子}。
+外圍1區前擊破次元引擎的老師。{cf白子}利用傳送門撤退，老師則前往下一個區域。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=17 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+成功破坏
+False
+||
+zh_Tw 1 2:52
+//
+成功破坏方舟后，另一位{cf白子}又传送走了。
+Momoka ShirokoTerror
+OST_41
+BG_ArkCorridor.jpg
+--
+继续破坏
+False
+||
+zh_Tw 1 3:16
+//
+{cn对策委员会}一行人对{cf白子}逃走感到很不开心，不过{cf星野}表示，既然{cf白子}要来妨碍老师破坏方舟，那么他们只需要继续破坏，让她继续出现即可――到时也不难。
+Nonomi Ayane Hoshino Serika
+OST_41
+BG_UtnapishtimBridge_V4.jpg
+--
+取得四分之一的计算能力
+False
+||
+zh_Tw 1 03:35
+//
+第一个次元引擎的占领意味着众人得到了方舟四分之一的计算能力，这至少为系统提供了一些冗余。众人继续第2区域的战斗。
+Chihiro Himari Momoka Ayumu Rin
+OST_65
+BG_UtnapishtimBridge_V4.jpg
+;;
+
+;;
+56ba9b13-678d-40d3-96d7-6d0b8113eba5
+14
+822 4
+外圍第2區域（1）
+老師抵達外圍2區次元引擎所在的位置。再次遇到{cf白子}且展開戰鬥。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=18 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{cf白子}出现
+False
+//
+老师到达外围第2区域的次元引擎前方。就如{cf桃香}所预想的那般，另一位{cf白子}果不其然又出现了。{cn对策委员会}一行人表示将立刻赶到，请求老师拖延时间。另一位{cf白子}进入战斗状态。
+Rin Momoka Ayumu ShirokoTerror Hoshino Ayane Serika Nonomi
+OST_157
+BG_CS_PV4_128_2.jpg
+--
+战斗
+True
+||
+zh_Tw 1 46
+//
+与另一位{cf白子}战斗。
+
+OST_101
+
+;;
+
+;;
+94409d92-074e-487a-a1c1-5ca4f81a5f67
+14
+822 5
+外圍第2區域（2）
+外圍2區的次元引擎也成功擊破了。另一方面，{cf白子}逃跑的過程中遇見了{sn阿拜多斯}的學生。{sn阿拜多斯}學生的出現，讓{cf白子}難以掩飾驚訝的神情，接著她慌慌張張地逃跑了，{cf白子}的行動讓{cf星野}覺得很納悶。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=18 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+次元引擎已破坏
+False
+||
+zh_Tw 1 1:30
+//
+外围第2区域的次元引擎也已经被破坏。{cn对策委员会}同样赶到，拦住即将逃跑的“{cf白子}”，不过自然是没用。
+Ayumu ShirokoTerror Hoshino Nonomi Serika Ayane
+OST_76
+BG_ArkCorridor.jpg
+--
+不正常的{cf白子}
+False
+||
+zh_Tw 1 2:8
+//
+{cf星野}注意到，这个{cf白子}似乎在躲着他们、害怕他们。众人不解。
+Hoshino Nonomi Ayane Serika
+OST_76
+BG_ArkCorridor.jpg
+--
+继续破坏
+False
+||
+zh_Tw 1 2:30
+//
+第二个次元引擎也已被控制，{cf千寻}表示只要再占领一个就有胜算。
+Chihiro
+OST_65
+BG_ComputerCenter.jpg
+//
+另一方面，{cf阳葵}开始试着追踪{cf白子}的位置，同时顺带破坏一下方舟内部的{sn其他}系统。
+Himari Rin
+OST_65
+BG_UtnapishtimBridge_V4.jpg
+--
+{cn对策委员会}的协助
+False
+||
+zh_Tw 1 3:3
+//
+{cf绫音}表示生命守护者舰艇的保护将由{cn游戏开发部}和{cn美食研究会}负责，要{cn对策委员会}一行人去把{cf白子}带回来。众人同意。
+Hoshino Nonomi Ayane
+OST_65
+BG_ArkCorridor.jpg
+;;
+
+;;
+d5b8e86e-8469-4809-b17f-4eae00862ec0
+14
+822 6
+外圍第3區域（1）
+老師和{sn阿拜多斯}的學生在外圍3區的次元引擎前遇見了{cf白子}。但後來一行人得知{sn其他}地方也捕捉到{cf白子}的信號。老師和再次進入交戰狀態的{cf白子}進行戰鬥。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=19 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+{cf白子}的出现
+False
+//
+另一位{cf白子}再一次出现在众人面前，但所有人误认其为真正的{cf白子}。老师向“{cf白子}”询问为什么要听从诱骗者的命令，但“{cf白子}”反过来表示，是诱骗者在听从他的命令。
+ShirokoTerror Hoshino Serika Nonomi
+OST_149
+BG_CS_PV4_128_2.jpg
+--
+两个{cf白子}
+False
+||
+zh_Tw 1 37
+//
+{cf阳葵}向众人报告，指出{cf白子}位于中心第4区域――这与在外围第3区域众人所看到的不同。正当众人迷惑时，{cf星野}指出，面前的这个“{cf白子}”并非他们要找的{cf白子}。
+Himari Ayane Nonomi ShirokoTerror Hoshino Serika
+OST_149
+BG_CS_PV4_128_2.jpg
+--
+战斗状态
+False
+||
+zh_Tw 1 1:30
+//
+听到这话的{cf白子}再次进入了战斗状态。所有人立即应战。
+Ayane Hoshino
+OST_149
+BG_CS_PV4_128_2.jpg
+--
+战斗
+True
+||
+zh_Tw 1 1:50
+//
+与另一位{cf白子}战斗。
+
+OST_101
+
+;;
+
+;;
+6ca0f0d1-c180-4d53-aa8a-c85989f4f45a
+14
+822 7
+外圍第3區域（2）
+外圍3區次元引擎被破壞，{cf白子}再次撤退了。{cf優香}駭入中央地區後連接通訊，把在中央地區發現戴著面具的{cf白子}的事實轉達給大家。為了救出{cf白子}，老師和學生們準備迎接最後的一場戰役。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=19 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+逃走的{cf白子}
+False
+||
+zh_Tw 1 2:33
+//
+“{cf白子}”再次逃走。
+ShirokoTerror Hoshino Ayane Serika Nonomi
+OST_65
+BG_ArkCorridor.jpg
+--
+不是{cf白子}
+False
+||
+zh_Tw 1 180
+//
+{cf星野}指出那个{cf白子}并非他们要找的{cf白子}，因为前者的眼神与后者有着非常明显的不同。
+Hoshino
+OST_65
+BG_ArkCorridor.jpg
+--
+第四区域的{cf白子}
+False
+||
+zh_Tw 1 3:10
+//
+{cf优香}和{cf绫音}向{cn对策委员会}众人报告，他们已经连上了中央区域的通信网络，并且已经和{cf白子}成功连线。
+Yuuka Ayane
+OST_65
+BG_ArkCorridor.jpg
+--
+真正的{cf白子}
+False
+||
+zh_Tw 1 3:25
+//
+众人联系上了真正的{cf白子}。{cf白子}解释称自己是在骑车路上被绑架的，起初还以为他们是为了要赎金，所以就戴上了面罩。{cf星野}督促{cf白子}取下，并重申了她之前的话。众人要{cf白子}在那里乖乖等候，他们马上就到。{cf白子}答应，众人立刻出发。
+Ayane Shiroko Nonomi Serika Hoshino
+OST_41
+BG_CS_Millenium_02.jpg BG_CS_PV4_128_2.jpg BG_ArkCorridor.jpg
+--
+前往第四区域
+False
+||
+zh_Tw 1 4:44
+//
+中央区――也就是第四区域，是方舟的最后一个区域。{cf阳葵}指出，{cf白子}被关押的地方由特殊安全系统保护，其因与外界隔离无法骇入。{cn对策委员会}主动承担了破坏的任务。
+Rin Ayumu Momoka Himari Ayane Nonomi Hoshino Serika
+OST_41
+BG_UtnapishtimBridge_V4.jpg
+--
+来袭的敌人
+False
+||
+zh_Tw 1 6:17
+//
+敌人和老师一行人一样知道是最后一战――大量敌人突然出现在战舰上。{cf琳}表示需要再次进行防御。
+Rin Ayumu Momoka
+
+BG_UtnapishtimBridge_V4.jpg
+--
+{cn美食研究会}的支援
+False
+||
+zh_Tw 1 6:40
+//
+{cn美食研究会}表示将会协助船舰的防御，让老师放心就好。
+Haruna Junko Akari Izumi
+OST_32
+BG_VehiclePowerRoom.jpg
+--
+{cn游戏开发部}的支援
+False
+||
+zh_Tw 1 6:52
+//
+{cf爱丽丝}已经醒过来，加入了战斗。{cn游戏开发部}四人加入支援队伍。
+Yuzu Aris Midori Momoi
+OST_32
+BG_PowerRoom.jpg
+--
+最后一战！
+False
+||
+zh_Tw 1 7:9
+//
+{cf琳}拜托老师指挥最后一战。
+Rin
+OST_32
+BG_UtnapishtimBridge_V4.jpg
+;;
+
+;;
+97d15793-070c-43d1-8ff4-6072d3882302
+14
+822 8
+中央區域（1）
+前往最後的次元引擎的老師開始了戰鬥。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=20 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+不见的{cf白子}
+False
+//
+众人来到了中央区域，但并没有跟往常一样见到那位{cf白子}同学。
+Rin Momoka Ayumu
+OST_68
+BG_CS_PV4_128_2.jpg
+--
+修复进度良好
+False
+||
+zh_Tw 1 13
+//
+{cn工程部}回报状态，表示船舰修复进度良好。{cf咏叶}表示，待船舰修复好后，他们只要找准时机激活自爆程序，离开就好。
+Utaha Ayumu Momoka Hibiki Kotori
+OST_68
+BG_UtnapishtimBridge_V4.jpg
+--
+不幸中的万幸
+False
+||
+zh_Tw 1 38
+//
+{cf阳葵}松了口气，对{cf莉央}说她自己开发的逃脱程序大概要没什么用了。{cf莉央}承认这一点。
+Himari Rio
+OST_68
+BG_UtnapishtimBridge_V4.jpg
+--
+特殊装置门前
+False
+||
+zh_Tw 1 58
+//
+{cn对策委员会}一行人来到了特殊区域的大门前，在那应战。
+Nonomi Serika Ayane Hoshino
+OST_74
+BG_CS_PV4_128_2.jpg
+--
+战斗
+True
+||
+zh_Tw 1 1:12
+//
+与另一位{cf白子}战斗。
+
+OST_142
+
+;;
+
+;;
+3b1cade6-ef1e-4aa5-ae45-69d90781e026
+14
+822 9
+中央區域（2）
+終於成功破壞所有的次元引擎與控制室了。老師和學生們成功讓中央地區的{cf白子}脫困了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1N14y1y7Qs/?p=20 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+准备启动自爆程序
+False
+||
+zh_Tw 1 1:50
+//
+最后一个次元引擎占领成功，方舟的自爆程序随时都能启动。{cn贝里塔斯}众人要求大家立刻回到船上，因为自爆一旦启动便无法取消。
+Maki Chihiro Kotama Hare
+OST_74
+BG_ComputerCenter.jpg
+--
+被破坏的安全装置
+False
+||
+zh_Tw 1 2:16
+//
+{cf绫音}宣布安全装置已被破坏，大门可正常打开。{cf星野}询问{cf白子}的情况，{cf绫音}则回答老师已经到达了{cf白子}所在地。
+Ayane Hoshino
+OST_74
+BG_CS_PV4_128_2.jpg
+--
+迎接{cf白子}
+False
+||
+zh_Tw 1 2:24
+//
+老师打开被关闭的门，救出了{cf白子}。两人寒暄了几句，随后准备撤离。{cf绫音}为他们带路。
+Shiroko Ayane
+OST_74
+BG_CS_PV4_128_2.jpg
+;;

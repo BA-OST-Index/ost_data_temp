@@ -1,0 +1,492 @@
+;;
+0abfc8db-d305-4415-8e2e-4b26c5623b8a
+14
+991 1
+誘騙者決戰（１）
+{cf彩奈}向老師解釋和另一個{cf白子}以及誘騙者戰鬥的事。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+自爆就绪
+False
+//
+{cf彩奈}表示方舟已经进入自爆状态，目前则需要在众人赶来之前对付另一时间线上的{cf白子}同学。随后进入活动页面。
+Arona
+OST_157
+BG_FrenapatisLobby.jpg
+;;
+
+;;
+88a4267a-9a17-404d-9cde-b3f8ddfebd9c
+14
+991 2
+誘騙者決戰（２）
+被通知與另一個{cf白子}開始戰鬥了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+决战前
+False
+||
+zh_Tw 1 30
+//
+在记忆中，另一时间线上的{cf白子}别无他法，将枪对准了老师。
+ShirokoTerror
+
+BG_CS_S1Final_04.jpg
+//
+画面回到方舟，A.R.O.N.A.也表示，将启动战术支援支持诱骗者。
+ShirokoTerror Phrenapates Plana
+OST_157
+BG_FrenapatisLobby.jpg
+--
+与另一时间线上的{cf白子}的战斗
+True
+||
+zh_Tw 1 1:7
+//
+【此处为BOSS战，该{cf白子}的血量总计为1,999,998，剩下的两点实际为诱骗者的血量，将在后面一场战斗中出现；此战斗分为两个阶段。】
+
+OST_157
+
+;;
+
+;;
+01a42823-b676-4e70-a756-133d12f88f4c
+14
+991 3
+誘騙者決戰（３）
+老師擊倒了另一個{cf白子}和誘騙者。看見正巧抵達的阿拜多斯{cn對策委員會}一行人後，另一個{cf白子}開始哽咽。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+下不去的手
+False
+||
+zh_Tw 1 2:48
+//
+尽管将枪对准了老师，但{cf白子}无法控制自己的行动，子弹无一例外全部打偏。
+ShirokoTerror
+
+BG_CS_S1Final_04.jpg BG_CS_S1Final_41.jpg
+--
+战斗成功
+False
+||
+zh_Tw 1 3:26
+//
+诱骗者与另一时间线上的{cf白子}倒下。虚弱的{cf白子}承认了老师的胜利，对自己努力挣扎的意义感到怀疑。老师向倒地的另一位{cf白子}走去，询问究竟发生了什么事情。
+Phrenapates ShirokoTerror Arona Shiroko
+OST_135
+BG_FrenapatisLobby.jpg
+--
+“我是毁灭世界的存在”
+False
+||
+zh_Tw 1 4:16
+//
+{cf白子}对老师的问话感到不解。将世界导向灭亡、杀害老师、利用方舟、让这一时间线消失——{cf白子}始终不理解，为何即便在这种情况下老师仍会对她示好。这时，{cn对策委员会}等人赶到。
+ShirokoTerror
+OST_135
+BG_FrenapatisLobby.jpg
+--
+另一位{cf白子}的崩溃
+False
+||
+zh_Tw 1 5:23
+//
+{cn对策委员会}一行人赶到了决战地点，见到了两个时间线上的{cf白子}。另一时间线上的{cf白子}见到{cf星野}，脑中闪过种种以往与大家在一起的情景，最终抑制不住情感，全身心崩溃。一行人被镇住了。
+Ayane Nonomi Serika Hoshino Shiroko ShirokoTerror
+
+BG_FrenapatisLobby.jpg BG_CS_S1Final_16.jpg BG_CS_S1Final_17.jpg BG_CS_S1Final_42.jpg BG_CS_PV4_081.jpg BG_CS_PV4_083.jpg BG_CS_S1Final_43.jpg
+--
+“都是因为我的存在”
+False
+||
+zh_Tw 1 6:19
+//
+痛苦而崩溃的{cf白子}将所有事情归结到自己身上，认为是因为她的存在导致了世界的终结，而那是她根本不想、也不期待的事情。她对杀害了老师一事自责，咒骂自己是没用的人，但同时也说这是不得已的事情。
+ShirokoTerror
+OST_105
+BG_CS_S1Final_43_2.jpg BG_CS_S1Final_44.jpg
+--
+在车站与{cn对策委员会}的那一次
+False
+||
+zh_Tw 1 6:46
+//
+{cf白子}继续自责，将历史追溯到了自己第一次在车站遇见{cn对策委员会}众人的情形。她记不起{sn其他}的细节，但只记得被递过来的围巾和温暖的感觉。她后悔自己没有就那样死去，否则现在的一切都不会发生。
+ShirokoTerror
+OST_105
+BG_CS_S1Final_43_2.jpg BG_CS_S1Final_17.jpg
+//
+这一番言论让{cn对策委员会}众人为之一惊；老师安慰痛苦的{cf白子}。
+Ayane Serika Nonomi Hoshino Shiroko
+OST_105
+BG_FrenapatisLobby.jpg
+--
+{cf星野}的察觉
+False
+||
+zh_Tw 1 8:4
+//
+{cf星野}突然想起了什么，提到这位{cf白子}的眼神截然不同，不是{cf白子}能有的眼神——相反，她想起了一位故人：同为学生会的梦前辈。
+Hoshino
+OST_105
+BG_FrenapatisLobby.jpg BG_CS_S1Final_12.jpg
+//
+当时，在{cf星野}找到她时，梦前辈已在沙漠中消失不见，只留下了标志性的挡板。
+Hoshino
+
+BG_CS_PV4_082.jpg BG_CS_Abydos_12.jpg
+--
+{cf白子}的理解
+False
+||
+zh_Tw 1 8:52
+//
+当前时间线的{cf白子}逐渐理解一切。另一位{cf白子}突然注意到了{cf白子}身上的围巾，但她却表示已经弄丢了——原因、时间、地点，却都已全然忘记。
+Nonomi Ayane Shiroko Serika ShirokoTerror
+OST_35
+BG_FrenapatisLobby.jpg
+;;
+
+;;
+356566b6-56a8-4eea-baa1-63de840828f8
+14
+991 4
+誘騙者決戰（３）（1）
+除了{cf白子}之外，所有人都消失的另一個世界的{sn阿拜多斯}學園。色彩的光芒映照在面臨死亡的{cf白子}身上，無名的祭司走向{cf白子}。無名祭司命令{cf白子}去消滅傷痕累累專程來找{cf白子}的老師，但{cf白子}卻無法對老師下手。誘騙者從方舟再次站起來。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+病危的老师
+False
+||
+zh_Tw 1 9:39
+//
+在另一条时间线上，老师已经病危了75天；另一边，基沃托斯又出现了新的不明现象。
+
+
+
+--
+空无一人的教室
+False
+||
+zh_Tw 1 9:56
+//
+{cf白子}来到{cn对策委员会}的教室，发现空无一人。被沉重的债务所压垮，她想起了在急救室里插着各种监护仪器的老师、{cf星野}被破坏的光环、失踪74天的{cf茜香}、留下了一封信的{cf野乃美}——无助，淹没了全部。
+Shiroko ShirokoTerror
+OST_55
+BG_CommitteeRoom_Night.jpg BG_CS_S1Final_45.jpg BG_CS_S1Final_46.jpg BG_CS_S1Final_42.jpg BG_CS_S1Final_47.jpg BG_CS_S1Final_48.jpg
+--
+绝望的{cf白子}
+False
+||
+zh_Tw 1 11:00
+//
+老师昏迷的第100天，各路专家已经确认老师几乎不可能再苏醒。{cf白子}走在沙漠上，最重要的围巾被风吹走，但她已无暇顾及。{cf白子}因体力不支倒在沙滩上，想着自己的终结终于到来，一切即将结束——在最后一刻，{cf白子}思索着自己和大家的意义，最后得出结论：所有人，生来就是为了受苦的。
+Shiroko ShirokoTerror
+OST_55
+BG_Wilderness_Night.jpg BG_CS_S1Final_21.jpg BG_CS_S1Final_21_2.jpg BG_CS_PV4_081.jpg BG_CS_S1Final_49.jpg BG_CS_S1Final_49_2.jpg
+--
+色彩的降临
+False
+||
+zh_Tw 1 12:28
+//
+色彩降临到{cf白子}身边，扭曲了{cf白子}，使她展现出了作为“死神”的恐怖一面，并试图将其进一步变成“色彩的向导者”。无名祭司向{cf白子}解释了一切，指出带来死亡和毁灭将是她最终的目标。之后，基沃托斯各地受到袭击。
+Iridescence Shiroko ShirokoTerror NamelessPriest
+OST_156
+BG_CS_S1Final_20.jpg BG_CS_S1Final_49_3.jpg BG_CS_S1Final_49_4.jpg BG_Wilderness_Night.jpg BG_CS_S1Final_50.jpg
+--
+苏醒的老师
+False
+||
+zh_Tw 1 13:46
+//
+老师突然间苏醒，虽然全身几乎都不听使唤。老师自行解除了各种装置，而医生则对此大为震惊。这时医院也受到攻击，老师拿起了希迪姆箱子，接通电源，要求A.R.O.N.A.为其代行一部分事务。
+Plana
+
+BG_Ward_Night.jpg
+//
+无名祭司们注意到了老师正在前来，并对老师前来破坏计划感到担忧；他们决定先行破坏老师的箱子，这样老师最大的能力便不复存在。
+NamelessPriest
+
+
+--
+被破坏的箱子
+False
+||
+zh_Tw 1 15:33
+//
+{cf白子}用枪破坏了老师的箱子，但无法对老师下手。虽然子弹并未命中，老师此时却也动弹不得。{cf白子}向老师道歉，而就在此时色彩出现。
+ShirokoTerror
+
+BG_CS_S1Final_03.jpg BG_CS_S1Final_04.jpg BG_CS_S1Final_41.jpg BG_CS_S1Final_51.jpg
+--
+即将被侵蚀的老师
+False
+||
+zh_Tw 1 16:35
+//
+老师即将被色彩侵蚀。
+Iridescence ShirokoTerror
+OST_156
+BG_CS_S1Final_20.jpg
+//
+而此时，在方舟上，{cf彩奈}突然注意到能量开始向诱骗者集中，并指出在对方箱子失效的情况下，此时发动攻击最好不过。
+Arona Phrenapates
+OST_156
+BG_CS_PV4_144_2.jpg BG_CS_S1Final_52.jpg
+;;
+
+;;
+1c576580-b114-4a0e-ad01-2ef4c45a7ade
+14
+991 5
+誘騙者決戰（３）（2）
+如果不立刻啟動自爆程式，一切都會化為泡影。{cf陽葵}啟動了自爆程式。必須在方舟完全崩塌前擊倒誘騙者，然後逃出這個地方。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+紧急情况
+False
+||
+zh_Tw 1 17:32
+//
+集中的能量造成了方舟各地区的紧急情况。{cf优香}断定自爆程序必须启动，否则将再没有机会；然而{cf阳葵}表示程序尚不稳定，强行启动可能导致全员丧命。另一边，{cn美食研究会}和{cn游戏开发部}抵达控制室，{sn阿拜多斯}也将支持老师战斗。
+Hanako Ayane Kayoko Yuuka Himari Ako
+OST_157
+BG_UtnapishtimBridge_V5.jpg
+--
+逃脱程序的原理
+False
+||
+zh_Tw 1 18:00
+//
+在决定按下之前，{cf琳}向{cf莉央}询问逃脱程序的原理，后者则表示其是能利用方舟的计算使人跃迁到地面上的装置，并已根据人数设定为共能使用23人次——除了必须在爆炸前尽快转移。
+Rin Momoka Ayumu Rio
+OST_157
+BG_UtnapishtimBridge_V5.jpg
+--
+启动自爆程序
+False
+||
+zh_Tw 1 18:30
+//
+{cf琳}下令启动方舟自爆程序，并开始转移人员。{cf莉央}指出爆炸将可能波及生命守护者号，使其最后一起爆炸。{cf亚子}在爆炸中被瓦片击中，{cf佳世子}及时救出。
+Rin Ayane Himari Momoka Ayumu Himari Rio Ako Kayoko
+OST_157
+BG_UtnapishtimBridge_V5.jpg BG_CS_S1Final_53.jpg
+--
+开始人员撤离
+False
+||
+zh_Tw 1 19:13
+//
+根据安排，{cf亚子}、{cf佳世子}先行撤离，{cf琳}则表示要尽可能协助老师，因而自己将最后撤离。{cf桃香}、{cf步}随后撤离。在走之前，{cf阳葵}向{cf琳}表示，自己已经将“光之剑”——也就是{cf爱丽丝}所制造的方舟，与生命守护者号相连接，以备不时之需。{cf阳葵}、{cf花子}之后撤离。{cf优香}在将{cn游戏开发部}托付给{cf绫音}之后撤离。最后，{cf绫音}和{cf琳}共同支援老师。
+Kayoko Ako Yuuka Momoka Ayumu Rin Hanako Himari Ayane
+OST_157
+BG_UtnapishtimBridge_V5.jopg
+--
+尽快撤离
+False
+||
+zh_Tw 1 21:12
+//
+{cf绫音}向{cn美食研究会}、{cn游戏开发部}和{cn对策委员会}报告主舰上的撤离情况，督促在场所有人尽快撤离。{cf羽留奈}提出先让{cf风华}同学撤离。
+Ayane Haruna Fuuka
+OST_157
+BG_FrenapatisLobby.jpg
+--
+聚集的全部能量
+False
+||
+zh_Tw 1 21:36
+//
+{cf绫音}警告最后一波爆炸即将来临，而{cf琳}则注意到能量仍集中在诱骗者身上。不论如何，{cf琳}意识到大事不妙，要求老师立刻对峙诱骗者。
+Ayane Rin
+OST_157
+BG_UtnapishtimBridge_V5.jpg
+;;
+
+;;
+e814fe47-b5c0-4705-8d4f-b6f463550a9a
+14
+991 6
+誘騙者決戰（４）
+{cf琳}和{cf綾音}告訴老師說要使用生命守護者的主炮擊倒誘騙者，然後在方舟完全崩塌前讓所有的學生離開。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+远程支援
+False
+||
+zh_Tw 1 22:12
+//
+{cf琳}表示已经将主炮目标设定为诱骗者，但瞄准需要时间。{cf绫音}警告方舟将可能因主炮而支离破碎，要求攻击后立刻让所有学生避难。
+Rin Ayane
+OST_156
+BG_UtnapishtimBridge_V5.jpg
+--
+【一阶段】诱骗者的陨落
+True
+||
+zh_Tw 1 22:30
+//
+{cn对策委员会}、{cn美食研究会}和{cn游戏开发部}共12人集体面对诱骗者。诱骗者用身躯挡在已经倒地的{cf白子}后，承受着所有人的伤害。此阶段战斗，诱骗者血量达到了100,000,000即一亿血量，同时战斗倍速与自动战斗被禁用，技能仅有一个以{cf琳}的照片为标识的、COST为10且仅能使用一次的技能；该技能可对一名敌人造成一亿血量的伤害。
+Rin Hoshino Junko Akari Midori Momoi Serika Shiroko Yuzu Nonomi Izumi Aris Haruna Arona Plana
+OST_156
+
+;;
+
+;;
+11112e9d-5235-4d52-9ce7-346b8baf5949
+14
+991 7
+誘騙者決戰（５）
+老師成功擊倒了誘騙者。必須及時和剩餘的學生們一起逃往陸地。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+紧急撤离正式开始
+False
+||
+zh_Tw 1 23:40
+//
+主炮的发射使方舟更加不稳定，{cf绫音}先行撤离。
+Ayane Rin
+OST_156
+BG_UtnapishtimBridge_V5.jpg
+//
+{cf彩奈}保证由她启动逃脱程序。
+Arona
+OST_156
+BG_AronaRoom_Night.jpg
+---
+【二阶段】所有人的撤离
+True
+||
+zh_Tw 1 24:16
+//
+此阶段战斗没有任何实际作用，诱骗者的血量被锁死在2点（对应之前一场战斗{cf白子}的血量为1,999,998）。唯一可用技能为{cf彩奈}图标的撤离技能，可对单个目标使用，总可用次数13次，每次消耗1 COST。
+Arona Rin Hoshino Junko Akari Midori Momoi Serika Shiroko Yuzu Nonomi Izumi Aris Haruna Arona Plana
+OST_156
+
+;;
+
+;;
+931978f5-478a-449f-9e95-5ec7fa731e73
+14
+991 7
+誘騙者決戰（６）
+誘騙者拜託老師照顧自己的學生，老師也回答了。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV1Th4y157Ba/?p=7 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+最后的爆炸
+False
+||
+zh_Tw 1 25:32
+//
+在见到全部学生撤离后，{cf琳}对自己使用了一次撤离程序。随后，方舟发生巨大爆炸。
+Rin
+
+BG_UtnapishtimBridge_V5.jpg
+--
+大人的责任
+False
+||
+zh_Tw 1 25:51
+//
+画面转回到即将被侵蚀的那一刻。{cf白子}在老师面前痛哭流涕。老师虽然不能说话，但还是决心要尽到大人的责任、老师的义务。
+ShirokoTerror
+
+BG_CS_S1Final_51.jpg
+--
+色彩的接触
+False
+||
+zh_Tw 1 26:30
+//
+色彩最终与老师接触，发生反应，使老师被扭曲成了“色彩的向导者”，代替了{cf白子}行使了这一职责。无名祭司无法理解这一切为何发生，但表示只要能拿到箱子的力量就好，并将现在的老师称为“虚伪的老师”即“诱骗者”。这同时让老师付出了永远听从祭司命令、箱子力量将被他们所用的代价。
+Iridescence NamelessPriest
+OST_155
+BG_CS_S1Final_20.jpg
+--
+诱骗者的话
+False
+||
+zh_Tw 1 27:11
+//
+画面回到方舟上。跪坐在地上的诱骗者——另一时间线上的老师——好像有话要对老师说。
+Phrenapates
+OST_155
+BG_CS_S1Final_54.jpg
+--
+“这不是你的错，{cf白子}”
+False
+||
+zh_Tw 1 27:21
+//
+【画面闪回到侵蚀的那一刻，老师向{cf白子}吐出了自己的肺腑之言】这不是你的错，{cf白子}。/不要为自己的诞生——感到后悔、责备自己。/不要否定——想要获得幸福的心情。/不要说出——放弃生存是从痛苦中解放，这种悲伤的话。/不要认为——自己是为了受苦而诞生。/绝对不是这样的。/无论是怎么样的学生(孩子)，都没有必要这么想。/如果孩子们的“世界”里充满着苦痛——/如果孩子们希望，能够结束活在绝望与悲伤深渊里的人生——/如果那样的愿望存在于这个世界的某处——/那么——/该承担错误的是这个“世界”的负责人，而不是孩子们——/那是世界的“背负责任之人”应该承担的责任。/即使犯下罪行，即使犯下无法饶恕的过错——/由学生(孩子)背负责任的世界，根本不应该存在。/无论在什么时候——/那都是和孩子们一起生活的*大人*应该背负的责任。“……责任，由我来承担。”
+ShirokoTerror
+OST_155
+BG_CS_S1Final_49.jpg BG_CS_S1Final_45.jpg BG_CS_S1Final_41.jpg BG_CS_S1Final_44.jpg BG_CS_S1Final_51.jpg BG_CS_S1Final_55.jpg BG_CS_S1Final_43_2.jpg BG_CS_S1Final_17.jpg BG_CS_S1Final_21.jpg BG_CS_S1Final_56.jpg
+--
+发生侵蚀
+False
+||
+zh_Tw 1 28:39
+//
+无论{cf白子}如何挣扎，老师最终被色彩侵蚀。
+Iridescence ShirokoTerror
+OST_155
+BG_CS_S1Final_20.jpg
+//
+无名祭司嘲讽了老师的言论，对老师认不清面前的学生、孩子已经成神而感到好笑。老师则暗自否定了这一切，指出她只是一个孩子，一个在我的“世界”里受苦的孩子。无名祭司提醒老师这么做会让他付出莫高的代价，而老师则表示，“因为那是，*大人*该做的事。”
+NamelessPriest
+OST_155
+
+--
+老师的碎碎念
+False
+||
+zh_Tw 1 29:31
+//
+“你想变成什么样的存在，由你自己决定——”/“学生们期望的*梦想*”/“*谢谢你*一直这么努力”/“{cf弥香}才*不是什么魔女*”/“去吧，出了事我会*负责*的”/“——在今后的{cf未来}里，有着*无限的可能性*啊”。老师最后重申了作为大人、老师的身份与责任义务，并表示自己将义无反顾。
+
+OST_155
+BG_CS_S1Final_57.jpg BG_CS_S1Final_58.jpg BG_CS_S1Final_59.jpg BG_CS_S1Final_60.jpg BG_CS_S1Final_61.jpg BG_CS_S1Final_62.jpg BG_CS_S1Final_63.jpg BG_CS_S1Final_20.jpg
+--
+在侵蚀后
+False
+||
+zh_Tw 1 29:47
+//
+老师成为了色彩的向导者。被打碎的箱子启动，A.R.O.N.A.表示理解老师的行动、悉听尊便，表示即使那样将会迎来世界的终焉。
+ShirokoTerror Plana
+
+BG_CS_S1Final_64.jpg BG_CS_S1Final_23_2.jpg
+--
+诱骗者的话
+False
+||
+zh_Tw 1 30:13
+//
+老师倾听诱骗者的话：“学生们……就拜托你了。”
+Phrenapates
+OST_155
+BG_CS_S1Final_54.jpg
+--
+【三阶段】{cf白子}的撤离
+True
+||
+zh_Tw 1 30:36
+//
+{cf琳}要求老师尽快撤离。但老师没有这么做，而是把最后的传送机会给了另一时间线上的{cf白子}，履行了作为老师、作为大人的义务。{cf彩奈}大为震惊，而诱骗者与方舟也就此陨落。战斗结束后，活动结束，剧情返回到主线。
+Rin Arona ShirokoTerror Phrenapates
+
+
+;;

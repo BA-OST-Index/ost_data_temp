@@ -1,0 +1,259 @@
+;;
+69010b0a-866f-4b80-bcd8-fb35456a8189
+15
+Yuuka, 2
+無法計算的價值
+{cf優香}從欠{sn千年}學園債款的企業家收到昂貴的畫作為擔保。為了看懂那幅看起來像塗鴉的抽象畫的價值，她傷腦筋許久。在老師的指點下才發現那幅抽象畫是假的。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV15k4y1a7QZ?p=2 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+[Momotalk] 超出能力的问题
+False True
+//
+{cf优香}向老师求助，表示遇到了一个超出她计算能力的问题，希望老师能给予帮助。
+Yuuka
+
+
+--
+{sn千年}财务问题
+False False
+||
+zh_Tw 1 22
+//
+{cf优香}叫老师前来，希望能解决与{sn千年}财务有关的一个问题。
+Yuuka
+OST_13
+BG_ClassRoom2.jpg
+--
+一幅画的价值
+False False
+||
+zh_Tw 1 35
+//
+{cf优香}向老师展示了一幅抽象画，希望老师能帮忙理解这是什么。{cf优香}解释这幅画是由一位希望向{sn千年}借钱的企业家所有，价值高达一亿日元。
+Yuuka
+OST_13
+BG_Classroom2.jpg
+--
+没有标准的价值
+False False
+||
+zh_Tw 1 01:13
+//
+{cf优香}对这幅画的价格非常不解，认为无论如何，价格绝不可能会这么高。老师向{cf优香}解释，画作是不能用数学公式衡量的。{cf优香}听后释怀，但还是想知道老师的出价。
+Yuuka
+OST_13
+BG_ClassRoom2.jpg
+--
+一张废纸
+False False
+||
+zh_Tw 1 01:32
+//
+老师意外给出了零元的价格。{cf优香}这才了解到这幅画是个赝品。
+Yuuka
+OST_3
+BG_ClassRoom2.jpg
+;;
+
+;;
+b7abb74e-e9e3-4f10-8dea-7815751dbf18
+15
+Yuuka 3
+人體計算機
+老師從不良學生手中搶來備用品，但其單位制卻和{et夏萊}的備用品不同，所以正為此事傷腦筋。{cf優香}見狀便發揮快速的計算能力幫助老師。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV15k4y1a7QZ?p=2 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+[Momotalk] {sn三一}和{sn格黑娜}的混乱管理
+False True
+//
+{cf优香}向老师诉苦，表示这次收缴的许多黑市武器都流出于{sn三一}和{sn格黑娜}，甚至有的还有校徽标志。她表示{sn千年}的管理就很到位，不过老师有些怀疑。
+Yuuka
+
+
+--
+有问题的库存清单
+False False
+||
+zh_Tw 1 33
+//
+{cf优香}听说老师最近搜查了不良分子的武器库，取得了很多武器。然而由于计量单位问题，武器不仅无法计数，也无法使用计算机处理。{cf优香}表示小菜一碟，老师要{cf优香}演示一遍。
+Yuuka
+OST_28
+BG_MainOffice.jpg
+--
+整理好的清单
+False False
+||
+zh_Tw 1 01:15
+//
+如{cf优香}所述，这份清单居然真的在三十分钟内整理好了。老师把另外一些文件交给{cf优香}。
+Yuuka
+OST_28
+BG_MainOffice.jpg
+--
+{et夏莱}定期报告
+False False
+||
+zh_Tw 1 01:32
+//
+{cf优香}发现老师递过来的文件是堆积了三个月的{et夏莱}定期报告文件。虽然嘴上说着不愿意，{cf优香}最后还是跟老师整理了文件。
+Yuuka
+OST_28
+BG_MainOffice.jpg
+;;
+
+;;
+e3947d2e-1ecb-4dca-b70a-36610bb8f70f
+15
+Yuuka 4
+睡過頭
+{cf優香}處理學生會的事忙到很晚，結果耽誤到{et夏萊}值日生的工作。{cf優香}提及之前約定好的事，表示甘願受罰。但老師卻為疲累的{cf優香}設想，讓她去午睡。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV15k4y1a7QZ?p=4 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+[Momotalk] 睡过头的老师
+False True
+//
+{cf优香}听说老师今天又睡过头了，批评老师，表示要立个规矩：如果老师睡过头，老师就要听{cf优香}的；老师反问如果{cf优香}睡过头了怎么办，{cf优香}则表示她也会相应的听从老师。――总之，明天大家都不能迟到。
+Yuuka
+
+
+--
+繁忙的工作
+False False
+||
+zh_Tw 1 31
+//
+虽然嘴上说着老师和{sn其他}学生作息不规律、天天迟到，但工作到深夜的{cf优香}不知不觉睡着了。
+Yuuka
+OST_16
+BG_ClassRoom2_Night.jpg
+--
+睡过头
+False False
+||
+zh_Tw 1 57
+//
+{cf优香}一觉睡到大清早，发现已经到了上午11点，连忙赶往{et夏莱}。
+Yuuka
+
+BG_ClassRoom2.jpg
+--
+迟到的{cf优香}
+False False
+||
+zh_Tw 1 01:15
+//
+{cf优香}向老师抱歉，表示自己说不要迟到的却反而迟到了。{cf优香}要老师惩罚自己，但老师只是让{cf优香}去休息区睡个午觉――{cf优香}起初不肯，但在老师的劝说下照做。之后老师整理了{cn研讨会}的{sn其他}文件。
+Yuuka
+OST_22
+BG_ClassRoom2.jpg
+;;
+
+;;
+b825de49-c608-4ef8-8ad2-91c405a5bbda
+15
+Yuuka 5
+撲克臉
+輕鬆玩撲克牌的{cf優香}和老師。{cf優香}打牌時很認真計算機率，奇怪的是不管怎麼玩就是輸。遊戲結束後，{cf優香}在整理桌面時發現老師對牌動了手腳，因此大發雷霆。
+||
+zh_Tw 2 https://www.bilibili.com/video/BV15k4y1a7QZ?p=5 [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+[Momotalk]一套桌游
+False True
+//
+{cf优香}想把{et夏莱}休息室里放着的一套桌游拿走，老师欣然同意，同时对{cf优香}居然玩游戏感到些许惊讶。
+Yuuka
+
+
+--
+玩扑克
+False False
+||
+zh_Tw 1 32
+//
+老师和{cf优香}在间隔时间玩扑克。{cf优香}先给老师打了预防针，表示扑克本质上就是赌博，赌博就是概率问题，而她很擅长计算概率。
+Yuuka
+OST_16
+BG_ClassRoom2.jpg
+--
+一切皆有可能
+False False
+||
+zh_Tw 1 01:01
+//
+三局下来，不论{cf优香}怎么判断老师的扑克牌组合概率有多么低，老师次次都能压制{cf优香}。
+Yuuka
+OST_18
+BG_ClassRoom2.jpg
+--
+计算的失误
+False False
+||
+zh_Tw 1 02:01
+//
+{cf优香}最后不得不承认在扑克牌中计算概率用处不大，老师告诉{cf优香}更多的靠直觉就好。然而就在收拾棋牌的时候，{cf优香}突然注意到这副扑克中牌似乎出现了两副牌。
+Yuuka
+OST_16
+BG_ClassRoom2.jpg
+--
+老师作弊啊！
+False False
+||
+zh_Tw 1 2:31
+//
+{cf优香}这才发现老师把另一幅牌藏在了袖口里。{cf优香}说老师作弊，而老师则用话搪塞了过去。
+Yuuka
+OST_27
+BG_ClassRoom2.jpg
+;;
+
+;;
+b70872dc-807b-4b4f-9a92-2489536ea950
+15
+Yuuka 6
+心算女王
+{cf優香}為了啟發頭腦而向老師提出練習心算。老師雖然很有自信地講出答案。其實只是隨意地講出個數字罷了……
+||
+zh_Tw 2 https://www.bilibili.com/video/BV15k4y1a7QZ?p=5  [STORY_SOURCE_ZH_TW_MODEJUN]
+--
+[Momotalk] 由数字组成的世界
+False True
+//
+长期与数字打交道的{cf优香}时常会觉得世界都是由数字组合而成的。老师询问{cf优香}是否是计算结果又出了问题，{cf优香}表示是计算器没电了所致。
+Yuuka
+
+
+--
+总是算不对
+False False
+||
+zh_Tw 1 32
+//
+因为{et夏莱}有事，老师拜访了{sn千年}。这时{cf优香}正在为资产负债表的计算而苦恼，因为每次计算的结果都不一致。
+Yuuka
+OST_38
+BG_ClassRoom2.jpg
+--
+{cf优香}的计算器
+False False
+||
+zh_Tw 1 50
+//
+老师对{cf优香}的计算器感兴趣起来，{cf优香}向老师简单介绍了一下它的功能。{cf优香}提到因为它功能过于强大，担心自己以后会愈发依赖于它，老师则让{cf优香}放下心来。说到心算，{cf优香}突然提出要测试老师的心算能力。
+Yuuka
+OST_38
+BG_ClassRoom2.jpg
+--
+老师的心算能力
+False False
+||
+zh_Tw 1 1:42
+//
+老师接受了{cf优香}的挑战，表示自己的能力也很强。结果老师用随口说说的答案唬过了{cf优香}，{cf优香}后来才反应过来。{cf优香}提出要为老师设计一套活化大脑的训练方案，虽然老师非常不想。
+Yuuka
+OST_38
+BG_ClassRoom2.jpg
+;;
